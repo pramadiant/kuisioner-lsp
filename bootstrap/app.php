@@ -14,5 +14,16 @@ return Application::configure(basePath: dirname(__DIR__))
         //
     })
     ->withExceptions(function (Exceptions $exceptions): void {
-        //
     })->create();
+
+if (isset($_SERVER['VERCEL'])) {
+    $app->useStoragePath('/tmp/storage');
+    $storagePath = '/tmp/storage';
+    foreach (['app', 'framework/views', 'framework/cache', 'framework/cache/data', 'framework/sessions', 'logs'] as $dir) {
+        if (!is_dir("$storagePath/$dir")) {
+            @mkdir("$storagePath/$dir", 0777, true);
+        }
+    }
+}
+
+return $app;
