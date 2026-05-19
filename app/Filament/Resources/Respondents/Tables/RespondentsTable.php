@@ -151,18 +151,18 @@ class RespondentsTable
                     ->searchable(),
             ])
             ->recordActions([
-                \Filament\Tables\Actions\ViewAction::make(),
-                \Filament\Tables\Actions\EditAction::make(),
+                \Filament\Actions\ViewAction::make(),
+                \Filament\Actions\EditAction::make(),
             ])
             ->headerActions([
-                \Filament\Tables\Actions\ExportAction::make()
+                \Filament\Actions\ExportAction::make()
                     ->exporter(\App\Filament\Exports\RespondentExporter::class)
                     ->label('Export Semua Data (CSV)'),
             ])
             ->bulkActions([
-                \Filament\Tables\Actions\BulkActionGroup::make([
-                    \Filament\Tables\Actions\DeleteBulkAction::make(),
-                    \Filament\Tables\Actions\ExportBulkAction::make()
+                \Filament\Actions\BulkActionGroup::make([
+                    \Filament\Actions\DeleteBulkAction::make(),
+                    \Filament\Actions\ExportBulkAction::make()
                         ->exporter(\App\Filament\Exports\RespondentExporter::class)
                         ->label('Export Terpilih (CSV)'),
                 ]),
