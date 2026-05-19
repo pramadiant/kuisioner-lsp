@@ -188,6 +188,20 @@
                         <label class="block text-sm font-medium text-gray-700">Tahun Lulus</label>
                         <input type="number" wire:model="tahun_lulus" min="2015" max="2026" class="mt-1 block w-full rounded-md border p-2" placeholder="2022">
                     </div>
+                    
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700">IPK Terakhir</label>
+                        <input type="number" step="0.01" wire:model="ipk" min="2.5" max="4.00" class="mt-1 block w-full rounded-md border p-2" placeholder="Contoh: 3.50">
+                    </div>
+                    
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700">Melanjutkan Pendidikan (S2/S3 dll)?</label>
+                        <select wire:model="melanjutkan_pendidikan" class="mt-1 block w-full rounded-md border p-2">
+                            <option value="">-- Pilih --</option>
+                            <option value="Ya">Ya</option>
+                            <option value="Tidak">Tidak</option>
+                        </select>
+                    </div>
                 </div>
             </div>
 
@@ -294,10 +308,153 @@
                                 <label class="block text-sm font-medium text-gray-700">Jenis Pekerjaan/Jabatan (ISCO 2/3 Digit)</label>
                                 <input type="text" wire:model="jenis_pekerjaan" class="mt-1 block w-full rounded-md border p-2" placeholder="Tuliskan nama jabatan...">
                             </div>
+
+                            <div class="col-span-1 md:col-span-2 mt-4">
+                                <h4 class="font-semibold text-gray-700 mb-2 border-b pb-1">Data Perusahaan</h4>
+                            </div>
+
+                            <div class="col-span-1 md:col-span-2">
+                                <label class="block text-sm font-medium text-gray-700">Nama Perusahaan/Instansi</label>
+                                <input type="text" wire:model="nama_perusahaan" class="mt-1 block w-full rounded-md border p-2" placeholder="Tuliskan nama perusahaan...">
+                            </div>
+
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Jenis Perusahaan</label>
+                                <select wire:model="jenis_perusahaan" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="Perusahaan berorientasi profit">Perusahaan berorientasi profit (PT, CV, dll)</option>
+                                    <option value="Institusi pemerintah">Institusi pemerintah</option>
+                                    <option value="Organisasi nirlaba/Internasional">Organisasi nirlaba/Internasional</option>
+                                    <option value="Wirausaha/usaha rumahan">Wirausaha/usaha rumahan</option>
+                                </select>
+                            </div>
+
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Jumlah Karyawan</label>
+                                <select wire:model="jumlah_karyawan" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="1 s.d 4 karyawan">1 s.d 4 karyawan</option>
+                                    <option value="5 s.d 19 karyawan">5 s.d 19 karyawan</option>
+                                    <option value="20 s.d 99 karyawan">20 s.d 99 karyawan</option>
+                                    <option value="Lebih dari 100 karyawan">Lebih dari 100 karyawan</option>
+                                </select>
+                            </div>
+
+                            <div class="col-span-1 md:col-span-2">
+                                <label class="block text-sm font-medium text-gray-700">Bidang Perusahaan Bergerak</label>
+                                <input type="text" wire:model="bidang_perusahaan" class="mt-1 block w-full rounded-md border p-2" placeholder="Contoh: Pertanian, Jasa Keuangan, dll...">
+                            </div>
                         </div>
                     @endif
                 </div>
             </div>
+            
+            <!-- BAGIAN 5: EVALUASI TRACER STUDY & SERTIFIKASI BNSP -->
+            @if($bekerja_seminggu_terakhir === 'Ya' || $punya_pekerjaan_tapi_tidak_bekerja === 'Ya')
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-bold mb-4 text-indigo-600 border-b pb-2">Bagian 5: Evaluasi Tracer Study & Dampak Sertifikasi BNSP</h3>
+                
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700">Apakah bidang pekerjaan anda saat ini sudah sesuai dengan bidang keahlian (ijazah)?</label>
+                        <select wire:model="kesesuaian_bidang_ijazah" class="mt-1 block w-full rounded-md border p-2">
+                            <option value="">-- Pilih --</option>
+                            <option value="Sangat Sesuai">Sangat Sesuai</option>
+                            <option value="Sesuai">Sesuai</option>
+                            <option value="Kurang Sesuai">Kurang Sesuai</option>
+                            <option value="Tidak Sesuai">Tidak Sesuai</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700">Apakah saat ini pekerjaan anda sudah sesuai dengan jenjang pendidikan anda?</label>
+                        <select wire:model="kesesuaian_jenjang_pendidikan" class="mt-1 block w-full rounded-md border p-2">
+                            <option value="">-- Pilih --</option>
+                            <option value="Sangat Sesuai">Sangat Sesuai</option>
+                            <option value="Sesuai">Sesuai</option>
+                            <option value="Kurang Sesuai">Kurang Sesuai</option>
+                            <option value="Tidak Sesuai">Tidak Sesuai</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700">Jenjang pendidikan mana yang paling sesuai untuk pekerjaan anda saat ini?</label>
+                        <select wire:model="jenjang_paling_sesuai" class="mt-1 block w-full rounded-md border p-2">
+                            <option value="">-- Pilih --</option>
+                            <option value="Setingkat Lebih Tinggi">Setingkat Lebih Tinggi</option>
+                            <option value="Tingkat yang Sama">Tingkat yang Sama</option>
+                            <option value="Setingkat Lebih Rendah">Setingkat Lebih Rendah</option>
+                            <option value="Tidak Perlu Pendidikan Tinggi">Tidak Perlu Pendidikan Tinggi</option>
+                        </select>
+                    </div>
+
+                    @if($dapat_sertifikat_bnsp === 'Ya')
+                    <div class="mt-6 border-t pt-4">
+                        <h4 class="font-semibold text-gray-700 mb-4">Dampak Sertifikat BNSP</h4>
+                        
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Sertifikat BNSP membantu dapat kerja lebih mudah?</label>
+                                <select wire:model="bnsp_mudahkan_dapat_kerja" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="Sangat Membantu">Sangat Membantu</option>
+                                    <option value="Membantu">Membantu</option>
+                                    <option value="Tidak Berpengaruh">Tidak Berpengaruh</option>
+                                </select>
+                            </div>
+                            
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Perusahaan menghargai sertifikat BNSP?</label>
+                                <select wire:model="perusahaan_hargai_bnsp" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="Ya">Ya</option>
+                                    <option value="Tidak">Tidak</option>
+                                </select>
+                            </div>
+                            
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Sertifikat BNSP berdampak pd peningkatan karir?</label>
+                                <select wire:model="bnsp_tingkatkan_karir" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="Ya">Ya</option>
+                                    <option value="Tidak">Tidak</option>
+                                </select>
+                            </div>
+                            
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Sertifikat BNSP berdampak pd peningkatan gaji?</label>
+                                <select wire:model="bnsp_tingkatkan_gaji" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="Ya">Ya</option>
+                                    <option value="Tidak">Tidak</option>
+                                </select>
+                            </div>
+                            
+                            <div>
+                                <label class="block text-sm font-medium text-gray-700">Pekerjaan sesuai dengan bidang sertifikat BNSP?</label>
+                                <select wire:model="kesesuaian_bidang_bnsp" class="mt-1 block w-full rounded-md border p-2">
+                                    <option value="">-- Pilih --</option>
+                                    <option value="Ya">Ya</option>
+                                    <option value="Tidak">Tidak</option>
+                                </select>
+                            </div>
+                            
+                            <div class="col-span-1 md:col-span-2 grid grid-cols-1 md:grid-cols-2 gap-4 mt-2">
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Jabatan sebelum punya sertifikat BNSP</label>
+                                    <input type="text" wire:model="jabatan_sebelum_bnsp" class="mt-1 block w-full rounded-md border p-2" placeholder="...">
+                                </div>
+                                <div>
+                                    <label class="block text-sm font-medium text-gray-700">Jabatan setelah punya sertifikat BNSP</label>
+                                    <input type="text" wire:model="jabatan_setelah_bnsp" class="mt-1 block w-full rounded-md border p-2" placeholder="...">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    @endif
+                </div>
+            </div>
+            @endif
 
             <button type="submit" class="w-full flex justify-center py-3 px-4 border border-transparent rounded-md shadow-sm text-lg font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
                 Kirim Kuisioner

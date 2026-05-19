@@ -41,6 +41,8 @@ class FormKuisioner extends Component
     public $perguruan_tinggi;
     public $program_studi;
     public $tahun_lulus;
+    public $ipk;
+    public $melanjutkan_pendidikan;
     
     // Sertifikasi
     public $pernah_sertifikasi_lsp;
@@ -58,6 +60,22 @@ class FormKuisioner extends Component
     public $jumlah_jam_kerja;
     public $ada_lembur;
     public $jenis_pekerjaan;
+    public $nama_perusahaan;
+    public $jenis_perusahaan;
+    public $jumlah_karyawan;
+    public $bidang_perusahaan;
+    
+    // Bagian 5: Evaluasi Tracer Study
+    public $kesesuaian_bidang_ijazah;
+    public $kesesuaian_jenjang_pendidikan;
+    public $jenjang_paling_sesuai;
+    public $bnsp_mudahkan_dapat_kerja;
+    public $perusahaan_hargai_bnsp;
+    public $bnsp_tingkatkan_karir;
+    public $jabatan_sebelum_bnsp;
+    public $jabatan_setelah_bnsp;
+    public $bnsp_tingkatkan_gaji;
+    public $kesesuaian_bidang_bnsp;
 
     public function rules()
     {
@@ -157,6 +175,22 @@ class FormKuisioner extends Component
             'jumlah_jam_kerja' => $this->jumlah_jam_kerja,
             'ada_lembur' => $this->ada_lembur,
             'jenis_pekerjaan' => $this->jenis_pekerjaan,
+            'ipk' => $this->ipk,
+            'melanjutkan_pendidikan' => $this->melanjutkan_pendidikan,
+            'nama_perusahaan' => $this->nama_perusahaan,
+            'jenis_perusahaan' => $this->jenis_perusahaan,
+            'jumlah_karyawan' => $this->jumlah_karyawan,
+            'bidang_perusahaan' => $this->bidang_perusahaan,
+            'kesesuaian_bidang_ijazah' => $this->kesesuaian_bidang_ijazah,
+            'kesesuaian_jenjang_pendidikan' => $this->kesesuaian_jenjang_pendidikan,
+            'jenjang_paling_sesuai' => $this->jenjang_paling_sesuai,
+            'bnsp_mudahkan_dapat_kerja' => $this->bnsp_mudahkan_dapat_kerja,
+            'perusahaan_hargai_bnsp' => $this->perusahaan_hargai_bnsp,
+            'bnsp_tingkatkan_karir' => $this->bnsp_tingkatkan_karir,
+            'jabatan_sebelum_bnsp' => $this->jabatan_sebelum_bnsp,
+            'jabatan_setelah_bnsp' => $this->jabatan_setelah_bnsp,
+            'bnsp_tingkatkan_gaji' => $this->bnsp_tingkatkan_gaji,
+            'kesesuaian_bidang_bnsp' => $this->kesesuaian_bidang_bnsp,
         ]);
 
         $this->isSubmitted = true;

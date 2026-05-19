@@ -36,7 +36,8 @@ return new class extends Migration
             $table->string('perguruan_tinggi')->nullable();
             $table->string('program_studi')->nullable();
             $table->integer('tahun_lulus')->nullable();
-            
+            $table->decimal('ipk', 4, 2)->nullable();
+            $table->enum('melanjutkan_pendidikan', ['Ya', 'Tidak'])->nullable();
             // Bagian 3: Sertifikasi Kompetensi
             $table->enum('pernah_sertifikasi_lsp', ['Ya', 'Tidak']);
             $table->enum('dapat_sertifikat_bnsp', ['Ya', 'Tidak'])->nullable();
@@ -53,6 +54,25 @@ return new class extends Migration
             $table->integer('jumlah_jam_kerja')->nullable();
             $table->enum('ada_lembur', ['Ya', 'Tidak'])->nullable();
             $table->string('jenis_pekerjaan')->nullable();
+            $table->string('nama_perusahaan')->nullable();
+            $table->text('jenis_perusahaan')->nullable();
+            $table->string('jumlah_karyawan')->nullable();
+            $table->string('bidang_perusahaan')->nullable();
+            
+            // Bagian 5: Evaluasi Tracer Study & Dampak Sertifikasi
+            $table->string('kesesuaian_bidang_ijazah')->nullable();
+            $table->string('kesesuaian_jenjang_pendidikan')->nullable();
+            $table->string('jenjang_paling_sesuai')->nullable();
+            
+            $table->string('bnsp_mudahkan_dapat_kerja')->nullable();
+            $table->string('perusahaan_hargai_bnsp')->nullable();
+            $table->string('bnsp_tingkatkan_karir')->nullable();
+            
+            $table->string('jabatan_sebelum_bnsp')->nullable();
+            $table->string('jabatan_setelah_bnsp')->nullable();
+            
+            $table->string('bnsp_tingkatkan_gaji')->nullable();
+            $table->string('kesesuaian_bidang_bnsp')->nullable();
             
             $table->timestamps();
         });

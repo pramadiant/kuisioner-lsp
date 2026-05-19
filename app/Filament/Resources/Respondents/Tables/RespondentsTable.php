@@ -82,6 +82,39 @@ class RespondentsTable
                     ->badge(),
                 TextColumn::make('jenis_pekerjaan')
                     ->searchable(),
+                TextColumn::make('ipk')
+                    ->numeric()
+                    ->sortable(),
+                TextColumn::make('melanjutkan_pendidikan')
+                    ->badge(),
+                TextColumn::make('nama_perusahaan')
+                    ->searchable(),
+                TextColumn::make('jenis_perusahaan')
+                    ->searchable(),
+                TextColumn::make('jumlah_karyawan')
+                    ->searchable(),
+                TextColumn::make('bidang_perusahaan')
+                    ->searchable(),
+                TextColumn::make('kesesuaian_bidang_ijazah')
+                    ->searchable(),
+                TextColumn::make('kesesuaian_jenjang_pendidikan')
+                    ->searchable(),
+                TextColumn::make('jenjang_paling_sesuai')
+                    ->searchable(),
+                TextColumn::make('bnsp_mudahkan_dapat_kerja')
+                    ->searchable(),
+                TextColumn::make('perusahaan_hargai_bnsp')
+                    ->searchable(),
+                TextColumn::make('bnsp_tingkatkan_karir')
+                    ->searchable(),
+                TextColumn::make('jabatan_sebelum_bnsp')
+                    ->searchable(),
+                TextColumn::make('jabatan_setelah_bnsp')
+                    ->searchable(),
+                TextColumn::make('bnsp_tingkatkan_gaji')
+                    ->searchable(),
+                TextColumn::make('kesesuaian_bidang_bnsp')
+                    ->searchable(),
                 TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
@@ -92,15 +125,46 @@ class RespondentsTable
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
-                //
+                \Filament\Tables\Filters\Filter::make('created_at')
+                    ->form([
+                        \Filament\Forms\Components\DatePicker::make('created_from')->label('Dari Tanggal'),
+                        \Filament\Forms\Components\DatePicker::make('created_until')->label('Sampai Tanggal'),
+                    ])
+                    ->query(function (\Illuminate\Database\Eloquent\Builder $query, array $data): \Illuminate\Database\Eloquent\Builder {
+                        return $query
+                            ->when(
+                                $data['created_from'],
+                                fn (\Illuminate\Database\Eloquent\Builder $query, $date): \Illuminate\Database\Eloquent\Builder => $query->whereDate('created_at', '>=', $date),
+                            )
+                            ->when(
+                                $data['created_until'],
+                                fn (\Illuminate\Database\Eloquent\Builder $query, $date): \Illuminate\Database\Eloquent\Builder => $query->whereDate('created_at', '<=', $date),
+                            );
+                    }),
+                \Filament\Tables\Filters\SelectFilter::make('province_code')
+                    ->label('Provinsi')
+                    ->options(fn () => \Laravolt\Indonesia\Models\Province::pluck('name', 'code')->toArray())
+                    ->searchable(),
+                \Filament\Tables\Filters\SelectFilter::make('city_code')
+                    ->label('Kabupaten/Kota')
+                    ->options(fn () => \Laravolt\Indonesia\Models\City::pluck('name', 'code')->toArray())
+                    ->searchable(),
             ])
             ->recordActions([
-                ViewAction::make(),
-                EditAction::make(),
+                \Filament\Tables\Actions\ViewAction::make(),
+                \Filament\Tables\Actions\EditAction::make(),
             ])
-            ->toolbarActions([
-                BulkActionGroup::make([
-                    DeleteBulkAction::make(),
+            ->headerActions([
+                \Filament\Tables\Actions\ExportAction::make()
+                    ->exporter(\App\Filament\Exports\RespondentExporter::class)
+                    ->label('Export Semua Data (CSV)'),
+            ])
+            ->bulkActions([
+                \Filament\Tables\Actions\BulkActionGroup::make([
+                    \Filament\Tables\Actions\DeleteBulkAction::make(),
+                    \Filament\Tables\Actions\ExportBulkAction::make()
+                        ->exporter(\App\Filament\Exports\RespondentExporter::class)
+                        ->label('Export Terpilih (CSV)'),
                 ]),
             ]);
     }
