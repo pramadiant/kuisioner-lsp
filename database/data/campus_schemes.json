@@ -1,0 +1,2649 @@
+[
+    {
+        "campus": "AKPINDO-STEIN",
+        "schemes": [
+            "Baker",
+            "Chef de Partie-Pastry",
+            "Commis Chef",
+            "COMMIS PASTRY",
+            "Demi Chef",
+            "Floor Supervisor",
+            "Front Office Supervisor",
+            "Head Waiter",
+            "Pelayanan Makanan dan Minuman",
+            "Pelayanan Telepon",
+            "Penyiapan Kamar",
+            "Penyiapan Makanan",
+            "Perencanaan Perjalanan Wisata",
+            "RECEPTIONIST",
+            "Room Attendant",
+            "Senior Travel Consultant",
+            "Travel Consultant",
+            "WAITER"
+        ]
+    },
+    {
+        "campus": "IAI An-Nawawi Purworejo",
+        "schemes": [
+            "Skema Sertifikasi KKNI Kualifikasi 3 Bidang Pengelolaan Zakat",
+            "Skema Sertifikasi Klaster Melakukan Analisis Terhadap Teks Asal",
+            "Skema Sertifikasi Klaster Menerapkan Proses Pengembangan Desain",
+            "Skema Sertifikasi Klaster Merancang Pemasaran",
+            "Skema Sertifikasi Klaster Merancang strategi dan metode pembelajaran",
+            "Skema Sertifikasi Klaster Pendampingan Manajemen Pemasaran",
+            "Skema Sertifikasi Klaster Perencanaan Pemilihan Penyedia barang dan Jasa",
+            "Skema Sertifikasi Okupasi Account Officer Credit Analyst",
+            "Skema Sertifikasi Okupasi Fasilitator Pemberdayaan Masyarakat",
+            "Skema Sertifikasi Okupasi Penyelia Halal",
+            "Skema Sertifikasi Okupasi Staf Operasional Perbankan",
+            "Skema Sertifikasi Okupasi Staf Sumber Daya Manusia (SDM)"
+        ]
+    },
+    {
+        "campus": "Institut Informatika dan Bisnis Darmajaya",
+        "schemes": [
+            "Analis Sistem",
+            "Teknisi Madya Jaringan Komputer"
+        ]
+    },
+    {
+        "campus": "Institut Pariwisata Trisakti",
+        "schemes": [
+            "FOOD AND BEVERAGE IN WAITING CERTIFICATE III",
+            "FOOD PRODUCTION IN COOKERY CERTIFICATE III",
+            "FOOD PRODUCTION IN PATISSERIE CERTIFICATE III",
+            "FRONT OFFICE CERTIFICATE III",
+            "HOUSEKEEPING CERTIFICATE III",
+            "TOUR OPERATION CERTIFICATE VI"
+        ]
+    },
+    {
+        "campus": "Institut STIAMI",
+        "schemes": [
+            "Advokasi Kebijakan",
+            "Analis Kebijakan Publik",
+            "Front Office Supervisor",
+            "KKNI Level V Pada Kompetensi Keahlian Kewirausahaan Industri",
+            "Manager Logistik Proyek",
+            "Pemeriksaan Laporan Keuangan",
+            "Pengelolaan Sistem Pergudangan",
+            "Penyelia Ekspor",
+            "Public Relations Coordinator",
+            "Skema Sertifikasi Klaster Manajemen Perkantoran",
+            "Skema Sertifikasi Klaster Perancangan Strategi Kehumasan",
+            "Teknisi Perpajakan PPH Badan Sektor Usaha Jasa dan Perdagangan"
+        ]
+    },
+    {
+        "campus": "Institut Teknologi dan Bisnis Widya Gama",
+        "schemes": [
+            "Kualifikasi 3 Bidang Manajemen Sumber Daya Manusia",
+            "Kualifikasi III Bidang Kewirausahaan Industri",
+            "Teknisi Akuntansi Pratama",
+            "Teknisi Akuntansi Yunior"
+        ]
+    },
+    {
+        "campus": "Institut Teknologi Nasional Yogyakarta",
+        "schemes": [
+            "SKEMA MERANCANG MEKANIK UMUM",
+            "SKEMA PEMASANGAN INSTALASI LISTRIK BANGUNAN SEDERHANA",
+            "SKEMA PEMELIHARAAN PERALATAN OTOMASI KELISTRIKAN DAN ELEKTRONIKA",
+            "SKEMA PENGELASAN FILLET",
+            "SKEMA PENGELASAN PELAT",
+            "SKEMA PENGELASAN PIPA",
+            "SKEMA PENGOPERASIAN KONTROL SISTEM KELISTRIKAN BERBASIS PLC",
+            "SKEMA PERANCANGAN OTOMASI SISTEM KELISTRIKAN DAN ELEKTRONIKA",
+            "SKEMA PERENCANAAN TAMBANG TERBUKA JANGKA PANJANG"
+        ]
+    },
+    {
+        "campus": "Institut Transportasi dan Logistik Trisakti",
+        "schemes": [
+            "Export/Import Operation Staff",
+            "Freight Expert/Freight Forwarder",
+            "PROCUREMENT SUPERVISOR",
+            "Supply Chain Manager",
+            "Warehouse Operation Officer"
+        ]
+    },
+    {
+        "campus": "London School Public Relations",
+        "schemes": [
+            "Communication Director",
+            "Corporate Communication Specialis",
+            "DESAINER GRAFIS MUDA (JUNIOR GRAPHIC DESIGNER)",
+            "Editor Film",
+            "Govermment Affairs Manager",
+            "Media Relations Officer",
+            "Pengelolaan Konsep Acara",
+            "Pengelolaan Opini Publik",
+            "Pengelolaan Pemasaran Digital",
+            "Pengelolaan Program Kewirausahaan",
+            "Pengelolaan Seni Musik",
+            "Pengelolaan Strategi Bisnis",
+            "Pengelolaan Strategi Media Sosial",
+            "Perencanaan Pemasaran Digital Pariwisata",
+            "Public Affairs Analyst",
+            "Public Relations Coordinator",
+            "Public Relations Officer",
+            "Public Relations Publicity Coordinator",
+            "Senior Public Relations Associate",
+            "Strategic Planning Manager",
+            "Tenaga Pemasar Operasional Merek"
+        ]
+    },
+    {
+        "campus": "LSP AA YKPN",
+        "schemes": [
+            "Teknisi Akuntansi Muda",
+            "Teknisi Akuntansi Pratama"
+        ]
+    },
+    {
+        "campus": "LSP AKPAR NHI",
+        "schemes": [
+            "Kantor Depan (Front Office)-Guest Service Supervision & Administration",
+            "Tata Boga (Food Production)  Cookery Supervision and Administration",
+            "Tata Boga (Food Production)  Patisserie Suvervision & Administration",
+            "Tata Graha (Housekeeping) - Guest Service Supervision & Administration",
+            "Tata Hidang (Food and Beverage Service)  Supervision & Administration"
+        ]
+    },
+    {
+        "campus": "LSP Institut Bisnis dan Teknologi Pelita Indonesia",
+        "schemes": [
+            "Digital Marketing",
+            "JUNIOR / ASSOCIATE DATA SCIENTIST",
+            "Kewirausahaan Industri",
+            "KONSULTAN MANAJEMEN KEUANGAN INDUSTRI KECIL DAN MENENGAH (IKM)",
+            "Manajer Sumber Daya Manusia",
+            "Network Administrator",
+            "PENDAMPING UMKM MUDA",
+            "SOFTWARE ENGINEER",
+            "Teknisi Akuntansi Madya",
+            "TEKNISI PERPAJAKAN PEMOTONGAN DAN PEMUNGUTAN PAJAK PENGHASILAN (PASAL 22, 23, 4(2) DAN 15)"
+        ]
+    },
+    {
+        "campus": "LSP Institut Teknologi Sepuluh Nopember (LSP ITS)",
+        "schemes": [
+            "Automation Maintenance Junior Engineer)",
+            "Business Intelligence Analyst",
+            "Data Analyst",
+            "Desainer Grafis Muda",
+            "Electrical Maintenance Junior Engineer",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "ICTPM Deputy Manager",
+            "Ilmuwan Daya (Data Scientist)",
+            "Junior Associate data Scientist",
+            "Pembuatan Gambar dengan Sistem CAD",
+            "Pengembang Cloud Computing",
+            "Skema Sertifikasi Okupasi Penyelia Halal"
+        ]
+    },
+    {
+        "campus": "LSP ISI Yogyakarta",
+        "schemes": [
+            "3D Low Poly Model Artist",
+            "Camera Operator",
+            "Fotografer Madya",
+            "Fotografer Muda",
+            "Juri Musik",
+            "Komponis",
+            "Kritikus Musik",
+            "Motion Graphic Artist",
+            "Musisi",
+            "Penata Bunyi",
+            "Pencipta Lagu"
+        ]
+    },
+    {
+        "campus": "LSP P-1 Universitas Nahdlatul Ulama Blitar",
+        "schemes": [
+            "Ahli Muda Bidang Keahlian Teknik Jembatan",
+            "Instrumentasi Medis",
+            "Kualifikasi 4 Bidang Pelatihan Subbidang Metodologi Pelatihan",
+            "PEMBUATAN 3D DENGAN SISTEM CAD",
+            "Pemijatan Badan Untuk Sport",
+            "PEMROGRAM (PROGRAMMER)",
+            "Penerbit Mandiri / Self-Publisher",
+            "PENGUASAAN BAHASA INGGRIS UNTUK PARIWISATA TATA GRAHA",
+            "Senior Office Operator",
+            "SUPERVISOR PENGAWAS MUTU PAKAN"
+        ]
+    },
+    {
+        "campus": "LSP Politeknik Negeri Tanah Laut",
+        "schemes": [
+            "Data Management Supervisor",
+            "Junior Web Programmer",
+            "Kewirausahaan Industri",
+            "Network Administrator Madya",
+            "Network Designer",
+            "PENYUSUNAN DOKUMEN SISTEM HACCP",
+            "Perancangan Produk dan Proses Produksi",
+            "Programmer",
+            "SUPERVISOR PENGAWAS MUTU PAKAN",
+            "System Administrator",
+            "Technician Leader",
+            "Teknik Sepeda Motor",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Muda",
+            "TEKNISI MUDA JARINGAN KOMPUTER"
+        ]
+    },
+    {
+        "campus": "LSP Politeknik Sahid",
+        "schemes": [
+            "FOOD  PRODUCTION (COOKERY) SERTIFIKAT IV",
+            "FOOD AND BEVERAGE SERVICE SERTIFIKAT IV",
+            "FOOD PRODUCTION (PATISSERIE) SERTIFIKAT IV",
+            "FRONT OFFICE Sertifikat  IV",
+            "TOUR OPERATION SERTIFIKAT IV",
+            "TRAVEL AGENCIES SERTIFIKAT IV"
+        ]
+    },
+    {
+        "campus": "LSP Sekolah Tinggi Pariwisata Bogor",
+        "schemes": [
+            "COMMIS PASTRY",
+            "RECEPTIONIST",
+            "Room Attendant",
+            "WAITER"
+        ]
+    },
+    {
+        "campus": "LSP STMIK Banjarbaru",
+        "schemes": [
+            "Lead Programmer",
+            "Network Designer"
+        ]
+    },
+    {
+        "campus": "LSP STP MATARAM",
+        "schemes": [
+            "Food and Beverage service (Tata Hidang)",
+            "Food Production (Tata Boga)",
+            "Front Office (Kantor Depan)",
+            "Housekeeping (Tata Graha)",
+            "Tour Opration (Operasional Tour)"
+        ]
+    },
+    {
+        "campus": "LSP TRIDINANTI",
+        "schemes": [
+            "Ahli Geoteknik",
+            "Akuntansi Pratama",
+            "Asisten Kebun Kelapa Sawit",
+            "Tenaga Pemasar Manajerial Merek"
+        ]
+    },
+    {
+        "campus": "LSP UMP",
+        "schemes": [
+            "ANALIS",
+            "ASISTEN MANAJER AGRIBISNIS \u00e2\u20ac\u201c BIDANG PEMASARAN",
+            "DATABASE ADMINISTRATOR",
+            "Inspektor Organik Tanaman",
+            "Network Administrator Madya",
+            "PEMROGRAM (PROGRAMMER)",
+            "Skema Sertifikasi Konsultan Pendamping UMKM Senior Spesialis Bidang Manajemen Keuangan",
+            "Skema Sertifikasi Penari",
+            "Skema Sertifikasi Staf Sumber Daya Manusia",
+            "Skema Sertifikasi Teknisi Senior Otomasi\u00c2\u00a0Industri",
+            "Teknisi Perpajakan Pajak Penghasilan pasal 21",
+            "Teknisi Utama/Analisis Kartografi",
+            "Teknisi Utama/Analisis Kewilayahan Kebencanaan"
+        ]
+    },
+    {
+        "campus": "LSP UNIMED",
+        "schemes": [
+            "Desainer Busana",
+            "Pemasangan Instalasi Listrik Bangunan Sederhana",
+            "Welding Foreman"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Ahmad Dahlan",
+        "schemes": [
+            "AHLI HIGIENE INDUSTRI MUDA",
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA MUDA",
+            "Analis SDM",
+            "Analis Senior SDM",
+            "Asisten Manager Pemeriksaan dan Pengujian Instalasi Pemanfaatan Tegangan Rendah",
+            "Associate Data Scientist",
+            "Battra Ramuan Utama",
+            "Credit Analyst",
+            "Cybersecurity Analyst/Cybersecurity Incident",
+            "DATABASE ADMINISTRATOR",
+            "DESAINER MULTIMEDIA UTAMA",
+            "Executive Administrative Assistant",
+            "Junior Network Administrator",
+            "KEPALA CABANG/MANAJER KOPERASI JASA KEUANGAN",
+            "Kepemanduan Wisata",
+            "Konsultan Pendamping UMKM Junior",
+            "Kualifikasi 3 Bidang Pelatihan Kerja dan Sertifikasi Subbidang Pelatihan Kerja Kelompok Instruktur",
+            "Multimedia Technical Director",
+            "Pelaksanaan Pengawasan, Perlindungan dan Peningkatan Kualitas Air",
+            "Pelaksanaan Pengendalian Kualitas",
+            "Pelaksanaan Penilaian Keamanan Pangan",
+            "PENANGANAN PROSES KIMIA SECARA BATCH",
+            "PENDAMPING KOMUNITAS",
+            "Penerapan Prosedur Penilaian Naskah",
+            "Pengelolaan Keuangan dan Akuntansi Bank Syariah",
+            "Pengelolaan Sampah dengan Proses Biologi",
+            "Pengembang Web",
+            "Penghimpunan dan Penyediaan Dana pada Bank Syariah",
+            "PENGUJIAN LABORATORIUM BIOLOGI",
+            "Penyelia Halal",
+            "Penyiapan Perencanaan Pembangunan",
+            "Penyuluhan Anti Korupsi Pratama",
+            "Perancangan Sistem Produksi",
+            "Perancangan Strategi Humas",
+            "Pimpinan Jasa Usaha Makanan",
+            "Produser Program Televisi",
+            "PROGRAMMABLE LOGIC CONTRONTROLLER (PLC)",
+            "Pustakawan Sekolah",
+            "Supply Chain Manager"
+        ]
+    },
+    {
+        "campus": "LSP UNIVERSITAS AL-AZHAR INDONESIA",
+        "schemes": [
+            "SKEMA KLASTER PENENTUAN JENIS PRODUK USAHA",
+            "SKEMA OKUPASI PUBLIC RELATIONS OFFICER",
+            "SKEMA OKUPASI TENAGA PEMASAR OPERASIONAL PENJUALAN"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Bina Sarana Informatika",
+        "schemes": [
+            "Analis Program",
+            "Asisten Produser",
+            "Desainer Grafis Madya",
+            "Desainer Grafis Muda",
+            "Engineer Sistem Otomasi Industri",
+            "Executive Administrative Assistant",
+            "Fotografer Madya",
+            "Fotografer Muda",
+            "Kualifikasi 5 Bidang Hotel Subbidang Housekeeping (Supervision And Administraton)",
+            "Network Administrator Madya",
+            "Network Administrator Muda",
+            "Office Executive Administrative Assistant",
+            "Operator Kamera",
+            "Pemrogram",
+            "Pengelolaan Riset Pasar",
+            "Pengendalian Kualitas Sistem Manufaktur",
+            "Perencanaan dan Pengendalian Produksi",
+            "Produser Televisi",
+            "Public Relation Officer",
+            "Teknik Elektronika Dasar",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Pajak Penghasilan Orang Pribadi",
+            "Teknisi Perpajakan PPH Badan Sektor Usaha Jasa dan Perdagangan",
+            "Tenaga Pemasar Operasional",
+            "Video Editing"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Bosowa",
+        "schemes": [
+            "Perancangan Pengeboran dan Peledakan"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Bumigora",
+        "schemes": [
+            "Okupasi Desainer Grafis Madya (Intermediate Graphic Designer)",
+            "Okupasi Network Designer",
+            "Okupasi Pemrograman Kepala (Lead Programmer)"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Garut",
+        "schemes": [
+            "Administrasi Pembangunan",
+            "Analis Kebijakan Publik",
+            "Analis Kimia Fisika",
+            "Analis Pengadaan Rekrutmen & Seleksi SDM",
+            "Analis SDM",
+            "FASILITATOR ORGANIK TANAMAN",
+            "Jenjang 5 Bidang Kewirausahaan Industri",
+            "Jenjang 6 Bidang Perunggasan",
+            "Personil K3",
+            "Skema Sertifikasi Fasilitator Penyuluh Pertanian",
+            "Skema Sertifikasi Fotografer Madya",
+            "Skema Sertifikasi Pelaksanaan Event Organizer",
+            "Skema Sertifikasi Teknisi Akuntansi Pratama",
+            "Skema Sertifikasi Tenaga Pemasar Operasional"
+        ]
+    },
+    {
+        "campus": "LSP UNIVERSITAS GORONTALO",
+        "schemes": [
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "KKNI Level 6 Bidang Keahlian Tenaga Teknis Akuntansi",
+            "Penilaian Keamanan Pangan",
+            "Penyiapan Rencana Pemantauan dan Evaluasi Sumber Daya Wilayah Pesisir dan Pulau-Pulau Kecil",
+            "Tenaga Teknis Pembinaan Hutan"
+        ]
+    },
+    {
+        "campus": "LSP Universitas IPWIJA",
+        "schemes": [
+            "Pemprogram Muda",
+            "Pengelolaan Administrasi Keuangan",
+            "Pengembang Bisnis",
+            "Supervisor Sumber Daya Manusia",
+            "Teknisi Akuntansi Pratama",
+            "Tenaga Pemasar Operasional Bidang Penjualan"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin (UNISKA)",
+        "schemes": [
+            "Perancangan Basis Data untuk WEB"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Islam Malang",
+        "schemes": [
+            "Asisten Administrasi Eksekutif (Executive Administrative Assistant)",
+            "Asisten Analis Kebijakan",
+            "Manajer Energi di Industri dan Bangunan Gedung",
+            "Pengelolaan Keuangan Jasa Pelayanan dan Suku Cadang",
+            "Pengelolaan Produksi Ternak",
+            "Supervisor Penyuluh Pertanian"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Islam Negeri (UIN) Sunan Ampel",
+        "schemes": [
+            "Analisis Keamanan Pangan",
+            "Inventarisasi Satwa Liar",
+            "Operator Komputer Muda",
+            "PEMROGRAM (PROGRAMMER)",
+            "Penanggung Jawab Operasional Pengolahan Air Limbah",
+            "Pengelolaan Perasuransian",
+            "Penyelaman Ilmiah Biologi Laut",
+            "SOFTWARE ENGINEER",
+            "Surveyor Oseanografi"
+        ]
+    },
+    {
+        "campus": "LSP UNIVERSITAS MERDEKA MALANG",
+        "schemes": [
+            "Pengelolaan Proses Evaluasi Kinerja"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Mohammad Husni Thamrin",
+        "schemes": [
+            "Melakukan Pemeriksaan Laboratorium Medik",
+            "SKEMA PELAKSANAAN ASUHAN GIZI TERSTANDARD PADA GIZI KLINIK DAN DIET",
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN INTERVENSI GIZI PADA PEMBERIAN MAKANAN ATAU ZAT GIZI",
+            "SKEMA SERTIFIKASI KLASTER PELAYANAN LIFE SUPPORT TEKNOLOGI SEDERHANA",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN PERALATAN ELEKTROMEDK"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Muhammadiyah Jember",
+        "schemes": [
+            "Database Programmer",
+            "FASILITATOR ORGANIK TANAMAN",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Jenjang 5 Bidang Kewirausahaan Industri",
+            "Operasional Kehumasan",
+            "Operasional Pemasaran",
+            "Pelaksanaan Pembiayaan Perbankan Syariah",
+            "Pendampingan UMKM",
+            "Penerapan Bahasa Inggris untuk Executive Administrative Assistant",
+            "Supervisor Rekrutmen dan Seleksi SDM",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Madya Jaringan Komputer"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Multimedia Nusantara",
+        "schemes": [
+            "KKNI Kualifikasi 4 Pemasaran Subbidang Pemasaran",
+            "Okupasi Public Relations Officer"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Nurul Jadid",
+        "schemes": [
+            "Office Administrative Assistant",
+            "Pelaksanaan Public Speaking",
+            "PEMROGRAM (PROGRAMMER)",
+            "Perancangan Program dan Media Pelatihan"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Padjadjaran",
+        "schemes": [
+            "Asisten Teknis Reproduksi Ternak",
+            "Manajer Produksi Agribisnis",
+            "Manajer Produksi Film",
+            "Melaksanakan Verifikasi/Kalibrasi Alat Ukur dan Alat Uji",
+            "Pembuatan Roti",
+            "Pengelolaan Arsip Berbasis Digital",
+            "Pengumpul Data Senior Terumbu Karang",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "Produsen Benih Tanaman",
+            "Teknisi Akuntansi Ahli"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Pembangunan Jaya",
+        "schemes": [
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN KEGIATAN HUMAS",
+            "Skema sertifikasi Klaster Pengelolaan Sistem Manajemen Hubungan Pelanggan",
+            "Skema sertifikasi Klaster Penulisan Naskah Program Televisi",
+            "Skema sertifikasi Kualifikasi IV Bidang Teknisi Akuntansi",
+            "Skema sertifikasi Kualifikasi V Bidang Manajemen Sumber Daya Manusia",
+            "Skema sertifikasi Okupasi Asisten Psikolog",
+            "Skema sertifikasi Okupasi Desainer Kemasan Junior",
+            "Skema sertifikasi Okupasi Network Designer",
+            "Skema sertifikasi Okupasi Pemrogram (Programmer)"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Pembangunan Nasional Veteran Yogyakarta",
+        "schemes": [
+            "Skema Sertifikasi Klaster Perancangan Produk dan Proses Produksi",
+            "Skema Sertifikasi Kualifikasi 4 Bidang Pendamping UMKM Subbidang Profesi Konsultan Pendamping UMKM",
+            "SKEMA SERTIFIKASI KUALIFIKASI 5 BIDANG PERTANIAN ORGANIK",
+            "Skema Sertifikasi Okupasi General Supervisor Health and Safety",
+            "Skema Sertifikasi Okupasi Officer General Banking",
+            "Skema Sertifikasi Okupasi System Analyst",
+            "Skema Sertifikasi Okupasi TEKNISI AKUNTANSI PRATAMA",
+            "Skema Sertifikasi Okupasi TENAGA PEMASAR OPERASIONAL",
+            "Skema Sertifikasi Public Relations Officer"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Pendidikan Indonesia",
+        "schemes": [
+            "Administrative Assistant",
+            "Ahli Desain Grafis",
+            "DATABASE ADMINISTRATOR",
+            "Desainer Grafis Madya",
+            "Desainer User Interface/UI Junior",
+            "Edukator Museum",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Freight Forwarder",
+            "Instruktur Master / Master Trainer",
+            "Juri Musik",
+            "Komponis",
+            "Koreografer",
+            "Kualifikasi 6 Bidang Otomasi Industri",
+            "Manajer Pembangunan dan Pemasangan Distribusi Tenaga Listrik Tegangan Menengah",
+            "Manajer Pembangunan Dan Pemasangan Distribusi Tenaga Listrik Tegangan Rendah",
+            "Network Administrator",
+            "Pelayanan Perpustakaan",
+            "Pembuatan Media Pembelajaran",
+            "Pembuatan Pakaian Tradisional",
+            "Pembuatan Rok",
+            "Pemrogram Senior (Senior Programer)",
+            "Penari",
+            "Penata Artistik",
+            "Pendamping UMKM Madya Bidang Manajemen Keuangan",
+            "Pendamping UMKM Madya Bidang Manajemen Operasi dan Produksi",
+            "Pendamping UMKM Madya Bidang Manajemen Pemasaran",
+            "Pendamping UMKM Madya Bidang Manajemen Sumber Daya Manusia",
+            "Pengembangan Koleksi Perpustakaan",
+            "Pengembangan Model Pembelajaran",
+            "Pengolahan dan Penghidangan Makanan Indonesia - Asia",
+            "Pengolahan Dan Penghidangan Pattiserie",
+            "Pengoperasian Mesin Bubut Kompleks",
+            "Pengoperasian Mesin Frais Kompleks",
+            "Sound Designer",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akutansi Ahli - Syariah",
+            "Teknisi Pengindraan Jarak Jauh",
+            "Teknisi Surveyor Terestris",
+            "Tenaga Pemasar Operasional Layanan",
+            "Tenaga Pemasar Operasional Merek",
+            "Warehouse Supervisor"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Prima Indonesia",
+        "schemes": [
+            "Skema Sertifikasi KKNI Jenjang 4 Bidang Kewirausahaan Industri",
+            "Skema Sertifikasi Klaster Pengelolaan Umpan Balik Pelanggan",
+            "Skema Sertifikasi Okupasi Kepala Bagian SDM",
+            "Skema Sertifikasi Okupasi Penata Penyelesaian Perselisihan Hubungan Industrial",
+            "Skema Sertifikasi Okupasi Teknisi Akuntansi Ahli"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Putera Batam",
+        "schemes": [
+            "Executive Administrative Assistant (EAA)",
+            "Kewirausahaan Industri Jenjang 5",
+            "Network Administrator Madya",
+            "Pencegahan dan Penyelesaian Perselisihan Hubungan Industrial",
+            "Pengembang Web",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "Produser Produksi Program Televisi"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Slamet Riyadi",
+        "schemes": [
+            "Jenjang 4 Pada Kewirausahaan Industri",
+            "Pemasaran Digital (Digital Marketing)"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Wahid Hasyim",
+        "schemes": [
+            "PELAKSANA KOMUNIKASI DENGAN PEMANGKU KEPENTINGAN",
+            "Skema Sertifikasi Klaster Pengelolaan Risiko Bank",
+            "Skema Sertifikasi Okupasi Penyelia Halal",
+            "Skema Sertifikasi Okupasi Personil Keselamatan dan Kesehatan Kerja"
+        ]
+    },
+    {
+        "campus": "LSP Universitas Yudharta Pasuruan",
+        "schemes": [
+            "Analis Kebijakan Publik",
+            "ANALIS MUDA HUBUNGAN INDUSTRIAL",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Instruktur",
+            "Instruktur Terampil",
+            "Konsultan Manajemen Keuangan IKM",
+            "Kualifikasi 5 Bidang Kewirausahaan Industri",
+            "Kualifikasi 5 Bidang Produktivitas",
+            "Kualifikasi 5 Tenaga Pemasar Operasional",
+            "Media Relation Officer",
+            "NETWORK ADMINISTRATOR MUDA (JUNIOR NETWORK ADMINISTRATOR)",
+            "Pelaksanaan Surveilan Dan Penyuluhan Keamanan Pangan",
+            "Pengawas Syariah",
+            "Pengembang Web Pratama (junior web developer)",
+            "Peningkatan Konsep Diri Dan Kemampuan Manajemen Diri",
+            "Penyuluh Pertanian Fasilitator",
+            "Perancangan Produk",
+            "Perancangan Strategi Bisnis Lembaga Pendidikan",
+            "Perbangkan dan Pembiayaan Syariah",
+            "Perencanaan dan Pengendalian Produksi",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "Produser Program Televisi",
+            "Public Relations Officer",
+            "Supervesior Mutu",
+            "Supervisor Manajemen Sumber Daya Manusia"
+        ]
+    },
+    {
+        "campus": "Politeknik  STTT Bandung",
+        "schemes": [
+            "Desainer Busana",
+            "Kualifikasi 6 Bidang Industri Garmen Bidang Manajerial",
+            "Okupasi Kepala Bagian Produksi Pemintalan",
+            "Okupasi Kepala Bagian Produksi Perajutan",
+            "Okupasi Kepala Bagian Produksi Pertenunan",
+            "Skema Sertifikasi Okupasi Kepala Bagian Dyeing-Finishing",
+            "Skema Sertifikasi Okupasi Kepala Bagian Printing"
+        ]
+    },
+    {
+        "campus": "Politeknik Ilmu Pelayaran (PIP) Semarang",
+        "schemes": [
+            "AHLI EKSPOR IMPOR",
+            "AHLI KONSOLIDASI",
+            "FREIGHT FORWARDING",
+            "Mooring Unmooring",
+            "PIPE WELDER",
+            "Tenaga Kerja Bongkar Muat"
+        ]
+    },
+    {
+        "campus": "Politeknik Pariwisata NHI Bandung",
+        "schemes": [
+            "SKEMA SERTIFIKASI KLASTER  PENGELOLAAN SUMBER DAYA MANUSIA DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN CREATIVE EVENT DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN DAN PELAKSANAAN BIDDING MEETING & CONFERENCE DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN DAN PELAKSANAAN OPERASIONAL PAMERAN DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN DAN PENYUSUNAN DATA EVENT SUPPLIER DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN DAN PENYUSUNAN EVENT BUSINESS PLAN DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN DAN PENYUSUNAN PERENCANAAN PAMERAN DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN PENELITIAN DI BIDANG DESTINASI PARIWISATA",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN PERENCANAAN PRODUK DESTINASI PARIWISATA",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN REGISTRASI MEETING & CONFERENCE DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN RESIKO EVENT DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN SUMBER DAYA MANUSIA DI BIDANG PARIWISATA",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN TAMAN REKREASI",
+            "SKEMA SERTIFIKASI KOMPETENSI KLASTER PENGELOLAAN INCENTIVE TRAVEL DI BIDANG MICE",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT IV BIDANG TATA BOGA (PATISSERIE) CERTIFICATE IV IN FOOD PRODUCTION (Patisserie)",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT V  BIDANG TATA HIDANG  (FOOD AND BEVERAGE SERVICE) UNTUK SUPERVISOR/PENYELIA DAN ADMINISTRASI CERTIFICAT",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT V BIDANG TATA BOGA (PENGAWASAN DAN ADMINISTRASI) CERTIFICATE V IN  FOOD PRODUCTION (Supervision and Admi",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT V BIDANG TATA GRAHA (HOUSEKEEPING)  SUPERVISION AND ADMINISTRATION CERTIFICATE V IN HOUSEKEEPING \u00e2\u20ac\u201c Sup",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT V KANTOR DEPAN (SUPERVISION AND ADMINISTRATION) CERTIFICATE V IN FRONT OFFICE",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT VI   BIDANG OPERASIONAL TOUR (MANAJEMEN) CERTIFICATE VI IN TOUR OPERATION (MANAGEMENT)",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT VI BIDANG AGEN PERJALANAN (MANAJEMEN) CERTIFICATE VI IN TRAVEL AGENCIES (MANAGEMENT)",
+            "Skema Sertifikasi Kualifikasi Sertifikat VI Bidang Tata Boga (Manajemen) Certificate VI In Food Production (Management)",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT VI BIDANG TATA GRAHA (HOUSEKEEPING) - MANAGEMENT  CERTIFICATE VI OF HOUSEKEEPING \u00e2\u20ac\u201c MANAGEMENT",
+            "SKEMA SERTIFIKASI KUALIFIKASI SERTIFIKAT VI BIDANG TATA HIDANG (FOOD AND BEVERAGE SERVICE) UNTUK LEVEL MANAJEMEN  CERTIFICATE VI OF FOOD AND BEVE",
+            "Skema Sertifikasi Kualifikasi Sertifikat VI Kantor Depan (Manajemen) Certificate VI In Front Office"
+        ]
+    },
+    {
+        "campus": "Sekolah Tinggi Ilmu Ekonomi Indonesia (STIESIA)",
+        "schemes": [
+            "Ahli Impor",
+            "Jenjang V Kewirausahaan Industri",
+            "Lembaga Keuangan Mikro (LKM) Bukan Bank",
+            "Penanggung Jawab MSDM",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Madya Syariah",
+            "Tenaga Pemasar Manajerial"
+        ]
+    },
+    {
+        "campus": "Sekolah Tinggi Ilmu Pelayaran (STIP)",
+        "schemes": [
+            "Pandu Tingkat I (Satu)",
+            "Pandu Tingkat II (Dua)",
+            "Pelaksana Bongkar Muat Barang Dari dan Ke Kapal di Pelabuhan",
+            "Pelaksana Pengurusan Konsolidasi Muatan Angkutan Laut",
+            "Pelaksana Pengurusan Muatan Angkutan ASDP",
+            "Pelaksana Pengurusan Muatan Angkutan Laut Kontainer",
+            "SKEMA SERTIFIKASI OKUPASI FREIGHT FORWARDER",
+            "SKEMA SERTIFIKASI OKUPASI OPERATOR MOORING/UNMOORING",
+            "SKEMA SERTIFIKASI OKUPASI PELAKSANA TENAGA KERJA BONGKAR MUAT BARANG DARI DAN KE KAPAL DI PELABUHAN BARANG - BARANG UMUM (GENERAL CARGO)",
+            "SKEMA SERTIFIKASI OKUPASI PIPE WELDER"
+        ]
+    },
+    {
+        "campus": "STIE Ganesha",
+        "schemes": [
+            "Kewirausahaan Industri",
+            "Manajer Hubungan Industrial",
+            "Tenaga Pemasaran Oprasional"
+        ]
+    },
+    {
+        "campus": "STIE Hidayatullah Depok",
+        "schemes": [
+            "Manajer Sumber Daya Manusia",
+            "Teknisi Akuntansi Madya"
+        ]
+    },
+    {
+        "campus": "STIE Madani Balikpapan",
+        "schemes": [
+            "Skema Sertifikasi Okupasi Staf Sumber Daya Manusia (SDM)"
+        ]
+    },
+    {
+        "campus": "STIE Malangkucecwara",
+        "schemes": [
+            "Kualifikasi IV Manajemen Sumber Daya Manusia"
+        ]
+    },
+    {
+        "campus": "STIEPAR YAPARI",
+        "schemes": [
+            "Event planner",
+            "Hotel Reception",
+            "Hotel reservation",
+            "Konsultan perencanaan destinasi pariwisata",
+            "TICKETING (RESERVATION & FARE CALCULATION)",
+            "Tour operation"
+        ]
+    },
+    {
+        "campus": "STIH Iblam",
+        "schemes": [
+            "Pelaksanaan Hak Dalam Upaya Hukum Perpajakan",
+            "Pengelolaan Kontrak dan Swakelola Pengadaan Barang/Jasa"
+        ]
+    },
+    {
+        "campus": "STIKES Medistra Indonesia",
+        "schemes": [
+            "Farmasi Industri"
+        ]
+    },
+    {
+        "campus": "STIKI Malang",
+        "schemes": [
+            "Desainer Grafis Junior",
+            "Junior Web Programmer",
+            "Pemrogram Basis Data",
+            "Pengembang Web (Web Developer)"
+        ]
+    },
+    {
+        "campus": "STMIK IKMI Cirebon",
+        "schemes": [
+            "JUNIOR CYBER SECURITY",
+            "Lead Programmer"
+        ]
+    },
+    {
+        "campus": "UIN K.H. Abdurrahman Wahid Pekalongan",
+        "schemes": [
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Funding Sales Representative",
+            "Menghasilkan Informasi Keuangan yang Berkualitas",
+            "Menyiapkan Kegiatan Perencanaan Pembangunan",
+            "Pelaksanaan Program Pelatihan",
+            "Pendistribusian dan Pendayagunaan Zakat",
+            "Penerjemah Teks Umum",
+            "Penyediaan Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya Manusia",
+            "Perancangan Strategi Kehumasan"
+        ]
+    },
+    {
+        "campus": "UIN Sunan Kalijaga",
+        "schemes": [
+            "Account Officer Credit Analyst",
+            "Asisten Produser Program Televisi",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "HR Admin Specialist",
+            "Instruktur (Trainer)",
+            "Konsultan Pendamping UMKM Junior",
+            "Perencanaan dan Pengendalian Produksi",
+            "Public Relations Officer",
+            "Strategic Planner"
+        ]
+    },
+    {
+        "campus": "UNISLA",
+        "schemes": [
+            "Skema Manajer Koperasi Jasa Keuangan",
+            "SKEMA SERTIFIKASI  PENYULUH PERIKANAN",
+            "SKEMA SERTIFIKASI  PRODUKSI TERNAK",
+            "SKEMA SERTIFIKASI LEVEL III TEKNISI AKUNTANSI PRATAMA",
+            "SKEMA SERTIFIKASI LEVEL V TEKNISI AKUNTANSI MADYA",
+            "SKEMA SERTIFIKASI LEVEL VI  PEMASAR MANAGERIAL",
+            "SKEMA SERTIFIKASI LEVEL VI TEKNISI AKUNTANSI AHLI",
+            "SKEMA SERTIFIKASI MANAJER PENGELOLAAN BANGUNAN GEDUNG"
+        ]
+    },
+    {
+        "campus": "Universitas 17 Agustus 1945 Surabaya",
+        "schemes": [
+            "Ahli Rekayasa Konstruksi Bangunan Gedung",
+            "Analis Kebijakan Publik",
+            "Analis Perjanjian Kerja dan Kelembagaan Hubungan Industrial",
+            "Arsitek",
+            "Assistant Engineer",
+            "Business Writing Skills",
+            "Inspeksi Keamanan Pangan",
+            "Konsultan Manajemen Keuangan IKM",
+            "Kualifikasi 6 Bidang Pelatihan Subbidang Metodologi Pelatihan",
+            "Office Communication Skills",
+            "Okupasi Media Relations Officer",
+            "Pelaksanaan Komunikasi Bisnis Lisan dan Tulis Dalam Bahasa Jepang",
+            "Pelaksanaan Prosedur Audit Teknologi Informasi",
+            "Pengoperasian Mesin Mekanik",
+            "Pengoperasian Mesin NC/CNC",
+            "Pengoperasian Peralatan Berbasis Programmable Logic Control",
+            "Penyiar Televisi",
+            "Perancangan Industri Manufaktur",
+            "Perencanaan MICE",
+            "Perencanaan Usaha",
+            "Teknisi Akuntansi Yunior",
+            "Teknisi Madya Jaringan Komputer",
+            "Teknisi Perpajakan PPh Badan",
+            "Tenaga Pemasar Operasional Penjualan"
+        ]
+    },
+    {
+        "campus": "Universitas Airlangga",
+        "schemes": [
+            "KKNI Level V Bidang TENAGA PENGUJI LABORATORIUM",
+            "Analis Kredit",
+            "Automation Maintanance Junior Engineer",
+            "Customer Service",
+            "Executive Administrative Assistant",
+            "Junior Web Programer",
+            "Keperawatan Pemenuhan Kebutuhan Dasar",
+            "KKNI Level V Bidang ADMINISTRASI PROFESSIONAL",
+            "KKNI Level V Bidang AUDITOR TEKNOLOGI INFORMASI",
+            "Office Manager",
+            "Okupasi Nasional Bidang AKUPUNTURIS",
+            "Okupasi Nasional Bidang KEPUSTAKAWANAN",
+            "Okupasi Nasional Bidang PENANGANAN REPRODUKSI HEWAN",
+            "Okupasi Nasional Bidang SUPERVISOR PENGENDALIAN MUTU UNTUK PENELITIAN DAN PENGEMBANGAN PRODUK (RESEARCH & DEVELOPMENT)",
+            "Okupasi Nasional Bidang TEKNISI PERPAJAKAN PAJAK PENGHASILAN PASAL 26 LEVEL 5",
+            "Paramedik Veteriner Pengendalian penyakit Hewan",
+            "Paramedik Veteriner Penjaminan Keamanan Produk Hewan",
+            "Pelaksanaan Ahli Muda Higiene Industri",
+            "Pelaksanaan Fisioterapi Untuk Perbaikan Jalan Nafas dan Ventilasi",
+            "Pelayanan Laboratorium Klinik",
+            "Pembuatan Alat Ortodonsi Lepasan",
+            "Penerjemah Tersumpah",
+            "Pengelola Arsip Aktif Mahir",
+            "Pengobat Tradisional Ramuan Madya",
+            "Pengobat Tradisional Ramuan Pratama",
+            "Penyelia Halal",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "Radiografer Mahir CT-Scan Tingkat 1",
+            "Radiografer Terampil Tingkat 1",
+            "Teknisi Akuntansi Ahli"
+        ]
+    },
+    {
+        "campus": "Universitas 'Aisyiyah Yogyakarta",
+        "schemes": [
+            "Help Desk Technician",
+            "Petugas Kesehatan dan Keselamatan Kerja",
+            "Supervisor Sumber Daya Manusia"
+        ]
+    },
+    {
+        "campus": "Universitas Andalas",
+        "schemes": [
+            "Asisten Kebun Kelapa Sawit",
+            "Fasilitator Pertanian Organik",
+            "ICT Project Manager",
+            "Manager Pemasaran Agribisnis",
+            "Mandor Farm Unggas Pedaging",
+            "Pelaksana Kultur In Vitro",
+            "PEMANDU WISATA",
+            "Petugas Inseminasi Buatan",
+            "Pimpinan Perjalanan Wisata (Tour Leader)"
+        ]
+    },
+    {
+        "campus": "Universitas Bakti Tunas Husada",
+        "schemes": [
+            "MELAKUKAN TEKNIK SAMPLING",
+            "PERAWATAN PASIEN BEDAH",
+            "Skema sertifikasi  Kompetensi Kualifikasi Nasional Sertifikat V Bidang Kesehatan Keahlian Keperawatan",
+            "Skema Sertifikasi Kompetensi Kualifikasi Level V Teknologi Laboratorium Medik"
+        ]
+    },
+    {
+        "campus": "Universitas Bhayangkara Jakarta Raya",
+        "schemes": [
+            "Ahli Fluida Pengeboran Sumur Migas dan Panas Bumi",
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "Asisten Produser Televisi",
+            "Asisten Psikolog",
+            "Cyber Security Analyst",
+            "Desainer Grafis Madya",
+            "Fotografer Madya",
+            "JUNIOR CYBER SECURITY",
+            "Junior Data Scientist",
+            "Junior Web Developer",
+            "Kepala Bagian Pengembangan Organisasi",
+            "Kepala Bagian Sumber Daya Manusia",
+            "Kepemanduan Acara",
+            "KKNI Jenjang 3 Bidang Hubungan Industrial",
+            "KKNI Jenjang 4 Bidang Hubungan Industrial",
+            "KKNI Jenjang 5 Bidang Hubungan Industrial",
+            "Manajer Proyek TIK",
+            "Manajer Sumber Daya Manusia",
+            "Mobile Programmer",
+            "Network Administrator Madya",
+            "Pelaksanaan Keselamatan dan Kesehatan Kerja Industri Migas",
+            "Pemasaran Digital",
+            "Pemijatan Sports Massage",
+            "Pemrogram Basisdata (Database Programmer)",
+            "Penanggung Jawab Operasional Pengolahan Air Limbah",
+            "Penata Kelembagaan Hubungan Industrial",
+            "Penata Pembuatan Perjanjian Kerja",
+            "Penata Penyusun Remunerasi",
+            "Pengendalian Kualitas Sistem Manufaktur",
+            "Pengolahan Bahan Baku Produksi pada Industri Kimia Berbasis Agro",
+            "Pengukuran Kebisingan Lingkungan",
+            "Penyuluh Hubungan Industrial",
+            "Perancangan Produk dan Proses Manufaktur",
+            "Perencanaan dan Pengendalian Produk Manufaktur",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "Petugas Penanganan Bahaya Gas H2S",
+            "Public Relations Officer",
+            "Sertifikat 5 Pada Bidang Kewirausahaan Industri",
+            "SOFTWARE ENGINEER",
+            "Staf (Admin) Pelatihan dan Pengembangan",
+            "Staf (Admin) Sumber Daya Manusia",
+            "Supervisor Rekrutmen dan Seleksi SDM",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Perpajakan Pajak Penghasilan 21",
+            "Tenaga Pemasar Operasional Pemasaran"
+        ]
+    },
+    {
+        "campus": "Universitas Bina Insani",
+        "schemes": [
+            "Lead Programmer",
+            "Network Designer"
+        ]
+    },
+    {
+        "campus": "Universitas Brawijaya",
+        "schemes": [
+            "Engineer Otomasi Industri",
+            "Office Administrator",
+            "Pengembang Web (Web Developer)",
+            "Personil Keselamatan dan Kesehatan Kerja (K3)",
+            "SOFTWARE ENGINEER",
+            "Teknisi Akuntansi Ahli"
+        ]
+    },
+    {
+        "campus": "Universitas Buana Perjuangan Karawang",
+        "schemes": [
+            "skema sertifikasi okupasi analis seleksi dan rekruitmen SDM",
+            "Skema Sertifikasi Okupasi Programmer",
+            "SKEMA SERTIFIKASI OKUPASI TEKNISI AKUNTANSI MADYA"
+        ]
+    },
+    {
+        "campus": "Universitas Budi Luhur",
+        "schemes": [
+            "DESAINER GRAFIS",
+            "JENJANG 4 BIDANG KEWIRAUSAHAAN INDUSTRI",
+            "Network Administrator",
+            "PELAKSANAAN KEGIATAN KETERTIBAN",
+            "PEMELIHARAAN UMUM KENDARAAN BERMOTOR LISTRIK DAN HYBRID",
+            "PEMROGRAM JUNIOR (JUNIOR PROGRAMMER)",
+            "Teknisi Akuntansi Madya",
+            "VIDEO EDITOR"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS BUNG HATTA",
+        "schemes": [
+            "Ahli Muda K3",
+            "Konsultan Manajemen SDM IKM",
+            "Pengawas Mutu Produk Ikan Tuna Loin Segar dan Loin Beku",
+            "Pengoperasian Peralatan Industri Kimia Dasar",
+            "Penyuluh Perikanan Supervisor",
+            "Perencanaan dan Pengendalian Produksi",
+            "Teknisi Madya Jaringan Komputer"
+        ]
+    },
+    {
+        "campus": "Universitas Ciputra",
+        "schemes": [
+            "Analisis Pengembangan Bisnis",
+            "Desainer Grafis Muda",
+            "Instruktur Pertama",
+            "Jenjang 4 Bidang Teknologi Fesyen dan Desain Fesyen",
+            "Jenjang 5 Bidang Kewirausahaan Industri",
+            "Pelaksanaan Media Relations",
+            "Pemrogram",
+            "Penerapan Prosedur Keamanan Pangan Industri Pangan",
+            "Pengoperasian Bisnis",
+            "RECEPTIONIST",
+            "Senior Travel Consultant",
+            "Supervisor Sumber Daya Manusia",
+            "Teknisi Akuntansi Pratama",
+            "Tour Manager"
+        ]
+    },
+    {
+        "campus": "Universitas Dhyana Pura",
+        "schemes": [
+            "SERTIFIKAT III BIDANG KANTOR DEPAN (FRONT OFFICE) CERTIFICATE III IN FRONT OFFICE",
+            "SERTIFIKAT III BIDANG TATA BOGA (COOKERY)  CERTIFICATE III IN FOOD PRODUCTION (COOKERY)",
+            "SERTIFIKAT III BIDANG TATA GRAHA (HOUSEKEEPING) CERTIFICATE III IN HOUSEKEEPING",
+            "SERTIFIKAT III BIDANG TATA HIDANG  (FOOD AND BEVERAGE SERVICE) CERTIFICATE III IN F&B SERVICE (BEVERAGES)",
+            "SERTIFIKAT III BIDANG TATA HIDANG  (FOOD AND BEVERAGE SERVICE) CERTIFICATE III IN F&B SERVICE (WAITING)",
+            "SERTIFIKAT VI BIDANG KANTOR DEPAN  (MANAGEMENT)  CERTIFICATE VI IN FRONT OFFICE",
+            "SERTIFIKAT VI BIDANG TATA BOGA  CERTIFICATE VI IN FOOD PRODUCTION",
+            "SERTIFIKAT VI BIDANG TATA GRAHA (HOUSEKEEPING) MANAGEMENTCERTIFICATE VI  IN HOUSEKEEPING - MANAGEMENT",
+            "SERTIFIKAT VI BIDANG TATA HIDANG/ CERTIFICATE VI IN FOOD AND BEVERAGE SERVICE"
+        ]
+    },
+    {
+        "campus": "Universitas Dian Nusantara",
+        "schemes": [
+            "Skema Sertifikasi Klaster Melaksanakan Komunikasi Dengan Pemangku Kepentingan"
+        ]
+    },
+    {
+        "campus": "Universitas Dian Nuswantoro",
+        "schemes": [
+            "Skema Sertifikasi Keahlian Fasilitator Pemberdayaan Masyarakat",
+            "Skema Sertifikasi KKNI Level V Bidang Keahlian Teknisi Akuntansi Madya",
+            "Skema Sertifikasi Klaster Event Marketing Communication",
+            "Skema Sertifikasi Klaster Penerapkan Solusi Artificial Intelligence (AI)",
+            "Skema Sertifikasi Klaster Pengembangan Model Artificial Intelligence (AI) Berbasis Machine Learning",
+            "Skema Sertifikasi Klaster Pengembangan Model Artificial Intelligence (AI) Berbasis Pakar",
+            "Skema Sertifikasi Klaster Penyedia Layanan Housekeeping",
+            "Skema Sertifikasi Klaster Penyelenggaraan Kegiatan MICE (Meeting Incentive, Convention And Exhibition)",
+            "Skema Sertifikasi Klaster Perancangan Produk Dan Proses Pada Sistem Manufaktur",
+            "Skema Sertifikasi Klaster Perencanaan Dan Pengendalian Produksi Pada Sistem Manufaktur",
+            "Skema Sertifikasi Klaster Perencanaan Solusi Berbasis Artificial Intelligence (AI)",
+            "Skema Sertifikasi Kompetensi Konsultan Pratama Bidang Manajemen Keuangan IKM",
+            "Skema Sertifikasi Kompetensi Konsultan Pratama Bidang Manajemen Pemasaran IKM",
+            "Skema Sertifikasi Kompetensi Konsultan Pratama Bidang Manajemen Sumber Daya Manusia IKM",
+            "Skema Sertifikasi Kompetensi Otomasi Industri - PLC & SCADA",
+            "Skema Sertifikasi Okupasi Asisten Produser Televisi",
+            "Skema Sertifikasi Okupasi Database Administrator",
+            "Skema Sertifikasi Okupasi Desainer Grafis Madya (Intermediate Graphic Designer)",
+            "Skema Sertifikasi Okupasi Enterprise Resource Planning (ERP) Analysis",
+            "Skema Sertifikasi Okupasi Ilmuan Data  ( Data Scientist)",
+            "Skema Sertifikasi Okupasi Ilmuan Data Madya (Associate Data Scientist)",
+            "Skema Sertifikasi Okupasi Insinyur Data",
+            "Skema Sertifikasi Okupasi Insinyur Data Madya",
+            "Skema Sertifikasi Okupasi Network Administrator Madya",
+            "Skema Sertifikasi Okupasi Pemrogram Basisdata (Database Programmer)",
+            "Skema Sertifikasi Okupasi Pemrogram Mobil Pratama",
+            "Skema Sertifikasi Okupasi Software Engineer",
+            "Skema Sertifikasi Okupasi Video Editor",
+            "Skema Sertifikasi Okupasi Web Developer",
+            "Skema Sertifikasi Penyusunan AMDAL"
+        ]
+    },
+    {
+        "campus": "Universitas Dr. Soetomo Surabaya",
+        "schemes": [
+            "Ahli Madya Perencana Pondasi",
+            "Bahasa Jepang Untuk Asisstant Manager Perhotelan",
+            "Executive Administrative Assistant",
+            "Humas Manajerial",
+            "Jenjang Kualifikasi 4 Untuk Pengajar",
+            "Nahkoda Kapal Penangkap Ikan",
+            "Pembuatan Perjanjian Kerja Bersama",
+            "Pembudidayaan Perikanan Tambak dan Kolam",
+            "Pemrograman Web",
+            "Pengelolaan Kinerja Pekerja",
+            "Pengorganisasian Program Pemberdayaan Masyarakat",
+            "Penyuluh Perikanan Supervisor",
+            "Praktisi Produktivitas",
+            "Supervisor Pengendalian Mutu Untuk Penelitian dan Pengembangan Produk",
+            "Teknisi Akuntansi Madya",
+            "Tenaga Fasilitator Pengembangan Masyarakat",
+            "Tenaga Pemasar Manajerial"
+        ]
+    },
+    {
+        "campus": "Universitas Esa Unggul",
+        "schemes": [
+            "Humas Junior",
+            "Software Quality Assurance",
+            "Supervisi Pengendali Mutu",
+            "System Analyst",
+            "Teknisi Akuntansi Madya",
+            "Tenaga Pemasar Operasional"
+        ]
+    },
+    {
+        "campus": "Universitas Fort De Kock Bukittinggi",
+        "schemes": [
+            "SKEMA KLASTER PELAKSANA PROFESI KEPERAWATAN",
+            "SKEMA KLASTER PELAKSANAAN PEKERJA FISIOTERAPI",
+            "Skema Okupasi Nasional Kebidanan"
+        ]
+    },
+    {
+        "campus": "Universitas Gadjah Mada",
+        "schemes": [
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "KONSULTAN PERJALANAN",
+            "Mekanik Hidrolik Alat Berat Senior"
+        ]
+    },
+    {
+        "campus": "Universitas Gunadarma",
+        "schemes": [
+            "Account Officer Credit Analyst",
+            "Ahli Perencanaan Jaringan Drainase",
+            "Analis Senior Rekrutmen dan Seleksi SDM",
+            "Asisten Manajer Perancangan Instalasi Pemanfaatan Tegangan Rendah",
+            "Bidang Otomasi Industri",
+            "Data Analyst",
+            "Data Architect",
+            "DESAINER GRAFIS MUDA (JUNIOR GRAPHIC DESIGNER)",
+            "Desainer Konten Visual Junior",
+            "Desktop Byod Support Supervisor",
+            "FASILITATOR ORGANIK TANAMAN",
+            "Fotografer Madya",
+            "Funding Sales Representative",
+            "Ilmuwan Data (Data Scientist)",
+            "Ilmuwan Data Madya (Associate Data Scientist)",
+            "Insinyur Data Madya (Associate Data Engineer)",
+            "Instruktur Senior",
+            "Junior Web Programmer",
+            "Klaster Merencanakan dan Memilih SDM yang Berkualitas",
+            "Klaster Pemeriksaan Laporan Keuangan",
+            "Klaster Pengelolaan Proses Pembelajaran dan Pengembangan SDM",
+            "Klaster Pengembangan Sikap dan Perilaku Angkatan Kerja",
+            "Klaster Penyediaan Informasi Akuntansi Keuangan",
+            "Klaster Penyediaan Informasi Akuntansi Manajerial",
+            "Klaster Penyediaan Informasi Perpajakan",
+            "KOMUNIKASI BAHASA MANDARIN DASAR",
+            "Kualifikasi 5 Bidang Elektronika Prototipe dan Pemrograman",
+            "Kualifikasi 5 Pemasaran Sub Bidang Layanan",
+            "Kualifikasi 6 Bidang Elektronika Prototipe dan Pemrograman",
+            "Kualifikasi 6 Pemasaran Sub Bidang Layanan",
+            "Kualifikasi 6 Pemasaran Sub Bidang Penjualan",
+            "MENYEDIAKAN JASA KONSULTANSI PERENCANAAN DESTINASI PARIWISATA",
+            "PEMANDU WISATA",
+            "PEMROGRAM (PROGRAMMER)",
+            "Pemrogram Objek (Object Programmer)",
+            "Penelitian Kehumasan",
+            "Penerjemah Teks Umum",
+            "Pengelolaan Layanan Teknologi Informasi",
+            "PENGELOLAAN PONDOK WISATA (HOMESTAY)",
+            "Pengendalian Kualitas Sistem Manufaktur",
+            "PENGGUNAAN KEMAMPUAN BAHASA MANDARIN DASAR",
+            "Perancangan Instalasi Ketenagalistrikan Bangunan",
+            "Perancangan Produk dan Proses",
+            "Perancangan Sistem Produksi",
+            "Perancangan Strategi Kehumasan",
+            "Percakapan Bahasa Inggris pada Tata Graha",
+            "Perencanaan dan Pengendalian Produksi",
+            "Perencanaan dan Perancangan Arsitektur",
+            "System Analyst",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Ahli Syariah",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Madya Syariah",
+            "Teknisi Akuntansi Muda",
+            "TEKNISI MUDA JARINGAN KOMPUTER",
+            "Teknisi Utama Jaringan Komputer",
+            "Tenaga Pemasar Manajerial Layanan",
+            "Tenaga Pemasar Manajerial Penjualan",
+            "Tenaga Pemasar Operasional Layanan",
+            "Tenaga Pemasar Operasional Penjualan",
+            "Video Editing"
+        ]
+    },
+    {
+        "campus": "Universitas Hasanudin",
+        "schemes": [
+            "Advisor Pengawas Mutu Pakan",
+            "Analis Benih",
+            "Fasilitator Bidang Pertanian Organik Tanaman",
+            "Formulator Pakan",
+            "Juru Sembelih Halal",
+            "Manajemen Resiko Agribisnis",
+            "Manajer Agribisnis Bidang Pemasaran",
+            "Mandor Farm Unggas Pedaging",
+            "Mandor Farm Unggas Petelur",
+            "Menjalankan Organisasi Perusahaan Industri",
+            "Pelaksanaan Budidaya Rumput Laut",
+            "Pelaksanaan Pembenihan Ikan Bandeng",
+            "Pelaksanaan Pembenihan Ikan Kerapu",
+            "Pemasaran Digital (Digital Marketing)",
+            "Pendirian Perusahaan Industri",
+            "Pengelola Produksi Jasa Informasi Pariwisata",
+            "Pengembangbiakan Ruminansia",
+            "Penyelia Halal",
+            "Penyuluh Pertanian Fasilitator",
+            "Perencanaan Produksi Agro",
+            "Petugas Inseminasi Buatan",
+            "Senior Manajer Agribisnis",
+            "SUPERVISOR PENGAWAS MUTU PAKAN",
+            "Teknisi Pembudidaya Ikan",
+            "Teknisi Perawatan Alsintan Pra Panen, Panen dan Pasca Panen",
+            "WELDING INSPECTOR COMPREHENSIVE"
+        ]
+    },
+    {
+        "campus": "Universitas Indonesia",
+        "schemes": [
+            "Analisis Kebijakan Publik (Level 6)",
+            "Analisis Kebijakan Publik (Level 7)",
+            "Analisis Kebijakan Publik (Level 8)",
+            "Analisis Perpajakan Pajak Penghasilan Orang Pribadi",
+            "Certified Liaison Officer Specialist",
+            "Certified Marketing Communication Specialist",
+            "Fotografer Madya",
+            "Kepemanduan Wisata",
+            "Kewirausahaan",
+            "Kredit Perbankan (Credit Officer)",
+            "Occupational Health and Safety Officer",
+            "Office Executive Administrative Assistant",
+            "Okupasi Underwriting Asuransi (Level 5)",
+            "Orthopedic Manipulative Physiotherapy",
+            "Pemeriksaan Kondisi Umum dan Tanda-Tanda Vital",
+            "PEMROGRAM (PROGRAMMER)",
+            "Penerjemah Tersumpah",
+            "Pengelola Sumber Daya Manusia (MSDM Level 7)",
+            "Pengelola Sumber Daya Manusia (MSDM Level 8)",
+            "Pengelolaan Kearsipan Dasar",
+            "Perancangan Strategis Kreative dan Pembuatan Iklan (Creative)",
+            "Public Relation Officer",
+            "Public Speaking",
+            "Teknisi Akuntansi Madya"
+        ]
+    },
+    {
+        "campus": "Universitas Indraprasta PGRI",
+        "schemes": [
+            "Associate Data Engineer",
+            "Digital Marketing",
+            "Junior Graphic Designer",
+            "Junior Web Developer",
+            "Senior Office Operator"
+        ]
+    },
+    {
+        "campus": "Universitas Islam 45 Bekasi",
+        "schemes": [
+            "Advisor Penyuluh Pertanian",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT bidang sosial",
+            "Metodologi Pelatihan",
+            "Network Administrator Muda",
+            "PERANCANGAN INSTALASI LISTRIK TEGANGAN RENDAH PADA BANGUNAN GEDUNG DAN INDUSTRI",
+            "Supervisor Tekhnisi Bidang Komputer",
+            "Tenaga Pemasar Operasional Layanan",
+            "Tenaga Pemasar Operasional Penjualan",
+            "Video Editing"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Bandung",
+        "schemes": [
+            "Ahli Keselamatan dan Kesehatan Kerja (K3)",
+            "Associate Data Analyst",
+            "Associate Data Scientist",
+            "Desainer Grafis Muda",
+            "DOKTER PERUSAHAAN",
+            "Fotografer Studio",
+            "General Manager SDM",
+            "Instruktur Pelatihan",
+            "Kamerawan Televisi",
+            "Kepala Cabang Koperasi Simpan Pinjam dan Pembiayaan Syariah (KSPPS)",
+            "Kepala Divisi Operasional dan Keuangan KSPPS",
+            "Kepala Divisi Pembiayaan Koperasi Simpan Pinjam dan Pembiayaan Syariah (KSPPS)",
+            "Media Planning Manager",
+            "Melaksanakan Kegiatan Eksplorasi Sesuai Dengan Kaidah Good Mining Practice (GMP)",
+            "Memberikan Jasa Konsultasi Produk Investasi",
+            "Mendistribusikan dan Mendayagunakan Zakat",
+            "Menerapkan Azas dan Prinsip Penanggulangan Bencana",
+            "Menerapkan Komunikasi Kehumasan",
+            "Mengelola Keuangan dan Akuntansi (BPRS)",
+            "Mengelola Kontrak dan Swakelola Pengadaan Barang dan Jasa",
+            "Mengelola Portofolio Pembiayaan",
+            "Menyelenggarakan Penegakan Hukum dan Nasehat Hukum di Bidang Kearsipan",
+            "Menyusun Instrumen Kearsipan",
+            "Menyusun Sintesis Permasalahan Pada Bidang Data Analitik",
+            "Merancang Sistem Produksi",
+            "Merencanakan Pengadaan Barang dan Jasa",
+            "Multimedia Art Director",
+            "Pemasaran Digital",
+            "Pengelola Kehumasan",
+            "Pengelolaan Komunikasi Program Televisi",
+            "Pengelolaan Media Jurnalistik Siaran",
+            "Penulis Naskah Siaran Program Televisi",
+            "Penyelia Halal",
+            "Penyelia Pemasaran  Marketing Supervisor (Jenjang Kualifikasi 4)",
+            "Penyelia Pemasaran, Pendanaan dan Pembiayaan BPRS",
+            "Penyiar Variety Show/Specialty",
+            "Perencana Ahli Pertama",
+            "Supervisor Environment Lingkungan Pertambangan Mineral dan Batubara",
+            "Supervisor Rekruitmen dan Seleksi SDM",
+            "Supervisor SDM",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Madya (Kualifikasi V)",
+            "Teknisi Perpajakan Pph Badan Sektor Usaha  Jasa, Perdagangan Dan Manufaktur",
+            "Videographer"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Indonesia",
+        "schemes": [
+            "AHLI HIGIENE INDUSTRI MUDA (HIMU)",
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "Analisa Prosedur Dasar Kimia",
+            "ANALISIS SPEKTROFOTOMETRI SERAPAN ATOM",
+            "ANALISIS SPEKTROFOTOMETRI UV-VIS",
+            "ASSOCIATE DATA  ANALYST",
+            "PENANGGUNG JAWAB OPERASIONAL INSTALASI PENGENDALIAN PENCEMARAN UDARA",
+            "Penanggung Jawab Operasional Pengolahan Air Limbah",
+            "PENANGGUNG JAWAB PENGENDALIAN PENCEMARAN AIR",
+            "PENANGGUNG JAWAB PENGENDALIAN PENCEMARAN UDARA",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "Validasi Metode Kromatografi",
+            "Validasi Metode Spektrometri"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Negeri Madura",
+        "schemes": [
+            "General Banking",
+            "JENJANG 4 BIDANG KEWIRAUSAHAAN INDUSTRI",
+            "Kamerawan Televisi",
+            "Penyiar Televisi",
+            "Supervisor Sumber Daya Manusia",
+            "Teknisi Akuntansi Yunior - Syariah"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Negeri Profesor Kiai Haji Saifuddin Zuhri Purwokerto",
+        "schemes": [
+            "SKEMA SERTIFIKASI KLASTER  PELAKSANAAN PENDAFTARAN CAGAR BUDAYA",
+            "SKEMA SERTIFIKASI KLASTER  PENYALURAN PINJAMAN DAN PEMBIAYAAN SYARIAH",
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN PEMBELAJARAN SUMBER DAYA MANUSIA (SDM)",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN ZAKAT",
+            "SKEMA SERTIFIKASI KLASTER PENGEMBANGAN PERILAKU YANG TERKAIT ORANG LAIN",
+            "SKEMA SERTIFIKASI OKUPASI  ANALIS KEBIJAKAN PUBLIK",
+            "SKEMA SERTIFIKASI OKUPASI  FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "SKEMA SERTIFIKASI OKUPASI  FUNDING SALES REPRESENTATIVE",
+            "SKEMA SERTIFIKASI OKUPASI  PENDAMPING UMKM MADYA SPESIALIS BIDANG MANAJEMEN PEMASARAN",
+            "SKEMA SERTIFIKASI OKUPASI PUBLIC RELATIONS OFFICER",
+            "SKEMA SERTIFIKASI OKUPASI TENAGA PENDAMPING PROFESIONAL",
+            "SKEMA SERTIFIKASI OKUPASI TRAINER"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Raden Rahmat (UNIRA) Malang",
+        "schemes": [
+            "PENGEMBANG WEB PRATAMA",
+            "Skema sertifikasi KKNI  Kualifikasi 6 Bidang Manajemen Sumber Daya Manusia",
+            "Skema Sertifikasi KKNI Kualifikasi 4 (empat) Bidang Seni Musik, Sub Bidang  Kemusisian",
+            "Skema Sertifikasi Klaster Menghimpun dan Menyediakan Dana",
+            "Skema Sertifikasi Klaster Merancang Produk",
+            "Skema Sertifikasi Klaster Merancang Strategi Kehumasan",
+            "Skema Sertifikasi Klaster Perancangan Strategi Bisnis Lembaga Pendidikan",
+            "Skema Sertifikasi Okupasi Fasilitator Organik Tanaman",
+            "Skema Sertifikasi Okupasi Operator Komputer Muda",
+            "Skema Sertifikasi Okupasi Petugas Keselamatan Dan Kesehatan Kerja"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Sultan Agung",
+        "schemes": [
+            "Senior Office Operator"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Syekh-Yusuf",
+        "schemes": [
+            "Advance Office Operator",
+            "Executive Administrative Assistant (EAA)",
+            "Hubungan Industrial",
+            "Kewirausahaan Industri",
+            "Pelaksanaan Rekrutmen dan Seleksi SDM",
+            "Pemasaran Digital",
+            "Pemrogram Junior",
+            "Penerjemah Teks Umum",
+            "Pengelolaan Pemotretan",
+            "Penyediaan Informasi Akuntansi Dan Perpajakan",
+            "Perencanaan dan Pengendalian Produksi",
+            "Personil Keselamatan dan Kesehatan Kerja"
+        ]
+    },
+    {
+        "campus": "Universitas Islam Tribakti Lirboyo Kediri",
+        "schemes": [
+            "SKEMA PELAKSANAAN PENDAMPINGAN IKM",
+            "SKEMA PELAKSANAAN PROGRAM PELATIHAN KERJA",
+            "SKEMA PELAKSANAAN SPECIAL EVENT"
+        ]
+    },
+    {
+        "campus": "Universitas Ivet",
+        "schemes": [
+            "ANALIS UTAMA SISTEM INFORMASI GEOGRAFIS",
+            "Editor Video (Video Editor)",
+            "Instruktur Senior",
+            "JUNIOR WEB PROGRAMMER (JUNIOR WEB PROGRAMMER)",
+            "PEMANDU WISATA",
+            "Pemrogram Basis Data (Database Programmer)",
+            "Pengawas pengelasan /welding supervisor",
+            "Penyuluh Anti Korupsi",
+            "PERANCANGAN INSTALASI LISTRIK"
+        ]
+    },
+    {
+        "campus": "Universitas Kanjuruhan Malang (UNIKAMA)",
+        "schemes": [
+            "Fasilitator Penyuluhan Pertanian",
+            "Junior Web Developer",
+            "Penjualan Melalui E-Comerce",
+            "Supervisor Farm Unggas Pedaging",
+            "Supervisor Farm Unggas Petelur",
+            "Supervisor Pakan",
+            "Supervisor Perencanaan SDM",
+            "Supervisor Rekrutmen dan Seleksi SDM",
+            "Supervisor SDM"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS KATOLIK PARAHYANGAN",
+        "schemes": [
+            "Analis Human Capital",
+            "JENJANG 4 BIDANG KEWIRAUSAHAAN INDUSTRI",
+            "Pengelolaan Transformasi Industri 4.0",
+            "Petugas Keselamatan dan Kesehtan Kerja"
+        ]
+    },
+    {
+        "campus": "Universitas Katolik Widya Mandala Surabaya (LSP UKWMS)",
+        "schemes": [
+            "KKNI Jenjang 4 Bidang Kewirausahaan Industri",
+            "Klaster Penilaian Keamanan Pangan (Food Safety Assesment)",
+            "Klaster Penjualan Ritel melalui Platform Digital (Digital Retail Marketing)",
+            "Okupasi Kepala Bagian SDM",
+            "Okupasi Senior Secretary",
+            "Okupasi Teknisi Akuntansi Madya"
+        ]
+    },
+    {
+        "campus": "Universitas Lambung Mangkurat",
+        "schemes": [
+            "JENJANG 4 BIDANG KEWIRAUSAHAAN INDUSTRI",
+            "JURU BAHASA ISYARAT DENGAR",
+            "PEMANDU WISATA",
+            "Penyusunan Program Komunikasi Kehumasan",
+            "Pimpinan Produksi Pertunjukan"
+        ]
+    },
+    {
+        "campus": "Universitas Lampung",
+        "schemes": [
+            "Inspektor Tanaman Organik",
+            "PEMROGRAM (PROGRAMMER)",
+            "Pengendali Organisme Pengganggu Tumbuhan (OPT)",
+            "Perekayasa Radio Frekuensi"
+        ]
+    },
+    {
+        "campus": "Universitas Langlangbuana",
+        "schemes": [
+            "Digital Marketing",
+            "Penata Pembuatan Perjanjian Kerja",
+            "Perencanaan Produksi",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "Public Relations Officer"
+        ]
+    },
+    {
+        "campus": "Universitas Logistik dan Bisnis Internasional",
+        "schemes": [
+            "System Analyst",
+            "Teknisi Akuntansi Yunior",
+            "TEKNISI MUDA JARINGAN KOMPUTER"
+        ]
+    },
+    {
+        "campus": "Universitas Mataram",
+        "schemes": [
+            "Asisstant Chief Housekeeper",
+            "ASSISTANT FOOD AND BEVERAGE SERVICE MANAGER",
+            "Auditor Lingkungan Hidup",
+            "ENGINEER PERENCANAAN PEMBANGKIT LISTRIK TENAGA SURYA (PLTS)  ON-GRID",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "INSPEKTUR KEAMANAN PANGAN (DFI)",
+            "Konsultan Pendamping UMKM Bidang Sumber Daya Manusia",
+            "MANAJER PEMASARAN AGRIBISNIS",
+            "Media Relations Officer",
+            "PEMANDU WISATA",
+            "Supervisor Mutu Pakan"
+        ]
+    },
+    {
+        "campus": "Universitas Mercu Buana",
+        "schemes": [
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "Analisis secara Sistematis terhadap Penggunaan Energi, dan Konsumsi Energi dalam Ruang Lingkup Audit yang Ditetapkan",
+            "Asisten Manajer Pembangunan dan Pemasangan Distribusi Tenaga Listrik Tegangan Menengah",
+            "Asisten Manajer Pembangunan dan Pemasangan Distribusi Tenaga Listrik Tegangan Rendah",
+            "Asisten Produser Televisi",
+            "Associate Data Scientist",
+            "Business Intelligence Analyst",
+            "Desainer Grafis Junior",
+            "Desainer Konten Visual Junior",
+            "Engineer Desain Produk Manufaktur",
+            "ERP Analyst",
+            "Exhibition Planner",
+            "Ilmuan Data (Data Scientist)",
+            "Junior Engineer Desain Konstruksi Mekanik",
+            "Kepala Keuangan Mikro Bukan Bank",
+            "Koordinator Program Kehumasan",
+            "Kualifikasi 6 Bidang Otomasi Industri",
+            "Kualifikasi VI Bidang Konsultan Spesialis Kemasan Produk Industri Kecil dan Menengah",
+            "Mechanical Maintenance Junior Engineer",
+            "Melaksanakan Komunikasi dengan Pemangku Kepentingan",
+            "Melaksanakan Manajemen Isu",
+            "Melaksanakan Riset Kehumasan",
+            "Melakukan Pengumpulan Data Penggunaan Energi, Konsumsi Energi dalam Ruang Lingkup Audit yang Ditetapkan",
+            "Memberikan Layanan Konsultasi Manajemen Pemasaran",
+            "Memproduksi Konten Kehumasan",
+            "Memproduksi Materi Audio Visual Multimedia",
+            "Mendiagnosa Data",
+            "Menyusun Sintesis Permasalahan",
+            "Merancang Rekomendasi Solusi",
+            "Merumuskan Pernyataan Masalah Utama",
+            "Motion Designer",
+            "Pembuatan Iklan",
+            "Pengelolaan Hubungan Konsumen",
+            "Pengelolaan Proyek Desain",
+            "Pengelolaan Strategi Kampanye Periklanan",
+            "Perancangan Konsep dan Perencanaan Meeting Incentive, Convention and Exhibition (MICE)",
+            "Perancangan Produk dan Proses Manufaktur",
+            "Perancangan Sistem Manufaktur",
+            "Perekayasa Dimensi Kapasitas",
+            "Perekayasa Radio Frekuensi",
+            "SOFTWARE ENGINEER",
+            "Supervisor Pelatihan dan Pengembangan Sumber Daya Manusia",
+            "Supervisor Rekrutmen dan Seleksi Sumber Daya Manusia",
+            "Supply Chain Manager",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Madya",
+            "Tenaga Pemasar Manajerial"
+        ]
+    },
+    {
+        "campus": "Universitas Mercu Buana Yogyakarta (LSP UMBY)",
+        "schemes": [
+            "Asisten Produser Produksi Program Televisi",
+            "Executive Administrative Assistant (EAA)",
+            "Human Resources Supervisor",
+            "Inspektor Organik Tanaman",
+            "Instruktur",
+            "Instruktur Penyelia",
+            "Instruktur Senior (Senior Trainer)",
+            "Kepala Bagian Pelatihan dan Pengembangan",
+            "Level VI pada Kompetensi Keahlian Akuntansi",
+            "Pelaksanaan Penilaian Keamanan Pangan",
+            "Penyediaan Informasi Akuntansi Manajerial",
+            "Produksi Konten Kehumasan (Public Relations Content Production)",
+            "Public Relation Coordinator"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Makassar",
+        "schemes": [
+            "Skema Sertifikasi Klaster Melaksanakan Program Pelatihan",
+            "Skema Sertifikasi Klaster Pelaksanaan Budidaya dan Penanganan Pasca panen",
+            "Skema Sertifikasi Kualifikasi 4 Bidang Jasa Pengujian Laboratorium",
+            "skema sertifikasi kualifikasi jenjang 5 Bidang kewirausahaan Industri",
+            "Skema sertifikasi kualifikasi sertifikat V Konsultan Industri Kecil dan Menengah Sub Bidang Konsultan Manajemen Mutu",
+            "Skema Sertifikasi Okupasi Dokter Perusahaan",
+            "Skema Sertifikasi Okupasi Fasilitator Pemberdayaan Masyarakat",
+            "Skema Sertifikasi Okupasi Insinyur Data Madya"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Malang",
+        "schemes": [
+            "Amil Zakat Dasar",
+            "Ilmuwan Data (Data Scientist)",
+            "Juru Sembelih Halal",
+            "Kepala Bagian Pengendalian Mutu/QC",
+            "Konsultan Bidang MSDM IKM",
+            "Konsultan Manajemen Mutu IKM",
+            "Konsultan Manajemen Produksi IKM",
+            "Kualifikasi VI Bidang Sejarah",
+            "Manajer Amil Zakat",
+            "Manajer Produksi Budidaya Anggrek",
+            "Manajer Unit Farm Unggas Petelur",
+            "Manajer Unit Farm Unggas Pullet",
+            "Multimedia Graphic Designer (Desainer Grafis)",
+            "Paramedis Keselamatan dan Kesehatan Kerja Muda",
+            "Pembimbing Individu Berkebutuhan Khusus",
+            "Pembuatan Seni Pergerakan Buatan (Animasi)",
+            "Pendampingan UMKM Bidang Manajemen Pemasaran",
+            "Penerimaan Harta Benda Wakaf",
+            "Pengelolaan Pemasaran Agribisnis",
+            "Pengelolaan Pendampingan Lansia",
+            "Pengelolaan Produksi Agribisnis",
+            "Pengelolaan Produksi Ternak",
+            "Penguji Keselamatan dan Kesehatan Kerja",
+            "Penyelia Halal",
+            "Penyelia Laboratorium",
+            "Perancangan Mekanik Umum",
+            "Personil Keselamatan & Kesehatan Kerja",
+            "Pustakawan Sekolah",
+            "Skema Sertifikasi Analis Kebijakan Publik",
+            "Skema Sertifikasi Bahasa Inggris untuk Pariwisata Tata Graha",
+            "Skema Sertifikasi Bahasa Inggris untuk Tenaga Administrasi Profesional",
+            "Skema Sertifikasi Cyber Security Analyst",
+            "Skema Sertifikasi Database Administrator",
+            "Skema Sertifikasi Desainer Grafis Muda",
+            "Skema Sertifikasi Dokter Perusahaan",
+            "Skema Sertifikasi Evaluator Kinerja DAS",
+            "Skema Sertifikasi Executive Administrative Assistant",
+            "Skema Sertifikasi Fasilitator Pemberdayaan Masyarakat",
+            "Skema Sertifikasi Fisioterapi Kesehatan Kerja",
+            "Skema Sertifikasi Fisioterapi Komunitas",
+            "Skema Sertifikasi Funding Representatif",
+            "Skema Sertifikasi Junior Web Programmer",
+            "Skema Sertifikasi Kewirausahaan Industri",
+            "SKEMA SERTIFIKASI KLASTER  PRODUKSI ROTI",
+            "Skema Sertifikasi Klaster Pembuatan Batik Tulis",
+            "Skema Sertifikasi Klaster Penerbitan Buku",
+            "Skema Sertifikasi Klaster Pengelolaan Hasil Panen Produk Pertanian",
+            "Skema Sertifikasi Klaster Pengelolaan Pakan",
+            "Skema Sertifikasi Klaster Pengelolaan Syarat-syarat Kerja",
+            "Skema Sertifikasi Klaster Pengembangan Produk Pangan",
+            "SKEMA SERTIFIKASI KLASTER PRODUKSI SUSU KEDELAI",
+            "SKEMA SERTIFIKASI KLUSTER PRODUKSI NATA DE COCO",
+            "Skema Sertifikasi Konsultan Manajemen Keuangan Industri Kecil dan Menengah",
+            "Skema Sertifikasi Konsultan Manajemen Pemasaran Industri Kecil dan Menengah",
+            "Skema Sertifikasi Manajemen Hubungan Pelanggan",
+            "Skema Sertifikasi Okupasi Inspektor Madya Pengawasan Benih Tanaman",
+            "SKEMA SERTIFIKASI OKUPASI INSPEKTOR ORGANIK TANAMAN",
+            "SKEMA SERTIFIKASI OKUPASI LEVEL V  NETWORK ADMINISTRATOR MUDA (JUNIOR NETWORK ADMINISTRATOR)",
+            "Skema Sertifikasi Okupasi Pengendali Organisme Pengganggu Tanaman",
+            "Skema Sertifikasi Pelaksanaan Analisis Mikrobiologi",
+            "Skema Sertifikasi Pengembang Web",
+            "Skema Sertifikasi Pengembangan Sikap Perilaku Diri Sendiri",
+            "Skema Sertifikasi Penyiaran Radio",
+            "Skema Sertifikasi Penyuluh Kehutanan Fasilitator",
+            "Skema Sertifikasi Penyutradaraan TV",
+            "Skema Sertifikasi Perancang Sistem Elektronik",
+            "Skema Sertifikasi Perancang Sistem Kelistrikan",
+            "Skema Sertifikasi Perencanaan Meeting, Incentive, Convention, and Exhibition (MICE)",
+            "Skema Sertifikasi Produser TV",
+            "Skema Sertifikasi Public Relations Officer",
+            "Skema Sertifikasi Quantity Surveyor",
+            "Skema Sertifikasi Rohaniawan Rumah Sakit",
+            "Skema Sertifikasi Supervisor Research and Development (R&D) Industri Kosmetik",
+            "Skema Sertifikasi Teknisi Akuntansi Ahli",
+            "Skema Sertifikasi Teknisi Pembudidaya Ikan",
+            "Skema Sertifikasi Teknisi Perpajakan PPh Badan Sektor Jasa dan Perdagangan",
+            "Skema Sertifikasi Teknisi Perpajakan PPh Badan Sektor Manufaktur",
+            "Skema Teknisi Akuntansi Ahli Syariah",
+            "Supervisor Muda Manajemen BPRS",
+            "SUPERVISOR PENGAWAS MUTU PAKAN",
+            "Supervisor Perencanaan SDM",
+            "Teater Individu dan Kelompok",
+            "Welding Inspector Comprehensive (Kualifikasi V)",
+            "Welding Inspector Standard (Kualifikasi IV)"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Metro",
+        "schemes": [
+            "Data Entry Coordinator",
+            "Fotografer Studio",
+            "Instruktur (Kualifikasi IV)",
+            "Laboran (Kualifikasi II)",
+            "Penata Pembuatan Perjanjian Kerja (Kualifikasi IV)",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "SKEMA SERTIFIKASI KOMPETENSI KLASTER PENDAMPINGAN KEWIRAUSAHAAN",
+            "SKEMA SERTIFIKASI KOMPETENSI OKUPASI OPERATOR KOMPUTER MUDA",
+            "SKEMA SERTIFIKASI KOMPETENSI OKUPASI TEKNISI AKUNTANSI YUNIOR",
+            "Supervisor Rekrutmen dan Seleksi SDM (Kualifikasi IV)",
+            "Teknisi Akuntansi Madya"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah PKU Surakarta",
+        "schemes": [
+            "Klaster Bahasa Inggris Keperawatan Generalis",
+            "Klaster Konsultasi Kesehatan Ibu dan Anak",
+            "Klaster Pelayanan Gizi Masyarakat",
+            "Klaster Pemenuhan Kebutuhan Rasa Nyaman",
+            "Klaster Pengelolaan Bidang Elektromedis",
+            "Klaster Perawatan Luka",
+            "Okupasi Paramedis Kesehatan dan Keselamatan Kerja Muda",
+            "Okupasi Software Engineer",
+            "Skema Pelayanan Prima"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Sidoarjo",
+        "schemes": [
+            "SKEMA SERTIFIKASI  KUALIFIKASI JENJANG IV KONSULTAN PENDAMPING UMKM",
+            "SKEMA SERTIFIKASI  OKUPASI ASISTEN ANALIS KEBIJAKAN",
+            "SKEMA SERTIFIKASI  OKUPASI TRAINER",
+            "SKEMA SERTIFIKASI KLASTER DIGITAL MARKETING",
+            "SKEMA SERTIFIKASI KLASTER PEMERIKSAAN KUALITAS PRODUKSI MANUFAKTUR",
+            "SKEMA SERTIFIKASI KLASTER PENERAPAN HAZARD ANALYSIS CRITICAL CONTROL (HACCP)",
+            "SKEMA SERTIFIKASI KLASTER PENGAMBILAN DAN PENANGANAN SAMPEL",
+            "SKEMA SERTIFIKASI KLASTER PENGEMASAN BAHAN PANGAN",
+            "SKEMA SERTIFIKASI KLASTER PENYUSUNAN RANCANGAN KONTRAK",
+            "SKEMA SERTIFIKASI KLASTER PERENCANAAN DAN PENGENDALIAN PRODUKSI MANUFAKTUR",
+            "SKEMA SERTIFIKASI OKUPASI  ASISTEN PRODUSER",
+            "SKEMA SERTIFIKASI OKUPASI  JUNIOR ADMINISTRATIVE ASSISTANT",
+            "SKEMA SERTIFIKASI OKUPASI  MEDIA RELATIONS OFFICER",
+            "SKEMA SERTIFIKASI OKUPASI  NETWORK ADMINISTRATOR MUDA",
+            "SKEMA SERTIFIKASI OKUPASI  WELDING ENGINEER",
+            "SKEMA SERTIFIKASI OKUPASI FUNDING PRODUCT DEVELOPMENT MANAGER",
+            "SKEMA SERTIFIKASI OKUPASI FUNDING SALES REPRESENTATIVE",
+            "SKEMA SERTIFIKASI OKUPASI ILMUWAN DATA (DATA SCIENTIST)",
+            "SKEMA SERTIFIKASI OKUPASI INSPEKTOR ORGANIK TANAMAN",
+            "SKEMA SERTIFIKASI OKUPASI MANAJER PENGUMPULAN",
+            "SKEMA SERTIFIKASI OKUPASI PENERJEMAH TEKS UMUM",
+            "SKEMA SERTIFIKASI OKUPASI SUPERVISOR REKRUTMEN DAN SELEKSI SDM",
+            "SKEMA SERTIFIKASI OKUPASI SUPERVISOR SUMBER DAYA MANUSIA (SDM)",
+            "SKEMA SERTIFIKASI OKUPASI TEKNISI",
+            "SKEMA SERTIFIKASI OKUPASI TEKNISI AKUNTANSI MADYA",
+            "SKEMA SERTIFIKASI OKUPASI TENAGA PEMASAR MANAJERIAL PEMASARAN"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Surabaya",
+        "schemes": [
+            "DOKTER PERUSAHAAN",
+            "Inspektur pesawat angkat",
+            "Kepala Bagian/Analis Senior Perencanaan SDM",
+            "Kualifikasi 5 Bidang Kewirausahaan Industri",
+            "KUALIFIKASI 5 BIDANG PENGELOLAAN ZAKAT",
+            "PARAMEDIS KESELAMATAN DAN KESEHATAN KERJA MUDA (K3 MUDA)",
+            "PETUGAS KESELAMATAN DAN KESEHATAN KERJA (K3)",
+            "Teknisi Perpajakan PPH Badan Sektor Usaha Jasa dan Perdagangan"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Surakarta",
+        "schemes": [
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Kewirausahaan Industri",
+            "Pemasaran Digital (Digital Marketing)",
+            "PEMROGRAM (PROGRAMMER)",
+            "PETUGAS KESELAMATAN DAN KESEHATAN KERJA (K3)",
+            "Supervisor Rekrutmen dan Seleksi SDM",
+            "Teknisi Akuntansi Ahli"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Tangerang",
+        "schemes": [
+            "Analis Pencegahan Dan Penyelesaian Perselisihan Hubungan Industrial",
+            "Asisten Analis Kebijakan",
+            "Desainer Grafis Muda (Junior Graphic Desainer)",
+            "Fotografer Junior",
+            "Manager Pendistribusian Dan Pendayagunaan Zakat",
+            "Manager Pengumpulan",
+            "PEMROGRAM (PROGRAMMER)",
+            "Penata Pembuatan Perjanjian Kerja",
+            "Perencanaan dan Pengendalian Produksi",
+            "Public Relations Officer",
+            "Skema Sertifikasi KKNI Level 6 Pada Bidang Tenaga Pemasaran Manajerial",
+            "Skema Sertifikasi KKNI Level V Pada Bidang Kewirausahaan Industri",
+            "Skema Sertifikasi Kualifikasi VI Pada Bidang Manajemen Sumber Daya Manusia (SDM)",
+            "Skema Sertifikasi Kualifikasi VII Pada Bidang Manajemen Sumber Daya Manusia (SDM)",
+            "Skema Sertifikasi Okupansi Teknisi Akuntansi Ahli",
+            "Skema Sertifikasi Okupansi Teknisi Akuntansi Madya",
+            "Staf Pengumpulan",
+            "Teknisi Akuntansi Ahli Syariah",
+            "Teknisi Akuntansi Madya Syariah"
+        ]
+    },
+    {
+        "campus": "Universitas Muhammadiyah Yogyakarta",
+        "schemes": [
+            "Analis Kebijakan Publik",
+            "Analis Pencegahan Dan Penyelesaian Perselisihan  Hubungan Industrial",
+            "Analis Perjanjian Kerja dan Kelembagaan Hubungan Industrial",
+            "Analis Remunerasi",
+            "Assistant Engineer Otomasi Industri",
+            "Bahasa Inggris Untuk Perawat Generalis",
+            "Battra Ramuan Utama",
+            "DATABASE ADMINISTRATOR",
+            "Dokter Kesehatan Kerja Pratama",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Inspektor Budidaya Tanaman",
+            "Manager Pemasaran Agribisnis",
+            "Manajer Produksi Agribisnis",
+            "Manajer Sumber Daya Manusia Agribisnis",
+            "Melakukan Komunikasi Verbal (Maharah Kalam)",
+            "Melakukan Pengembangan Soft Skills",
+            "Mobile Programmer",
+            "Network Administrator",
+            "Pemandu Ekowisata (Eco-Guide)",
+            "Pemeliharaan Alat Radiologi Teknologi Sederhana dan Menengah",
+            "Penerapan Bahasa Inggris Untuk Executive Administrative  Assistant",
+            "Penerapan Bahasa Jepang Untuk Asisstant Manager Hotel",
+            "Pengelolaan Akuntansi dan Administrasi Bank",
+            "Pengelolaan Informasi Operasional Produk dan Jasa Perbankan",
+            "Pengelolaan Operasional Produk dan Jasa Perbankan",
+            "Pengelolaan Strategi Bisnis",
+            "Perancangan Mekanik Umum",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "Produser TV",
+            "Public Affair Analyst",
+            "Public Relations Coordinator",
+            "Service Advisor",
+            "Strategic Planner",
+            "Supervisor Otomasi Industri",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Ahli Syariah",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Senior Otomasi Industri",
+            "Tenaga Pemasar Manajerial Penjualan",
+            "Welding Supervisor"
+        ]
+    },
+    {
+        "campus": "Universitas Multi Data Palembang",
+        "schemes": [
+            "Analis Senior Hubungan Industrial",
+            "Data Model Administrator",
+            "DATABASE ADMINISTRATOR",
+            "Junior Web Programmer",
+            "Pengembang Web",
+            "System Analyst",
+            "Teknisi Perpajakan"
+        ]
+    },
+    {
+        "campus": "Universitas Nahdlatul Ulama Surabaya (UNUSA)",
+        "schemes": [
+            "Ahli K3 Madya",
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "Ahli Muda Higiene Industri",
+            "Analis Operasi Laboratorium",
+            "Analis Program",
+            "Auditor Madya Teknologi Informasi",
+            "Junior/Associate Data Scientist",
+            "Kepala Bagian Pendanaan",
+            "Kepala Baitul Maal",
+            "KEPALA CABANG/MANAJER KOPERASI JASA KEUANGAN",
+            "Konsultan Pendamping UMKM Senior Spesialis Bidang Manajemen Keuangan",
+            "Konsultan Pendamping UMKM Senior Spesialis Bidang Manajemen Operasi dan Produksi",
+            "Konsultan Pendamping UMKM Senior Spesialis Bidang Manajemen Pemasaran",
+            "Konsultan Pendamping UMKM Senior Spesialis Bidang Manajemen Sumber Daya Manusia",
+            "Merancang Strategi, Media dan Evaluasi Pembelajaran",
+            "Paramedis Keselamatan dan Kesehatan Kerja Muda",
+            "Pelayanan Tumbuh Kembang Anak",
+            "Pemasaran Digital (Digital Marketing)",
+            "Pemeriksaan Biologi Molekuler",
+            "Pengambilan Darah (Phlebotomy)",
+            "Penjaga Lansia",
+            "Penyelia Halal",
+            "Perawat Generik",
+            "Perawat Vokasi",
+            "SPA Bayi",
+            "SPA Kehamilan",
+            "System Analyst",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akutansi Ahli"
+        ]
+    },
+    {
+        "campus": "Universitas Narotama",
+        "schemes": [
+            "AHLI MUDA MANAJEMEN KONSTRUKSI",
+            "Analis Kebijakan Publik",
+            "ANALIS MUDA HUBUNGAN INDUSTRIAL",
+            "ANALISIS TINGKAT PRODUKTIVITAS",
+            "JURU GAMBAR PEKERJAAN JALAN DAN JEMBATAN",
+            "PEMASANGAN SISTEM JARINGAN KOMPUTER",
+            "Pemasaran Digital",
+            "PEMASARAN PRODUK",
+            "Penata Pembuatan Perjanjian Kerja",
+            "Penata Penyelesaian Perselisihan Hubungan Industrial",
+            "Pendampingan UMKM",
+            "PENGGUNAAN DASAR-DASAR BAHASA PEMROGRAMAN",
+            "PENGOPERASIAN PERANGKAT LUNAK UNTUK PERKANTORAN",
+            "SOFTWARE ENGINEER",
+            "Staf Sumber Daya Manusia",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Muda",
+            "Tenaga Pemasar Operasional"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Gorontalo",
+        "schemes": [
+            "Analis Penginderaan Jauh",
+            "Analis Sistem Informasi Geografis",
+            "Data Analyst",
+            "Pemandu Geowisata",
+            "Pemrogram Junior",
+            "Pengenalan Nama Pohon",
+            "Penilai Kondisi Komunitas Mangrove",
+            "Penyelia Laboratorium",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "Teknisi Laboratorium"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Jakarta",
+        "schemes": [
+            "Chef de Partie Pastry",
+            "Inspektor Keamanan Pangan",
+            "Pelaksanaan Program Pelatihan Tatap Muka",
+            "Senior Beautician",
+            "Senior Stylist",
+            "Teknisi Senior Chasis and Suspension"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Makassar (UNM)",
+        "schemes": [
+            "Okupasi Pendamping UMKM Utama",
+            "Okupasi Pengembang Web Pratama (Junior Web Developer)",
+            "Okupasi Penulis Naskah Program Siaran Televisi",
+            "Okupasi Petugas Keselamatan dan Kesehatan Kerja",
+            "R&D Formulator Pangan",
+            "Sertifikasi KKNI Jenjang 4 Bidang Kewirausahaan Industri",
+            "Sertifikasi KKNI Jenjang 5 Bidang Kewirausahaan Industri",
+            "Sertifikasi Klaster Memberikan Pelayanan Gizi Olahraga untuk Kebugaran dan Prestasi",
+            "Sertifikasi Okupasi Analis Lapangan dan Petugas Pengambil Contoh",
+            "Sertifikasi Okupasi Analis Program (Program Analyst)",
+            "Sertifikasi Okupasi Art Director",
+            "Sertifikasi Okupasi CG Supervisor",
+            "Sertifikasi Okupasi Fasilitator Pemberdayaan Masyarakat",
+            "Sertifikasi Okupasi Manager Pemasaran bidang Manajemen Agribisnis",
+            "Sertifikasi Okupasi Manajer Proyek TIK (ICT Project Manager)",
+            "Sertifikasi Okupasi Operator Keselamataan dan Kesehatan Kerja",
+            "Sertifikasi Okupasi Operator Komputer Muda",
+            "Sertifikasi Okupasi Pendamping UMKM Madya",
+            "Sertifikasi Okupasi Supervisor Perencanaan SDM",
+            "Sertifikasi Okupasi Supervisor Rekrutmen dan Seleksi SDM",
+            "Sertifikasi Okupasi Supervisor Sumber Daya Manusia",
+            "Sertifikasi Okupasi Teknisi Senior Otomasi Industri",
+            "Sertifiksi Okupasi Staf (Administrasi) Rekrutmen dan Seleksi SDM",
+            "Skema Sertifikasi Klaster Pengawasan Mutu Produk Olahan Hasil  Panen Pertanian",
+            "Skema Sertifikasi Klaster Pengelolaan Gerai Jasa Boga",
+            "Skema sertifikasi klaster Perancang Rangkaian Elektronika",
+            "Skema Sertifikasi Okupasi Asisten Desainer Custom Made Wanita",
+            "Skema Sertifikasi okupasi Supervisor Custom Made Wanita",
+            "Skema Sertifikasi Okupasi Supervisor Pembangunan dan Pemasangan Pemanfaatan Tegangan Rendah",
+            "Skema Sertifikasi Okupasi Teknisi Utama Jaringan Komputer",
+            "Skema sertifikasi okupasi Welding Technologist"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Malang",
+        "schemes": [
+            "5 Bidang Kewirausahaan Industri",
+            "Asisten Desainer Custom Made Wanita",
+            "Asisten Executive Chef",
+            "Chef De Party Pastry",
+            "Desainer Busana Anak/Wanita/Pria",
+            "Desainer Grafis Junior",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Instruktur Senior",
+            "Kepemanduan Wisata",
+            "Penerbitan Buku",
+            "Pengelolaan Laboratorium",
+            "Perancangan Mekanik Umum",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "Pustakawan Ahli Pertama",
+            "Service Kelistrikan Kendaraan Roda Empat",
+            "Supervisor Custom Made Wanita",
+            "Teknisi Instalasi Listrik Penerangan Daya Dan Fasa Satu",
+            "Teknisi Otomasi Industri",
+            "Teknisi Utama Jaringan Komputer"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Padang",
+        "schemes": [
+            "Baker",
+            "Barista",
+            "Bidding Specialist",
+            "Butcher",
+            "Certified Venue Management Specialist",
+            "Front Office Supervisor",
+            "Kualifikasi 4 Bidang Otomasi Industri",
+            "Kualifikasi 5 Bidang Otomasi Industri",
+            "Operator Penginderaan Jauh",
+            "Operator Senior Custom Made Wanita",
+            "Pelaksanaan Pendampingan Pemberdayaan Masyarakat Desa",
+            "Pelatih",
+            "Pelatih di Tempat Kerja",
+            "Penata Rias Yunior Pengantin Gaun Panjang",
+            "PENULIS NASKAH PROGRAM SIARAN TELEVISI",
+            "Perawatan Kulit Wajah",
+            "Perawatan SPA",
+            "Pewarnaan Rambut.",
+            "RECEPTIONIST",
+            "Room Attendant",
+            "Supervisor Environment pada Pertambangan Mineral dan Batubara",
+            "Survey Technician",
+            "Trainer",
+            "WAITER",
+            "Welding Practitioner/ Foreman"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Semarang",
+        "schemes": [
+            "Skema Sertifikasi Klaster Penulisan Ilmiah",
+            "Skema Sertifikasi Okupasi Administrative Assistant",
+            "Skema Sertifikasi Okupasi Desainer Anak/Wanita/Pria",
+            "Skema Sertifikasi Okupasi Operator Utama Sistem Informasi Geografis",
+            "Skema Sertifikasi Okupasi Pendamping UMKM Madya Bidang Manajemen Pemasaran"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Surabaya",
+        "schemes": [
+            "Asisten Desainer",
+            "DESAINER BUSANA ANAK/ WANITA/ PRIA",
+            "DESAINER GRAFIS MUDA (JUNIOR GRAPHIC DESIGNER)",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Junior Web Programmer",
+            "KEPALA DAPUR",
+            "Lead Computer Operator",
+            "Pengolahan Air Limbah",
+            "PERIAS PENGANTIN GAUN PANJANG",
+            "Teknisi Akuntansi Madya"
+        ]
+    },
+    {
+        "campus": "Universitas Negeri Yogyakarta",
+        "schemes": [
+            "COMMIS PASTRY",
+            "KEPALA BENGKEL",
+            "MODIFIKASI  RIAS PENGANTIN YOGYA PUTRI",
+            "Network Administrator Muda",
+            "PEMROGRAM (PROGRAMMER)"
+        ]
+    },
+    {
+        "campus": "Universitas Ngudi Waluyo",
+        "schemes": [
+            "DESAINER BUSANA ANAK/ WANITA/ PRIA",
+            "Klaster Pelayanan Gizi Masyarakat",
+            "Klaster Perawatan Luka",
+            "Okupasi Analis Pencegahan dan Penyelesaian Perselisihan Hubungan Industrial",
+            "Okupasi Fasilitator Pemberdayaan Masyarakat",
+            "Okupasi Penerjemah Teks Umum",
+            "Okupasi Teknisi Perpajakan Penghasilan Pasal 21",
+            "Perawatan Setelah Melahirkan (Postnatal)",
+            "Programmer"
+        ]
+    },
+    {
+        "campus": "Universitas Nusa Mandiri",
+        "schemes": [
+            "Analis Program",
+            "Network Administrator Madya"
+        ]
+    },
+    {
+        "campus": "Universitas Pamulang",
+        "schemes": [
+            "ADMINISTRATIVE ASSISTANT (AA) (LEVEL 3)",
+            "KUALIFIKASI 3 OPERASI LABORATORIUM",
+            "KUALIFIKASI 3 PADA BIDANG ADMINISTRASI PROFESIONAL",
+            "KUALIFIKASI 3 PADA BIDANG PELATIHAN SUBBIDANG METODOLOGI PELATIHAN",
+            "KUALIFIKASI 4 BIDANG MANAJEMEN SUMBER DAYA MANUSIA",
+            "PEMROGRAM (PROGRAMMER)",
+            "PENGELOLAAN PORTOFOLIO KREDIT",
+            "PENGINSTALASIAN OTOMASI BANGUNAN BERBASIS PLC",
+            "PENULIS NASKAH PROGRAM SIARAN TELEVISI",
+            "SKEMA ANALIS KEBIJAKAN PUBLIK",
+            "SKEMA SERTIFIKASI KKNI KUALIFIKASI 5 BIDANG GENERAL BANKING",
+            "SKEMA SERTIFIKASI KKNI KUALIFIKASI 6 BIDANG PASAR MODAL SUBBIDANG PENGAWASAN SYARIAH",
+            "SKEMA SERTIFIKASI KLASTER  MELAKSANAKAN PEMERIKSAAN LAPORAN KEUANGAN",
+            "SKEMA SERTIFIKASI KLASTER  MELAKSANAKAN PENYEDIAAN INFORMASI AKUNTANSI KEUANGAN",
+            "SKEMA SERTIFIKASI KLASTER  MELAKSANAKAN PENYEDIAAN INFORMASI PERPAJAKAN",
+            "SKEMA SERTIFIKASI KLASTER  PELAKSANAAN MANAJEMEN PERKANTORAN",
+            "SKEMA SERTIFIKASI KLASTER MEMBANGUN MEREK SECARA DIGITAL",
+            "Skema Sertifikasi Klaster Pengelolaan Kegiatan Back Office",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN KEGIATAN FRONT OFFICE",
+            "SKEMA SERTIFIKASI KLASTER PENULISAN SEJARAH",
+            "SKEMA SERTIFIKASI KLASTER PENYUTRADARAAN FILM",
+            "Skema Sertifikasi Klaster Perancangan Strategi Kehumasan",
+            "Skema Sertifikasi Kualifikasi V Bidang Kewirausahaan Industri",
+            "SKEMA SERTIFIKASI KUALIFIKASI VI TENAGA PEMASAR MANAJERIAL",
+            "SKEMA SERTIFIKASI OKUPASI  ASSOCIATE DATA ANALYST",
+            "SKEMA SERTIFIKASI OKUPASI ANALIS PENCEGAHAN DAN PENYELESAIAN PERSELISIHAN HUBUNGAN INDUSTRIAL (KUALIFIKASI 5 BIDANG HUBUNGAN INDUSTRIAL)",
+            "SKEMA SERTIFIKASI OKUPASI ANALIS PROGRAM",
+            "SKEMA SERTIFIKASI OKUPASI ASSOCIATE DATA SCIENTIST",
+            "Skema Sertifikasi Okupasi Executive Administrative Assistant",
+            "SKEMA SERTIFIKASI OKUPASI INSTRUKTUR MUDA (KUALIFIKASI 5 BIDANG PELATIHAN KERJA DAN SERTIFIKASI SUBBIDANG PELATIHAN KERJA KELOMPOK INSTRUKTUR)",
+            "SKEMA SERTIFIKASI OKUPASI KETUA GRUP PEMBANGUNAN DAN PEMASANGAN PEMANFAATAN TEGANGAN RENDAH",
+            "SKEMA SERTIFIKASI OKUPASI KONSULTAN MANAJEMEN IKM SUB BIDANG MANAJEMEN KEUANGAN",
+            "SKEMA SERTIFIKASI OKUPASI KONSULTAN MANAJEMEN IKM SUB BIDANG MANAJEMEN PRODUKSI",
+            "SKEMA SERTIFIKASI OKUPASI KONSULTAN MANAJEMEN IKM SUB BIDANG MANAJEMEN SUMBER DAYA MANUSIA (SDM)",
+            "SKEMA SERTIFIKASI OKUPASI KONSULTAN MANAJEMEN IKM SUB BIDANG PEMASARAN",
+            "SKEMA SERTIFIKASI OKUPASI MANAJER SUMBER DAYA MANUSIA (KUALIFIKASI 6 BIDANG MANAJEMEN SUMBER DAYA MANUSIA)",
+            "SKEMA SERTIFIKASI OKUPASI NETWORK ADMINISTRATOR",
+            "SKEMA SERTIFIKASI OKUPASI TEKNISI AKUNTANSI AHLI - SYARIAH",
+            "Skema Sertifikasi Okupasi Teknisi Utama Jaringan Komputer",
+            "SKEMA SERTIFIKASI OKUPASI WELDING ENGINEER",
+            "SKEMA SERTIFIKASI PEMBUATAN MODEL 3D DENGAN SISTEM CAD",
+            "SKEMA SERTIFIKASI PERENCANAAN DAN PENGENDALIAN PRODUKSI",
+            "SPESIALIS PENCEGAHAN DAN PENYELESAIAN PERSELISIHAN HUBUNGAN INDUSTRIAL",
+            "TEKNISI AKUNTANSI PRATAMA (Level 3)",
+            "TEKNISI AKUNTANSI PRATAMA \u00e2\u20ac\u201c SYARIAH (LEVEL 3)",
+            "TEKNISI PERPAJAKAN PPH BADAN SEKTOR USAHA JASA & PERDAGANGAN (LEVEL 5)",
+            "TENAGA PEMASAR OPERASIONAL (LEVEL 5)"
+        ]
+    },
+    {
+        "campus": "Universitas Pancasila",
+        "schemes": [
+            "Ahli Muda Pengukuran Jalan",
+            "Asisten Psikolog",
+            "Database Programmer",
+            "Dispensing Obat di Farmasi Komunitas",
+            "Enterprise Resource Planning Analyst",
+            "Farmasi Klinik Di Farmasi Komunitas",
+            "Instalasi Kabel Fiber Optik",
+            "Kewirausahaan Industri Jenjang 5",
+            "Lead Programmer",
+            "Network Designer",
+            "Pemasangan Instalasi Otomasi  Programmable Logic Controller (PLC)",
+            "Pemasaran Pariwisata",
+            "Peracangan Mekanik Umum",
+            "Perencanaan Destinasi Pariwisata",
+            "SOFTWARE ENGINEER",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Perpajakan Pajak Penghasilan pasal 21",
+            "Web Developer"
+        ]
+    },
+    {
+        "campus": "Universitas Patria Artha",
+        "schemes": [
+            "Teknisi Akuntansi Muda"
+        ]
+    },
+    {
+        "campus": "Universitas Pembangunan Veteran Jawa TImur",
+        "schemes": [
+            "Ahli K3 Madya",
+            "Ahli k3 Muda",
+            "Desain Komunikasi Visual",
+            "Fasilitator Penyuluh Pertanian",
+            "Junior Public Relation",
+            "Junior Web Programmer",
+            "Kualifikasi IV Manajemen Sumber Daya Manusia",
+            "Pelaksana Ekspor",
+            "Pengelolaan Kebun Sayuran Dan Cadangan",
+            "Penjualan Produk Ekspor UKM",
+            "Perancangan Arsitektur",
+            "Spesialis Pengembangan Persyaratan Kerja Dan Pencegahan Diskriminasi Di Tempat Kerja",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Muda",
+            "Teknisi Akuntansi Yunior",
+            "Tenaga Pemasar Operasional"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS PERTAHANAN REPUBLIK INDONESIA",
+        "schemes": [
+            "Asisten Manajer Quality Control PSAT di Peredaran/Outlet",
+            "Engine Senior Technician",
+            "FASILITATOR ORGANIK TANAMAN",
+            "Mandor Kepala Budi Daya Kopi Berkelanjutan",
+            "Pemeriksa Kebuntingan",
+            "Perwira Kapal Penangkap Ikan",
+            "SUPERVISOR PENGAWAS MUTU PAKAN",
+            "Teknisi AC Residential",
+            "Welding Inspector Standard"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS PGRI ADI BUANA SURABAYA (UNIPASBY)",
+        "schemes": [
+            "Ilmuan Data Madya (Associate Data Scientist)",
+            "Pelaksanaan K3",
+            "Pemasaran Digital",
+            "Staf Administrasi Sumber Daya Manusia"
+        ]
+    },
+    {
+        "campus": "Universitas PGRI Semarang",
+        "schemes": [
+            "Junior Web Programmer",
+            "Kultur Jaringan",
+            "Pelaksana Budidaya Anggrek",
+            "Pengelolaan Media Pembelajaran Multimedia",
+            "Penyiaran"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS SANGGA BUANA",
+        "schemes": [
+            "Analis Manajemen Talenta",
+            "Assistant Web Developer",
+            "Data Analyst",
+            "HR Business Partner ( Jenjang Kualifikasi 5 )",
+            "Menganalisis Strategi Pemasaran Organisasi",
+            "Mengelola Analisis Efek",
+            "Merancang Strategi Kehumasan",
+            "Mobile Programming Clerk",
+            "Penjualan Melalui Platform Digital (e-commerce)",
+            "Penyediaan Informasi Akuntansi Keuangan",
+            "Penyediaan Informasi Perpajakan",
+            "Perancang Model 3D Dengan Sistem CAD",
+            "Staf Operasional Perbankan",
+            "Supervisor Pengawasan Instalasi Pemanfaatan Tegangan Menengah"
+        ]
+    },
+    {
+        "campus": "Universitas Sari Mutiara Indonesia",
+        "schemes": [
+            "Jenjang Kualifikasi 4 Caregiver",
+            "Pelayanan Laboratorium Klinik",
+            "Pelayanan Laboratorium Mikrobiologi Klinik",
+            "Pelayanan Laboratorium Patologi Anatomik",
+            "Pemasaran Digital (Digital Marketing)",
+            "Pengolahan Limbah dari Pelayanan Fasilitas Kesehatan",
+            "Perawat Generik",
+            "Spa Bayi (Baby Spa)",
+            "Spa Kehamilan (Pregnancy Spa)",
+            "Teknisi Perpajakan PPH Pasal 21"
+        ]
+    },
+    {
+        "campus": "Universitas Sarjanawiyata Tamansiswa (UST)",
+        "schemes": [
+            "Konsultan Spesialis Kemasan Produk Industri Kecil dan Menengah",
+            "Penerapan Sistem Manajemen Keselamatan dan Kesehatan Kerja (SMK3)",
+            "Pengelolaan Perusahaan Pertanian"
+        ]
+    },
+    {
+        "campus": "Universitas Sebelas Maret",
+        "schemes": [
+            "AHLI HIGIENE INDUSTRI MUDA",
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "Analis Kebijakan Publik",
+            "ASISTEN DESAINER SENIOR (SENIOR ASSISTANT DESIGNER)",
+            "Asisten Kebun Kelapa Sawit",
+            "ASISTEN PENGENDALI ORGANISME PENGGANGGU TUMBUHAN (OPT)",
+            "DESAINER GRAFIS MUDA (JUNIOR GRAPHIC DESIGNER)",
+            "DESAINER MOTIF BATIK",
+            "DOKTER PERUSAHAAN",
+            "EDITOR BUKU",
+            "EXPORT/ IMPORT ADMINISTRATIVE STAFF",
+            "FASILITATOR ORGANIK TANAMAN",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Inspektor Organik Tanaman",
+            "JUNIOR ADMINISTRATIVE ASSISTANT",
+            "Junior Web Programmer",
+            "JURU BAHASA ISYARAT DENGAR",
+            "KEPEMANDUAN WISATA SELAM",
+            "KONSULTAN PENDAMPING USAHA MIKRO KECIL MENENGAH (UMKM) JUNIOR",
+            "KOORDINATOR PENCARIAN DAN PENYELAMATAN",
+            "KUALIFIKASI 5 BIDANG MANAJEMEN AGRIBISNIS",
+            "KUALIFIKASI 6 BIDANG PEMBIAYAAN SUB BIDANG PENGELOLAAN",
+            "MANAJER BUDIDAYA TANAMAN OBAT RIMPANG",
+            "MELINDUNGI WARISAN BUDAYA TAKBENDA (WBTb) MELALUI PENCATATAN",
+            "MENYUSUN STRATEGI, TATA KELOLA, INFRASTRUKTUR DAN SISTEM INFORMASI MANAJEMEN RISIKO BANK",
+            "NETWORK ADMINISTRATOR MUDA (JUNIOR NETWORK ADMINISTRATOR)",
+            "PEKERAMIK",
+            "PELAKSANAAN SPORT MASSAGE",
+            "PELUKIS",
+            "PEMROGRAM (PROGRAMMER)",
+            "PENDAMPINGAN PEMBANGUNAN",
+            "PENGAMBIL CONTOH UJI AIR (PCUA)",
+            "PENGARAH SENI JUNIOR (JUNIOR ART DIRECTOR)",
+            "PENGELOLA INFORMASI DAN DOKUMENTASI PUBLIK",
+            "PENGELOLA TRADISI LISAN TINGKAT DASAR",
+            "PENGEMBANGAN PERANGKAT LUNAK VIDEO GAME (GAME PROGRAMMING)",
+            "PENILAI KEBERHASILAN REKLAMASI HUTAN",
+            "PENULIS BUKU NONFIKSI",
+            "PENYUSUNAN DOKUMEN SISTEM HAZARD ANALYSIS CRITICAL CONTROL POINT (HACCP)",
+            "PRODUKSI BENIH TANAMAN",
+            "Public Relations Officer",
+            "SUPERVISOR AGRIBISNIS \u00e2\u20ac\u201c BIDANG PEMASARAN",
+            "SUPERVISOR PENGAWAS MUTU PAKAN",
+            "Teknisi Akuntansi Muda",
+            "Teknisi Akuntansi Pratama",
+            "TEKNISI PEMETAAN DAN SISTEM INFORMASI GEOGRAFIS",
+            "TENAGA PEMASAR OPERASIONAL AREA LAYANAN",
+            "TENAGA PEMASAR OPERASIONAL AREA MEREK",
+            "TENAGA PEMASAR OPERASIONAL AREA PENJUALAN",
+            "WELDING ENGINEER"
+        ]
+    },
+    {
+        "campus": "Universitas Serang Raya",
+        "schemes": [
+            "Analis Pencegahan Dan Penyelesaian Perselisihan Hubungan Industrial",
+            "Asisten Produser",
+            "Associate Data Analyst",
+            "Digital Marketing",
+            "JENJANG 4 BIDANG KEWIRAUSAHAAN INDUSTRI",
+            "Junior Web Programmer",
+            "Melaksanakan Komunikasi dengan Pemangku Kepentingan",
+            "Melaksanakan Penyediaan Informasi Akuntansi Keuangan",
+            "Merancang Strategi Kehumasan",
+            "Network Administrator",
+            "Pengelolaan Produksi",
+            "Personil Keselamatan dan Kesehatan Kerja",
+            "Supervisor Sumber Daya Manusia"
+        ]
+    },
+    {
+        "campus": "Universitas Siliwangi",
+        "schemes": [
+            "Ahli Muda Higiene Industri",
+            "Analis Program (Program Analyst)",
+            "Desainer Multimedia Madya",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Fasilitator Pertanian Organik Tanaman",
+            "Funding Sales Representatif",
+            "Ilmuan Data (Data Scientist)",
+            "Junior Web Programmer",
+            "Manajer Proyek TIK (ICT Project Manager)",
+            "Menganalisis Strategi Pemasaran Organisasi",
+            "Pelayanan Asuhan Gizi pada Balita Gizi Buruk",
+            "Pembuatan Strategi dan Perencanaan Pengelolaan SDM",
+            "Penerapan Prosedur Penilaian Naskah",
+            "Pengelolaan Lembaga Pelatihan Kerja",
+            "Pengujian Fisika dan Mekanika di Laboratorium",
+            "Penyediaan Informasi Akuntansi Keuangan",
+            "Penyediaan Informasi Akuntansi Manajerial",
+            "Penyediaan Informasi Perpajakan",
+            "Penyelenggara Makanan di Institusi (Food Service)",
+            "Perancangan Strategi dan Metode Pembelajaran",
+            "Staf Operasional Perbankan"
+        ]
+    },
+    {
+        "campus": "Universitas Sultan Ageng Tirtayasa",
+        "schemes": [
+            "Auditor energi",
+            "Fotografer Kehumasan",
+            "Front Office (Kategori Officer Bidang General Banking)",
+            "Instruktur Muda",
+            "Kualifikasi 5 Bidang Hubungan Industrial",
+            "Kualifikasi 6 Bidang Otomasi Industri",
+            "Pemasaran Digital",
+            "Penyuluh Pertanian Supervisor",
+            "Powertrain Senior Technician",
+            "Public Relations Coordinator",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Muda",
+            "Teknisi Akuntansi Pratama"
+        ]
+    },
+    {
+        "campus": "Universitas Surabaya",
+        "schemes": [
+            "ADMINISTRATIVE ASSISSTANT",
+            "AKUNTANSI MUDA",
+            "Digital Marketing",
+            "Junior Fashion Designer",
+            "PENGELOLAAN CARA PRODUKSI PANGAN OLAHAN YANG BAIK (CPPOB)",
+            "Programmer",
+            "Public Relation Officer",
+            "Sertifikasi Staf (Administrasi) Sumber Daya Manusia",
+            "STAF OPERASIONAL KREDIT PERBANKAN",
+            "SUPERVISOR HUBUNGAN INDUSTRIAL",
+            "TEKNISI PERPAJAKAN PAJAK PENGHASILAN ORANG PRIBADI"
+        ]
+    },
+    {
+        "campus": "Universitas Syiah Kuala",
+        "schemes": [
+            "SERTIFIKASI OKUPASI PEMROGRAM",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN PENERAPAN SISTEM KEAMANAN PANGAN",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN RANTAI PASOK INDUSTRI AGRO",
+            "SKEMA SERTIFIKASI KLASTER PENYELENGGARAAN PENYULUHAN KEAMANAN PANGAN",
+            "SKEMA SERTIFIKASI OKUPASI ILMUWAN DATA MADYA (ASSOCIATE DATA SCIENTIST)",
+            "SKEMA SERTIFIKASI OKUPASI PERSONIL KESELAMATAN DAN KESEHATAN KERJA (K3)"
+        ]
+    },
+    {
+        "campus": "Universitas Tanjungpura (LSP UNTAN)",
+        "schemes": [
+            "AHLI KESELAMATAN DAN KESEHATAN KERJA",
+            "Analis Sumber Daya Manusia",
+            "PENDAMPING UMKM MUDA",
+            "Penerapan K3 Laboratorium",
+            "Pengoperasian Programmable Logic Controller(PLC)",
+            "Penyuluh Kehutanan Fasilitator",
+            "Programmer",
+            "Teknisi Penginderaan Jauh"
+        ]
+    },
+    {
+        "campus": "Universitas Teknologi Mataram (UTM)",
+        "schemes": [
+            "Lead Programmer",
+            "Network Designer",
+            "Peningkatan Nilai Penjualan"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS TELKOM",
+        "schemes": [
+            "Perencanaan Kegiatan Audit Komunikasi",
+            "Video Editing"
+        ]
+    },
+    {
+        "campus": "Universitas Teuku Umar",
+        "schemes": [
+            "Kualifikasi 3 Bidang Pendamping UMKM sub bidang Profesi konsultan pendamping UMKM",
+            "Kualifikasi 3 Bidang Pertanian Organik",
+            "Kualifikasi jenjang 5 Bidang Kewirausahaan Industri",
+            "Okupasi ahli keselamatan dan kesehatan kerja (AK3)",
+            "Okupasi Asisten Kebun Kelapa Sawit",
+            "Sertifikasi Okupasi Analis Kebijakan Publik",
+            "Skema Sertifikasi Okupasi Anak Buah Kapal"
+        ]
+    },
+    {
+        "campus": "Universitas Udayana",
+        "schemes": [
+            "SERTIFIKASI KUALIFIKASI V TEKNISI AKUNTANSI MADYA",
+            "SERTIKASI KLASTER PELAYANAN PERPUSTAKAAN"
+        ]
+    },
+    {
+        "campus": "Universitas Warmadewa",
+        "schemes": [
+            "Okupasi Dokter Kesehatan Kerja Utama",
+            "Okupasi Teknisi Instalasi dan Aktivasi",
+            "Skema Sertifikasi Klaster Pelaksanaan Surveilan dan Penyuluhan Keamanan Pangan",
+            "Skema Sertifikasi Klaster Pengelolaan Kegiatan Back Office",
+            "Skema Sertifikasi Kualifikasi 3 Bidang Manajemen Sumber Daya Manusia",
+            "Skema Sertifikasi Kualifikasi V Bidang Kewirausahaan Industri",
+            "Skema Sertifikasi Okupasi Ahli Pengawas Bibit Ternak",
+            "Skema Sertifikasi Okupasi Analis Pencegahan Perselisihan Hubungan Industrial",
+            "Skema Sertifikasi Okupasi Analis Pengembangan Organisasi",
+            "Skema Sertifikasi Okupasi Executive Administrative Assistant",
+            "Skema Sertifikasi Okupasi ICT Project Manager",
+            "Skema Sertifikasi Okupasi Manajer Sumber Daya Manusia",
+            "Skema Sertifikasi Okupasi Pelaksana Kultur In Vitro",
+            "Skema Sertifikasi Okupasi Pengelola Kredit Yunior",
+            "Skema Sertifikasi Okupasi Penyusun AMDAL",
+            "Skema Sertifikasi Okupasi Petugas Keselamatan Dan Kesehatan Kerja",
+            "Skema Sertifikasi Okupasi Public Relation Officer",
+            "Skema Sertifikasi Okupasi Radio Access Network Operation & Maintenance Field Technician",
+            "Skema Sertifikasi Okupasi Staf Pengelola Kawasan",
+            "Skema Sertifikasi Okupasi Teknisi Akuntansi Ahli",
+            "Tenaga Pemasar Manajerial Pemasaran"
+        ]
+    },
+    {
+        "campus": "UNIVERSITAS WIDYATAMA",
+        "schemes": [
+            "DATABASE ADMINISTRATOR",
+            "Enterprise Architecture Design",
+            "Executive Administrative Assistant",
+            "Junior Mobile Programmer",
+            "Junior Web Programmer",
+            "Kewirausahaan Industri",
+            "Teknisi Akuntansi Madya",
+            "Teknisi Akuntansi Muda",
+            "Teknisi Manajemen Sumber Daya Manusia",
+            "Tenaga Pemasar Manajerial",
+            "Tenaga Pengadaan Barang dan Jasa"
+        ]
+    },
+    {
+        "campus": "UNPAS Bandung",
+        "schemes": [
+            "Analis Kebijakan Publik",
+            "Analis Sumber Daya Manusia",
+            "Asisten Produser",
+            "FASILITATOR PEMBERDAYAAN MASYARAKAT",
+            "Jenjang 5 Bidang Kewirausahaan Industri",
+            "Pengelolaan Biaya Per Unit Produk",
+            "Pengelolaan Rantai Pasok",
+            "Pengendalian Keamanan Pangan pada Proses Produksi",
+            "Pengendalian Kualitas Sistem Manufaktur",
+            "Perencanaan dan Pengendalian Produksi",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "SOFTWARE ENGINEER",
+            "Tenaga Pemasar Operasioal Pemasaran"
+        ]
+    },
+    {
+        "campus": "UPN Veteran Jakarta",
+        "schemes": [
+            "SKEMA SERTIFIKASI KKNI KUALIFIKASI V TEKNISI AKUNTANSI MADYA",
+            "SKEMA SERTIFIKASI KKNI KUALIFIKASI V TEKNISI AKUNTANSI MADYA - SYARIAH",
+            "SKEMA SERTIFIKASI KKNI KUALIFIKASI VI TEKNISI AKUNTANSI AHLI",
+            "SKEMA SERTIFIKASI KKNI SERTIFIKAT IV OFFICER GENERAL BANKING",
+            "SKEMA SERTIFIKASI KKNI SERTIFIKAT V TENAGA PEMASAR OPERASIONAL",
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN AKUATIK FISIOTERAPI",
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN ASUHAN KEPERAWATAN TERAPI OKSIGEN HIPERBARIK",
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN FISIOTERAPI ORTHOPEDIK MUSKULOSKELETAL",
+            "SKEMA SERTIFIKASI KLASTER PELAKSANAAN PEKERJAAN DOCKING UNDOCKING",
+            "SKEMA SERTIFIKASI KLASTER PEMBUATAN KONSEP PERIKLANAN",
+            "SKEMA SERTIFIKASI KLASTER PEMELIHARAAN SISTEM PLTS FOTOVOLTAIK",
+            "SKEMA SERTIFIKASI KLASTER PENGELOLAAN KESELAMATAN PASIEN",
+            "SKEMA SERTIFIKASI KLASTER PENGIMPLEMENTASIAN APLIKASI IOT",
+            "SKEMA SERTIFIKASI KLASTER PENJAMAHAN MAKANAN (FOOD HANDLING)",
+            "SKEMA SERTIFIKASI KLASTER PENYULUHAN KEAMANAN PANGAN",
+            "SKEMA SERTIFIKASI KLASTER PERANCANGAN RANGKAIAN ELEKTRONIKA",
+            "SKEMA SERTIFIKASI KLASTER PERANCANGAN SISTEM PRODUKSI",
+            "SKEMA SERTIFIKASI KLASTER PERENCANAAN PRODUK DAN PROSES MANUFAKTUR",
+            "SKEMA SERTIFIKASI OKUPASI ANALIS PROGRAM (PROGRAM ANALYST)",
+            "SKEMA SERTIFIKASI OKUPASI ASISTEN PEMROGRAM (PROGRAMMER)",
+            "SKEMA SERTIFIKASI OKUPASI CREDIT OFFICER",
+            "SKEMA SERTIFIKASI OKUPASI CUSTOMER SERVICE",
+            "Skema Sertifikasi Okupasi Cyber Security Analyst/Cyber Security Incident Analyst",
+            "SKEMA SERTIFIKASI OKUPASI DESAINER MULTIMEDIA MADYA (INTERMEDIATE MULTIMEDIA DESIGNER)",
+            "SKEMA SERTIFIKASI OKUPASI FUNDING SALES REPRESENTATIVE",
+            "SKEMA SERTIFIKASI OKUPASI JUNIOR ASSOCIATE DATA ENGINEER",
+            "SKEMA SERTIFIKASI OKUPASI JUNIOR ASSOCIATE DATA SCIENTIST",
+            "SKEMA SERTIFIKASI OKUPASI JUNIOR PUBLIC RELATIONS",
+            "SKEMA SERTIFIKASI OKUPASI JUNIOR WEB PROGRAMMER",
+            "SKEMA SERTIFIKASI OKUPASI NEGOSIASI KONTRAK EKSPOR",
+            "SKEMA SERTIFIKASI OKUPASI PEMROGRAM BASIS DATA (DATABASE PROGRAMMER)",
+            "Skema Sertifikasi Okupasi Petugas Keselamatan Dan Kesehatan Kerja",
+            "SKEMA SERTIFIKASI OKUPASI SYSTEM ANALYST",
+            "SKEMA SERTIFIKASI OKUPASI TELLER"
+        ]
+    },
+    {
+        "campus": "Vokasi IPB",
+        "schemes": [
+            "Asisten Kebun Kelapa Sawit",
+            "ASISTEN KEPALA KEBUN KOPI",
+            "ASSISTANT FOOD AND BEVERAGE SERVICE MANAGER",
+            "DESAINER GRAFIS MADYA (INTERMEDIATE GRAPHIC DESIGNER)",
+            "FARM MANAGER PEMBENIHAN",
+            "HARDWARE INSTALLATION SUPERVISOR",
+            "Junior Web Programmer",
+            "Kepala Dapur Jasa Usaha Makanan",
+            "KKNI Level V Bidang Manajemen Agribisnis",
+            "KUALIFIKASI 6 BIDANG PERUNGGASAN",
+            "KUALIFIKASI 6 SUBBIDANG MEDIK VETERINER PENANGANAN DAN PENGENDALIAN KESEHATAN HEWAN",
+            "Kualifikasi V Teknisi Akuntansi Madya",
+            "MANAJER PEMASARAN AGRIBISNIS",
+            "Network Administrator",
+            "PEMANDU WISATA",
+            "PENERAPAN PROGRAM SISTEM MANAJEMEN LINGKUNGAN",
+            "PENGELOLAAN CARA PRODUKSI PANGAN OLAHAN YANG BAIK (CPPOB)",
+            "PENYULUH PERTANIAN PENYELIA",
+            "Perencanaan dan Pengendalian Produksi",
+            "Petugas Keselamatan dan Kesehatan Kerja",
+            "PROCUREMENT SUPERVISOR",
+            "Public Relations Officer",
+            "SOFTWARE ENGINEER",
+            "Teknisi Akuntansi Ahli",
+            "Teknisi Akuntansi Madya",
+            "VIDEO EDITOR"
+        ]
+    }
+]

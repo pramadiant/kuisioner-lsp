@@ -1,0 +1,3716 @@
+[
+    {
+        "level": 1,
+        "code": "1",
+        "title_en": "Managers",
+        "title_id": "Manajer"
+    },
+    {
+        "level": 2,
+        "code": "11",
+        "title_en": "Chief Executives, Senior Officials and Legislators",
+        "title_id": "Kepala Eksekutif, Pejabat Senior, dan Anggota Legislatif"
+    },
+    {
+        "level": 3,
+        "code": "111",
+        "title_en": "Legislators and Senior Officials",
+        "title_id": "Anggota Legislatif dan Pejabat Senior"
+    },
+    {
+        "level": 4,
+        "code": "1111",
+        "title_en": "Legislators",
+        "title_id": "Anggota Legislatif"
+    },
+    {
+        "level": 4,
+        "code": "1112",
+        "title_en": "Senior Government Officials",
+        "title_id": "Pejabat Senior Pemerintah"
+    },
+    {
+        "level": 4,
+        "code": "1113",
+        "title_en": "Traditional Chiefs and Heads of Villages",
+        "title_id": "Kepala Adat dan Kepala Desa"
+    },
+    {
+        "level": 4,
+        "code": "1114",
+        "title_en": "Senior Officials of Special-interest Organizations",
+        "title_id": "Pejabat Senior Organisasi Kepentingan Khusus"
+    },
+    {
+        "level": 3,
+        "code": "112",
+        "title_en": "Managing Directors and Chief Executives",
+        "title_id": "Direktur Pelaksana dan Kepala Eksekutif"
+    },
+    {
+        "level": 4,
+        "code": "1120",
+        "title_en": "Managing Directors and Chief Executives",
+        "title_id": "Direktur Pelaksana dan Kepala Eksekutif"
+    },
+    {
+        "level": 2,
+        "code": "12",
+        "title_en": "Administrative and Commercial Managers",
+        "title_id": "Manajer Administrasi dan Komersial"
+    },
+    {
+        "level": 3,
+        "code": "121",
+        "title_en": "Business Services and Administration Managers",
+        "title_id": "Manajer Layanan Bisnis dan Administrasi"
+    },
+    {
+        "level": 4,
+        "code": "1211",
+        "title_en": "Finance Managers",
+        "title_id": "Manajer Keuangan"
+    },
+    {
+        "level": 4,
+        "code": "1212",
+        "title_en": "Human Resource Managers",
+        "title_id": "Manajer Sumber Daya Manusia"
+    },
+    {
+        "level": 4,
+        "code": "1213",
+        "title_en": "Policy and Planning Managers",
+        "title_id": "Manajer Kebijakan dan Perencanaan"
+    },
+    {
+        "level": 4,
+        "code": "1219",
+        "title_en": "Business Services and Administration Managers Not Elsewhere Classified",
+        "title_id": "Manajer Layanan Bisnis dan Administrasi yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "122",
+        "title_en": "Sales, Marketing and Development Managers",
+        "title_id": "Manajer Penjualan, Pemasaran, dan Pengembangan"
+    },
+    {
+        "level": 4,
+        "code": "1221",
+        "title_en": "Sales and Marketing Managers",
+        "title_id": "Manajer Penjualan dan Pemasaran"
+    },
+    {
+        "level": 4,
+        "code": "1222",
+        "title_en": "Advertising and Public Relations Managers",
+        "title_id": "Manajer Periklanan dan Hubungan Masyarakat"
+    },
+    {
+        "level": 4,
+        "code": "1223",
+        "title_en": "Research and Development Managers",
+        "title_id": "Manajer Penelitian dan Pengembangan"
+    },
+    {
+        "level": 2,
+        "code": "13",
+        "title_en": "Production and Specialized Services Managers",
+        "title_id": "Manajer Produksi dan Layanan Khusus"
+    },
+    {
+        "level": 3,
+        "code": "131",
+        "title_en": "Production Managers in Agriculture, Forestry and Fisheries",
+        "title_id": "Manajer Produksi di bidang Pertanian, Kehutanan, dan Perikanan"
+    },
+    {
+        "level": 4,
+        "code": "1311",
+        "title_en": "Agricultural and Forestry Production Managers",
+        "title_id": "Manajer Produksi Pertanian dan Kehutanan"
+    },
+    {
+        "level": 4,
+        "code": "1312",
+        "title_en": "Aquaculture and Fisheries Production Managers",
+        "title_id": "Manajer Produksi Akuakultur dan Perikanan"
+    },
+    {
+        "level": 3,
+        "code": "132",
+        "title_en": "Manufacturing, Mining, Construction and Distribution Managers",
+        "title_id": "Manajer Manufaktur, Pertambangan, Konstruksi, dan Distribusi"
+    },
+    {
+        "level": 4,
+        "code": "1321",
+        "title_en": "Manufacturing Managers",
+        "title_id": "Manajer Manufaktur"
+    },
+    {
+        "level": 4,
+        "code": "1322",
+        "title_en": "Mining Managers",
+        "title_id": "Manajer Pertambangan"
+    },
+    {
+        "level": 4,
+        "code": "1323",
+        "title_en": "Construction Managers",
+        "title_id": "Manajer Konstruksi"
+    },
+    {
+        "level": 4,
+        "code": "1324",
+        "title_en": "Supply, Distribution and Related Managers",
+        "title_id": "Pasokan, Distribusi, dan Terkait Manajer"
+    },
+    {
+        "level": 3,
+        "code": "133",
+        "title_en": "Information and Communications Technology Service managers",
+        "title_id": "Manajer Layanan Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 4,
+        "code": "1330",
+        "title_en": "Information and Communications Technology Service Managers",
+        "title_id": "Manajer Layanan Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 3,
+        "code": "134",
+        "title_en": "Professional Services Managers",
+        "title_id": "Manajer Layanan Profesional"
+    },
+    {
+        "level": 4,
+        "code": "1341",
+        "title_en": "Child Care Service Managers",
+        "title_id": "Manajer Layanan Perawatan Anak"
+    },
+    {
+        "level": 4,
+        "code": "1342",
+        "title_en": "Health Service Managers",
+        "title_id": "Manajer Layanan Kesehatan"
+    },
+    {
+        "level": 4,
+        "code": "1343",
+        "title_en": "Aged Care Service Managers",
+        "title_id": "Manajer Layanan Perawatan Lansia"
+    },
+    {
+        "level": 4,
+        "code": "1344",
+        "title_en": "Social Welfare Managers",
+        "title_id": "Manajer Kesejahteraan Sosial"
+    },
+    {
+        "level": 4,
+        "code": "1345",
+        "title_en": "Education Managers",
+        "title_id": "Manajer Pendidikan"
+    },
+    {
+        "level": 4,
+        "code": "1346",
+        "title_en": "Financial and Insurance Services Branch managers",
+        "title_id": "Manajer Cabang Layanan Keuangan dan Asuransi"
+    },
+    {
+        "level": 4,
+        "code": "1349",
+        "title_en": "Professional Services Managers Not Elsewhere Classified",
+        "title_id": "Manajer Layanan Profesional yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "14",
+        "title_en": "Hospitality, Retail and Other Services Managers",
+        "title_id": "Manajer Perhotelan, Ritel, dan Layanan Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "141",
+        "title_en": "Hotel and Restaurant Managers",
+        "title_id": "Manajer Hotel dan Restoran"
+    },
+    {
+        "level": 4,
+        "code": "1411",
+        "title_en": "Hotel Managers",
+        "title_id": "Manajer Hotel"
+    },
+    {
+        "level": 4,
+        "code": "1412",
+        "title_en": "Restaurant Managers",
+        "title_id": "Manajer Restoran"
+    },
+    {
+        "level": 3,
+        "code": "142",
+        "title_en": "Retail and Wholesale Trade Managers",
+        "title_id": "Manajer Perdagangan Ritel dan Grosir"
+    },
+    {
+        "level": 4,
+        "code": "1420",
+        "title_en": "Retail and Wholesale Trade Managers",
+        "title_id": "Manajer Perdagangan Ritel dan Grosir"
+    },
+    {
+        "level": 3,
+        "code": "143",
+        "title_en": "Other Services Managers",
+        "title_id": "Manajer Layanan Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "1431",
+        "title_en": "Sports, Recreation and Cultural Centre Managers",
+        "title_id": "Manajer Pusat Olahraga, Rekreasi, dan Kebudayaan"
+    },
+    {
+        "level": 4,
+        "code": "1439",
+        "title_en": "Services Managers Not Elsewhere Classified",
+        "title_id": "Manajer Layanan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 1,
+        "code": "2",
+        "title_en": "Professionals",
+        "title_id": "Profesional"
+    },
+    {
+        "level": 2,
+        "code": "21",
+        "title_en": "Science and Engineering Professionals",
+        "title_id": "Profesional Sains dan Teknik"
+    },
+    {
+        "level": 3,
+        "code": "211",
+        "title_en": "Physical and Earth Science Professionals",
+        "title_id": "Profesional Ilmu Fisika dan Bumi"
+    },
+    {
+        "level": 4,
+        "code": "2111",
+        "title_en": "Physicists and Astronomers",
+        "title_id": "Fisikawan dan Astronom"
+    },
+    {
+        "level": 4,
+        "code": "2112",
+        "title_en": "Meteorologists",
+        "title_id": "Meteorolog"
+    },
+    {
+        "level": 4,
+        "code": "2113",
+        "title_en": "Chemists",
+        "title_id": "Kimiawan"
+    },
+    {
+        "level": 4,
+        "code": "2114",
+        "title_en": "Geologists and geophysicists",
+        "title_id": "Geolog dan Geofisikawan"
+    },
+    {
+        "level": 3,
+        "code": "212",
+        "title_en": "Mathematicians, Actuaries and Statisticians",
+        "title_id": "Matematikawan, Aktuaris, dan Statistikawan"
+    },
+    {
+        "level": 4,
+        "code": "2120",
+        "title_en": "Mathematicians, Actuaries and Statisticians",
+        "title_id": "Matematikawan, Aktuaris, dan Statistikawan"
+    },
+    {
+        "level": 3,
+        "code": "213",
+        "title_en": "Life Science Professionals",
+        "title_id": "Profesional Ilmu Hayati"
+    },
+    {
+        "level": 4,
+        "code": "2131",
+        "title_en": "Biologists, Botanists, Zoologists and Related Professionals",
+        "title_id": "Biolog, Botanis, Ahli Zoologi dan Profesional Terkait"
+    },
+    {
+        "level": 4,
+        "code": "2132",
+        "title_en": "Farming, Forestry and Fisheries Advisers",
+        "title_id": "Penasihat Pertanian, Kehutanan, dan Perikanan"
+    },
+    {
+        "level": 4,
+        "code": "2133",
+        "title_en": "Environmental Protection Professionals",
+        "title_id": "Profesional Perlindungan Lingkungan"
+    },
+    {
+        "level": 3,
+        "code": "214",
+        "title_en": "Engineering Professionals (excluding Electrotechnology)",
+        "title_id": "Profesional Teknik (tidak termasuk Elektroteknologi)"
+    },
+    {
+        "level": 4,
+        "code": "2141",
+        "title_en": "Industrial and Production Engineers",
+        "title_id": "Insinyur Industri dan Produksi"
+    },
+    {
+        "level": 4,
+        "code": "2142",
+        "title_en": "Civil Engineers",
+        "title_id": "Insinyur Sipil"
+    },
+    {
+        "level": 4,
+        "code": "2143",
+        "title_en": "Environmental Engineers",
+        "title_id": "Insinyur Lingkungan"
+    },
+    {
+        "level": 4,
+        "code": "2144",
+        "title_en": "Mechanical Engineers",
+        "title_id": "Insinyur Mekanik"
+    },
+    {
+        "level": 4,
+        "code": "2145",
+        "title_en": "Chemical Engineers",
+        "title_id": "Insinyur Kimia"
+    },
+    {
+        "level": 4,
+        "code": "2146",
+        "title_en": "Mining Engineers, Metallurgists and Related Professionals",
+        "title_id": "Insinyur Pertambangan, Metalurgi, dan Profesional Terkait"
+    },
+    {
+        "level": 4,
+        "code": "2149",
+        "title_en": "Engineering Professionals Not Elsewhere Classified",
+        "title_id": "Profesional Teknik yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "215",
+        "title_en": "Electrotechnology Engineers",
+        "title_id": "Insinyur Elektroteknologi"
+    },
+    {
+        "level": 4,
+        "code": "2151",
+        "title_en": "Electrical Engineers",
+        "title_id": "Insinyur Listrik"
+    },
+    {
+        "level": 4,
+        "code": "2152",
+        "title_en": "Electronics Engineers",
+        "title_id": "Insinyur Elektronika"
+    },
+    {
+        "level": 4,
+        "code": "2153",
+        "title_en": "Telecommunications Engineers",
+        "title_id": "Insinyur Telekomunikasi"
+    },
+    {
+        "level": 3,
+        "code": "216",
+        "title_en": "Architects, Planners, Surveyors and Designers",
+        "title_id": "Arsitek, Perencana, Surveyor, dan Desainer"
+    },
+    {
+        "level": 4,
+        "code": "2161",
+        "title_en": "Building Architects",
+        "title_id": "Arsitek Bangunan"
+    },
+    {
+        "level": 4,
+        "code": "2162",
+        "title_en": "Landscape Architects",
+        "title_id": "Arsitek Lanskap"
+    },
+    {
+        "level": 4,
+        "code": "2163",
+        "title_en": "Product and Garment Designers",
+        "title_id": "Desainer Produk dan Pakaian"
+    },
+    {
+        "level": 4,
+        "code": "2164",
+        "title_en": "Town and Traffic Planners",
+        "title_id": "Perencana Kota dan Lalu Lintas"
+    },
+    {
+        "level": 4,
+        "code": "2165",
+        "title_en": "Cartographers and Surveyors",
+        "title_id": "Kartografer dan Surveyor"
+    },
+    {
+        "level": 4,
+        "code": "2166",
+        "title_en": "Graphic and Multimedia Designers",
+        "title_id": "Desainer Grafis dan Multimedia"
+    },
+    {
+        "level": 2,
+        "code": "22",
+        "title_en": "Health Professionals",
+        "title_id": "Profesional Kesehatan"
+    },
+    {
+        "level": 3,
+        "code": "221",
+        "title_en": "Medical Doctors",
+        "title_id": "Dokter Medis"
+    },
+    {
+        "level": 4,
+        "code": "2211",
+        "title_en": "Generalist Medical Practitioners",
+        "title_id": "Praktisi Medis Umum"
+    },
+    {
+        "level": 4,
+        "code": "2212",
+        "title_en": "Specialist Medical Practitioners",
+        "title_id": "Praktisi Medis Spesialis"
+    },
+    {
+        "level": 3,
+        "code": "222",
+        "title_en": "Nursing and Midwifery Professionals",
+        "title_id": "Profesional Keperawatan dan Kebidanan"
+    },
+    {
+        "level": 4,
+        "code": "2221",
+        "title_en": "Nursing Professionals",
+        "title_id": "Profesional Keperawatan"
+    },
+    {
+        "level": 4,
+        "code": "2222",
+        "title_en": "Midwifery Professionals",
+        "title_id": "Profesional Kebidanan"
+    },
+    {
+        "level": 3,
+        "code": "223",
+        "title_en": "Traditional and Complementary Medicine Professionals",
+        "title_id": "Tradisional dan Profesional Pengobatan Komplementer"
+    },
+    {
+        "level": 4,
+        "code": "2230",
+        "title_en": "Traditional and Complementary Medicine Professionals",
+        "title_id": "Profesional Pengobatan Tradisional dan Komplementer"
+    },
+    {
+        "level": 3,
+        "code": "224",
+        "title_en": "Paramedical Practitioners",
+        "title_id": "Praktisi Paramedis"
+    },
+    {
+        "level": 4,
+        "code": "2240",
+        "title_en": "Paramedical Practitioners",
+        "title_id": "Praktisi Paramedis"
+    },
+    {
+        "level": 3,
+        "code": "225",
+        "title_en": "Veterinarians",
+        "title_id": "Dokter Hewan"
+    },
+    {
+        "level": 4,
+        "code": "2250",
+        "title_en": "Veterinarians",
+        "title_id": "Dokter Hewan"
+    },
+    {
+        "level": 3,
+        "code": "226",
+        "title_en": "Other Health Professionals",
+        "title_id": "Profesional Kesehatan Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "2261",
+        "title_en": "Dentists",
+        "title_id": "Dokter Gigi"
+    },
+    {
+        "level": 4,
+        "code": "2262",
+        "title_en": "Pharmacists",
+        "title_id": "Apoteker"
+    },
+    {
+        "level": 4,
+        "code": "2263",
+        "title_en": "Environmental and Occupational Health and Hygiene Professionals",
+        "title_id": "Profesional Kesehatan dan Kebersihan Lingkungan dan Kerja"
+    },
+    {
+        "level": 4,
+        "code": "2264",
+        "title_en": "Physiotherapists",
+        "title_id": "Fisioterapis"
+    },
+    {
+        "level": 4,
+        "code": "2265",
+        "title_en": "Dieticians and Nutritionists",
+        "title_id": "Ahli Gizi dan Nutrisionis"
+    },
+    {
+        "level": 4,
+        "code": "2266",
+        "title_en": "Audiologists and Speech Therapists",
+        "title_id": "Audiolog dan Terapis Wicara"
+    },
+    {
+        "level": 4,
+        "code": "2267",
+        "title_en": "Optometrists and Ophthalmic Opticians",
+        "title_id": "Optometris dan Ahli Kacamata"
+    },
+    {
+        "level": 4,
+        "code": "2269",
+        "title_en": "Health Professionals Not Elsewhere Classified",
+        "title_id": "Profesional Kesehatan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "23",
+        "title_en": "Teaching Professionals",
+        "title_id": "Profesional Pengajar"
+    },
+    {
+        "level": 3,
+        "code": "231",
+        "title_en": "University and Higher Education Teachers",
+        "title_id": "Dosen Universitas dan Perguruan Tinggi"
+    },
+    {
+        "level": 4,
+        "code": "2310",
+        "title_en": "University and Higher Education Teachers",
+        "title_id": "Dosen Universitas dan Perguruan Tinggi"
+    },
+    {
+        "level": 3,
+        "code": "232",
+        "title_en": "Vocational education teachers",
+        "title_id": "Guru Pendidikan Kejuruan"
+    },
+    {
+        "level": 4,
+        "code": "2320",
+        "title_en": "Vocational Education Teachers",
+        "title_id": "Guru Pendidikan Kejuruan"
+    },
+    {
+        "level": 3,
+        "code": "233",
+        "title_en": "Secondary Education Teachers",
+        "title_id": "Guru Pendidikan Menengah"
+    },
+    {
+        "level": 4,
+        "code": "2330",
+        "title_en": "Secondary Education Teachers",
+        "title_id": "Guru Pendidikan Menengah"
+    },
+    {
+        "level": 3,
+        "code": "234",
+        "title_en": "Primary School and Early Childhood Teachers",
+        "title_id": "Guru Sekolah Dasar dan Pendidikan Anak Usia Dini"
+    },
+    {
+        "level": 4,
+        "code": "2341",
+        "title_en": "Primary School Teachers",
+        "title_id": "Guru Sekolah Dasar"
+    },
+    {
+        "level": 4,
+        "code": "2342",
+        "title_en": "Early Childhood Educators",
+        "title_id": "Pendidik Anak Usia Dini"
+    },
+    {
+        "level": 3,
+        "code": "235",
+        "title_en": "Other Teaching Professionals",
+        "title_id": "Profesional Pengajar Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "2351",
+        "title_en": "Education Methods Specialists",
+        "title_id": "Spesialis Metode Pendidikan"
+    },
+    {
+        "level": 4,
+        "code": "2352",
+        "title_en": "Special Needs Teachers",
+        "title_id": "Guru Kebutuhan Khusus"
+    },
+    {
+        "level": 4,
+        "code": "2353",
+        "title_en": "Other Language Teachers",
+        "title_id": "Guru Bahasa Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "2354",
+        "title_en": "Other Music Teachers",
+        "title_id": "Guru Musik Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "2355",
+        "title_en": "Other Arts Teachers",
+        "title_id": "Guru Seni Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "2356",
+        "title_en": "Information Technology Trainers",
+        "title_id": "Informasi Pelatih Teknologi"
+    },
+    {
+        "level": 4,
+        "code": "2359",
+        "title_en": "Teaching Professionals Not Elsewhere Classified",
+        "title_id": "Profesional Pengajar yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "24",
+        "title_en": "Business and Administration Professionals",
+        "title_id": "Profesional Bisnis dan Administrasi"
+    },
+    {
+        "level": 3,
+        "code": "241",
+        "title_en": "Finance Professionals",
+        "title_id": "Profesional Keuangan"
+    },
+    {
+        "level": 4,
+        "code": "2411",
+        "title_en": "Accountants",
+        "title_id": "Akuntan"
+    },
+    {
+        "level": 4,
+        "code": "2412",
+        "title_en": "Financial and Investment Advisers",
+        "title_id": "Penasihat Keuangan dan Investasi"
+    },
+    {
+        "level": 4,
+        "code": "2413",
+        "title_en": "Financial Analysts",
+        "title_id": "Analis Keuangan"
+    },
+    {
+        "level": 3,
+        "code": "242",
+        "title_en": "Administration Professionals",
+        "title_id": "Profesional Administrasi"
+    },
+    {
+        "level": 4,
+        "code": "2421",
+        "title_en": "Management and Organization Analysts",
+        "title_id": "Analis Manajemen dan Organisasi"
+    },
+    {
+        "level": 4,
+        "code": "2422",
+        "title_en": "Policy Administration Professionals",
+        "title_id": "Profesional Administrasi Kebijakan"
+    },
+    {
+        "level": 4,
+        "code": "2423",
+        "title_en": "Personnel and Careers Professionals",
+        "title_id": "Profesional Personalia dan Karier"
+    },
+    {
+        "level": 4,
+        "code": "2424",
+        "title_en": "Training and Staff Development Professionals",
+        "title_id": "Profesional Pelatihan dan Pengembangan Staf"
+    },
+    {
+        "level": 3,
+        "code": "243",
+        "title_en": "Sales, Marketing and Public Relations Professionals",
+        "title_id": "Profesional Penjualan, Pemasaran, dan Hubungan Masyarakat"
+    },
+    {
+        "level": 4,
+        "code": "2431",
+        "title_en": "Advertising and Marketing Professionals",
+        "title_id": "Profesional Periklanan dan Pemasaran"
+    },
+    {
+        "level": 4,
+        "code": "2432",
+        "title_en": "Public Relations Professionals",
+        "title_id": "Profesional Hubungan Masyarakat"
+    },
+    {
+        "level": 4,
+        "code": "2433",
+        "title_en": "Technical and Medical Sales Professionals (excluding ICT)",
+        "title_id": "Profesional Penjualan Teknis dan Medis (tidak termasuk TIK)"
+    },
+    {
+        "level": 4,
+        "code": "2434",
+        "title_en": "Information and Communications Technology Sales Professionals",
+        "title_id": "Profesional Penjualan Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 2,
+        "code": "25",
+        "title_en": "Information and Communications Technology Professionals",
+        "title_id": "Profesional Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 3,
+        "code": "251",
+        "title_en": "Software and Applications Developers and Analysts",
+        "title_id": "Pengembang dan Analis Perangkat Lunak dan Aplikasi"
+    },
+    {
+        "level": 4,
+        "code": "2511",
+        "title_en": "Systems Analysts",
+        "title_id": "Analis Sistem"
+    },
+    {
+        "level": 4,
+        "code": "2512",
+        "title_en": "Software Developers",
+        "title_id": "Pengembang Perangkat Lunak"
+    },
+    {
+        "level": 4,
+        "code": "2513",
+        "title_en": "Web and Multimedia Developers",
+        "title_id": "Pengembang Web dan Multimedia"
+    },
+    {
+        "level": 4,
+        "code": "2514",
+        "title_en": "Applications Programmers",
+        "title_id": "Pemrogram Aplikasi"
+    },
+    {
+        "level": 4,
+        "code": "2519",
+        "title_en": "Software and Applications Developers and Analysts Not Elsewhere Classified",
+        "title_id": "Pengembang dan Analis Perangkat Lunak dan Aplikasi yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "252",
+        "title_en": "Database and Network Professionals",
+        "title_id": "Profesional Basis Data dan Jaringan"
+    },
+    {
+        "level": 4,
+        "code": "2521",
+        "title_en": "Database Designers and Administrators",
+        "title_id": "Perancang dan Administrator Basis Data"
+    },
+    {
+        "level": 4,
+        "code": "2522",
+        "title_en": "Systems Aministrators",
+        "title_id": "Administrator Sistem"
+    },
+    {
+        "level": 4,
+        "code": "2523",
+        "title_en": "Computer Network Professionals",
+        "title_id": "Profesional Jaringan Komputer"
+    },
+    {
+        "level": 4,
+        "code": "2529",
+        "title_en": "Database and Network Professionals Not Elsewhere Classified",
+        "title_id": "Basis Data dan Jaringan Para Profesional yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "26",
+        "title_en": "Legal, Social and Cultural Professionals",
+        "title_id": "Profesional Bidang Hukum, Sosial, dan Budaya"
+    },
+    {
+        "level": 3,
+        "code": "261",
+        "title_en": "Legal Professionals",
+        "title_id": "Profesional Bidang Hukum"
+    },
+    {
+        "level": 4,
+        "code": "2611",
+        "title_en": "Lawyers",
+        "title_id": "Pengacara"
+    },
+    {
+        "level": 4,
+        "code": "2612",
+        "title_en": "Judges",
+        "title_id": "Hakim"
+    },
+    {
+        "level": 4,
+        "code": "2619",
+        "title_en": "Legal Professionals Not Elsewhere Classified",
+        "title_id": "Profesional Hukum yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "262",
+        "title_en": "Librarians, Archivists and Curators",
+        "title_id": "Pustakawan, Arsiparis, dan Kurator"
+    },
+    {
+        "level": 4,
+        "code": "2621",
+        "title_en": "Archivists and Curators",
+        "title_id": "Arsiparis dan Kurator"
+    },
+    {
+        "level": 4,
+        "code": "2622",
+        "title_en": "Librarians and Related Information Professionals",
+        "title_id": "Pustakawan dan Profesional Informasi Terkait"
+    },
+    {
+        "level": 3,
+        "code": "263",
+        "title_en": "Social and Religious Professionals",
+        "title_id": "Profesional Sosial dan Agama"
+    },
+    {
+        "level": 4,
+        "code": "2631",
+        "title_en": "Economists",
+        "title_id": "Ekonom"
+    },
+    {
+        "level": 4,
+        "code": "2632",
+        "title_en": "Sociologists, Anthropologists and Related Professionals",
+        "title_id": "Sosiolog, Antropolog, dan Profesional Terkait"
+    },
+    {
+        "level": 4,
+        "code": "2633",
+        "title_en": "Philosophers, Historians and Political Scientists",
+        "title_id": "Filsuf, Sejarawan, dan Ilmuwan Politik"
+    },
+    {
+        "level": 4,
+        "code": "2634",
+        "title_en": "Psychologists",
+        "title_id": "Psikolog"
+    },
+    {
+        "level": 4,
+        "code": "2635",
+        "title_en": "Social Work and Counselling Professionals",
+        "title_id": "Profesional Pekerjaan Sosial dan Konseling"
+    },
+    {
+        "level": 4,
+        "code": "2636",
+        "title_en": "Religious Professionals",
+        "title_id": "Profesional Agama"
+    },
+    {
+        "level": 3,
+        "code": "264",
+        "title_en": "Authors, Journalists and Linguists",
+        "title_id": "Penulis, Jurnalis, dan Ahli Bahasa"
+    },
+    {
+        "level": 4,
+        "code": "2641",
+        "title_en": "Authors and Related Writers",
+        "title_id": "Penulis dan Penulis Terkait"
+    },
+    {
+        "level": 4,
+        "code": "2642",
+        "title_en": "Journalists",
+        "title_id": "Jurnalis"
+    },
+    {
+        "level": 4,
+        "code": "2643",
+        "title_en": "Translators, Interpreters and Other Linguists",
+        "title_id": "Penerjemah, Juru Bahasa, dan Ahli Bahasa Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "265",
+        "title_en": "Creative and Performing Artists",
+        "title_id": "Seniman Kreatif dan Pertunjukan"
+    },
+    {
+        "level": 4,
+        "code": "2651",
+        "title_en": "Visual Artists",
+        "title_id": "Seniman Visual"
+    },
+    {
+        "level": 4,
+        "code": "2652",
+        "title_en": "Musicians, Singers and Composers",
+        "title_id": "Musisi, Penyanyi, dan Komposer"
+    },
+    {
+        "level": 4,
+        "code": "2653",
+        "title_en": "Dancers and Choreographers",
+        "title_id": "Penari dan Koreografer"
+    },
+    {
+        "level": 4,
+        "code": "2654",
+        "title_en": "Film, Stage and Related Directors and Producers",
+        "title_id": "Sutradara dan Produser Film, Panggung, dan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "2655",
+        "title_en": "Actors",
+        "title_id": "Aktor"
+    },
+    {
+        "level": 4,
+        "code": "2656",
+        "title_en": "Announcers on Radio, Television and Other Media",
+        "title_id": "Penyiar di Radio, Televisi, dan Media Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "2659",
+        "title_en": "Creative and Performing Artists Not Elsewhere Classified",
+        "title_id": "Seniman Kreatif dan Pertunjukan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 1,
+        "code": "3",
+        "title_en": "Technicians and Associate Professionals",
+        "title_id": "Teknisi dan Profesional Madya"
+    },
+    {
+        "level": 2,
+        "code": "31",
+        "title_en": "Science and Engineering Associate Professionals",
+        "title_id": "Profesional Madya Sains dan Teknik"
+    },
+    {
+        "level": 3,
+        "code": "311",
+        "title_en": "Physical and Engineering Science Technicians",
+        "title_id": "Ilmu Fisika dan Teknik Teknisi"
+    },
+    {
+        "level": 4,
+        "code": "3111",
+        "title_en": "Chemical and Physical Science Technicians",
+        "title_id": "Teknisi Ilmu Kimia dan Fisika"
+    },
+    {
+        "level": 4,
+        "code": "3112",
+        "title_en": "Civil Engineering Technicians",
+        "title_id": "Teknisi Teknik Sipil"
+    },
+    {
+        "level": 4,
+        "code": "3113",
+        "title_en": "Electrical Engineering Technicians",
+        "title_id": "Teknisi Teknik Elektro"
+    },
+    {
+        "level": 4,
+        "code": "3114",
+        "title_en": "Electronics Engineering Technicians",
+        "title_id": "Teknisi Teknik Elektronika"
+    },
+    {
+        "level": 4,
+        "code": "3115",
+        "title_en": "Mechanical Engineering Technicians",
+        "title_id": "Teknisi Teknik Mesin"
+    },
+    {
+        "level": 4,
+        "code": "3116",
+        "title_en": "Chemical Engineering Technicians",
+        "title_id": "Teknisi Teknik Kimia"
+    },
+    {
+        "level": 4,
+        "code": "3117",
+        "title_en": "Mining and metallurgical technicians",
+        "title_id": "Teknisi Pertambangan dan Metalurgi"
+    },
+    {
+        "level": 4,
+        "code": "3118",
+        "title_en": "Draughtspersons",
+        "title_id": "Juru Gambar"
+    },
+    {
+        "level": 4,
+        "code": "3119",
+        "title_en": "Physical and Engineering Science Technicians Not Elsewhere Classified",
+        "title_id": "Teknisi Ilmu Fisika dan Teknik yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "312",
+        "title_en": "Mining, Manufacturing and Construction Supervisors",
+        "title_id": "Pengawas Pertambangan, Manufaktur, dan Konstruksi"
+    },
+    {
+        "level": 4,
+        "code": "3121",
+        "title_en": "Mining Supervisors",
+        "title_id": "Pengawas Pertambangan"
+    },
+    {
+        "level": 4,
+        "code": "3122",
+        "title_en": "Manufacturing Supervisors",
+        "title_id": "Pengawas Manufaktur"
+    },
+    {
+        "level": 4,
+        "code": "3123",
+        "title_en": "Construction Supervisors",
+        "title_id": "Pengawas Konstruksi"
+    },
+    {
+        "level": 3,
+        "code": "313",
+        "title_en": "Process Control Technicians",
+        "title_id": "Teknisi Pengendalian Proses"
+    },
+    {
+        "level": 4,
+        "code": "3131",
+        "title_en": "Power Production Plant Operators",
+        "title_id": "Operator Pembangkit Listrik"
+    },
+    {
+        "level": 4,
+        "code": "3132",
+        "title_en": "Incinerator and Water Treatment Plant Operators",
+        "title_id": "Operator Pembakaran Sampah dan Pengolahan Air"
+    },
+    {
+        "level": 4,
+        "code": "3133",
+        "title_en": "Chemical Processing Plant Controllers",
+        "title_id": "Pengontrol Pabrik Pengolahan Kimia"
+    },
+    {
+        "level": 4,
+        "code": "3134",
+        "title_en": "Petroleum and Natural Gas Refining Plant Operators",
+        "title_id": "Operator Pabrik Pemurnian Minyak Bumi dan Gas Alam"
+    },
+    {
+        "level": 4,
+        "code": "3135",
+        "title_en": "Metal Production Process Controllers",
+        "title_id": "Pengontrol Proses Produksi Logam"
+    },
+    {
+        "level": 4,
+        "code": "3139",
+        "title_en": "Process Control Technicians Not Elsewhere Classified",
+        "title_id": "Teknisi Pengendalian Proses yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "314",
+        "title_en": "Life Science Technicians and Related Associate Professionals",
+        "title_id": "Teknisi Ilmu Hayati dan Profesional Terkait"
+    },
+    {
+        "level": 4,
+        "code": "3141",
+        "title_en": "Life Science Technicians (excluding Medical)",
+        "title_id": "Teknisi Ilmu Hayati (tidak termasuk Medis)"
+    },
+    {
+        "level": 4,
+        "code": "3142",
+        "title_en": "Agricultural Technicians",
+        "title_id": "Teknisi Pertanian"
+    },
+    {
+        "level": 4,
+        "code": "3143",
+        "title_en": "Forestry Technicians",
+        "title_id": "Teknisi Kehutanan"
+    },
+    {
+        "level": 3,
+        "code": "315",
+        "title_en": "Ship and Aircraft Controllers and Technicians",
+        "title_id": "Pengontrol dan Teknisi Kapal dan Pesawat Terbang"
+    },
+    {
+        "level": 4,
+        "code": "3151",
+        "title_en": "Ships' Engineers",
+        "title_id": "Insinyur Kapal"
+    },
+    {
+        "level": 4,
+        "code": "3152",
+        "title_en": "Ships' Deck Officers and Pilots",
+        "title_id": "Perwira Dek dan Pilot Kapal"
+    },
+    {
+        "level": 4,
+        "code": "3153",
+        "title_en": "Aircraft Pilots and Related Associate Professionals",
+        "title_id": "Pesawat Terbang Pilot dan Profesional Terkait"
+    },
+    {
+        "level": 4,
+        "code": "3154",
+        "title_en": "Air Traffic Controllers",
+        "title_id": "Pengontrol Lalu Lintas Udara"
+    },
+    {
+        "level": 4,
+        "code": "3155",
+        "title_en": "Air Traffic Safety Electronics Technicians",
+        "title_id": "Teknisi Elektronik Keselamatan Lalu Lintas Udara"
+    },
+    {
+        "level": 2,
+        "code": "32",
+        "title_en": "Health Associate Professionals",
+        "title_id": "Profesional Kesehatan"
+    },
+    {
+        "level": 3,
+        "code": "321",
+        "title_en": "Medical and Pharmaceutical Technicians",
+        "title_id": "Teknisi Medis dan Farmasi"
+    },
+    {
+        "level": 4,
+        "code": "3211",
+        "title_en": "Medical Imaging and Therapeutic Equipment Technicians",
+        "title_id": "Teknisi Pencitraan Medis dan Peralatan Terapi"
+    },
+    {
+        "level": 4,
+        "code": "3212",
+        "title_en": "Medical and Pathology Laboratory Technicians",
+        "title_id": "Teknisi Laboratorium Medis dan Patologi"
+    },
+    {
+        "level": 4,
+        "code": "3213",
+        "title_en": "Pharmaceutical Technicians and Assistants",
+        "title_id": "Teknisi dan Asisten Farmasi"
+    },
+    {
+        "level": 4,
+        "code": "3214",
+        "title_en": "Medical and Dental Prosthetic Technicians",
+        "title_id": "Teknisi Prostetik Medis dan Gigi"
+    },
+    {
+        "level": 3,
+        "code": "322",
+        "title_en": "Nursing and Midwifery Associate Professionals",
+        "title_id": "Profesional Keperawatan dan Kebidanan"
+    },
+    {
+        "level": 4,
+        "code": "3221",
+        "title_en": "Nursing Associate Professionals",
+        "title_id": "Profesional Keperawatan"
+    },
+    {
+        "level": 4,
+        "code": "3222",
+        "title_en": "Midwifery Associate Professionals",
+        "title_id": "Profesional Kebidanan"
+    },
+    {
+        "level": 3,
+        "code": "323",
+        "title_en": "Traditional and Complementary Medicine Associate Professionals",
+        "title_id": "Profesional Kedokteran Tradisional dan Komplementer"
+    },
+    {
+        "level": 4,
+        "code": "3230",
+        "title_en": "Traditional and Complementary Medicine Associate Professionals",
+        "title_id": "Profesional Kedokteran Tradisional dan Komplementer"
+    },
+    {
+        "level": 3,
+        "code": "324",
+        "title_en": "Veterinary Technicians and Assistants",
+        "title_id": "Teknisi dan Asisten Veteriner"
+    },
+    {
+        "level": 4,
+        "code": "3240",
+        "title_en": "Veterinary Technicians and Assistants",
+        "title_id": "Teknisi dan Asisten Veteriner"
+    },
+    {
+        "level": 3,
+        "code": "325",
+        "title_en": "Other Health Associate Professionals",
+        "title_id": "Profesional Kesehatan Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "3251",
+        "title_en": "Dental Assistants and Therapists",
+        "title_id": "Asisten dan Terapis Gigi"
+    },
+    {
+        "level": 4,
+        "code": "3252",
+        "title_en": "Medical Records and Health Information Technicians",
+        "title_id": "Teknisi Rekam Medis dan Informasi Kesehatan"
+    },
+    {
+        "level": 4,
+        "code": "3253",
+        "title_en": "Community Health Workers",
+        "title_id": "Petugas Kesehatan Masyarakat"
+    },
+    {
+        "level": 4,
+        "code": "3254",
+        "title_en": "Dispensing Opticians",
+        "title_id": "Ahli Kacamata"
+    },
+    {
+        "level": 4,
+        "code": "3255",
+        "title_en": "Physiotherapy Technicians and Assistants",
+        "title_id": "Teknisi dan Asisten Fisioterapi"
+    },
+    {
+        "level": 4,
+        "code": "3256",
+        "title_en": "Medical Assistants",
+        "title_id": "Asisten Medis"
+    },
+    {
+        "level": 4,
+        "code": "3257",
+        "title_en": "Environmental and Occupational Health Inspectors and Associates",
+        "title_id": "Inspektur dan Asisten Kesehatan Lingkungan dan Kerja"
+    },
+    {
+        "level": 4,
+        "code": "3258",
+        "title_en": "Ambulance Workers",
+        "title_id": "Petugas Ambulans"
+    },
+    {
+        "level": 4,
+        "code": "3259",
+        "title_en": "Health Associate Professionals Not Elsewhere Classified",
+        "title_id": "Asisten Kesehatan Profesional yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "33",
+        "title_en": "Business and Administration Associate Professionals",
+        "title_id": "Profesional Rekanan Bisnis dan Administrasi"
+    },
+    {
+        "level": 3,
+        "code": "331",
+        "title_en": "Financial and Mathematical Associate Professionals",
+        "title_id": "Profesional Rekanan Keuangan dan Matematika"
+    },
+    {
+        "level": 4,
+        "code": "3311",
+        "title_en": "Securities and Finance Dealers and Brokers",
+        "title_id": "Dealer dan Pialang Sekuritas dan Keuangan"
+    },
+    {
+        "level": 4,
+        "code": "3312",
+        "title_en": "Credit and Loans Officers",
+        "title_id": "Petugas Kredit dan Pinjaman"
+    },
+    {
+        "level": 4,
+        "code": "3313",
+        "title_en": "Accounting Associate Professionals",
+        "title_id": "Profesional Rekanan Akuntansi"
+    },
+    {
+        "level": 4,
+        "code": "3314",
+        "title_en": "Statistical, Mathematical and Related Associate Professionals",
+        "title_id": "Profesional Rekanan Statistik, Matematika, dan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "3315",
+        "title_en": "Valuers and Loss Assessors",
+        "title_id": "Penilai dan Penaksir Kerugian"
+    },
+    {
+        "level": 3,
+        "code": "332",
+        "title_en": "Sales and Purchasing Agents and Brokers",
+        "title_id": "Agen dan Pialang Penjualan dan Pembelian"
+    },
+    {
+        "level": 4,
+        "code": "3321",
+        "title_en": "Insurance Representatives",
+        "title_id": "Perwakilan Asuransi"
+    },
+    {
+        "level": 4,
+        "code": "3322",
+        "title_en": "Commercial Sales Representatives",
+        "title_id": "Perwakilan Penjualan Komersial"
+    },
+    {
+        "level": 4,
+        "code": "3323",
+        "title_en": "Buyers",
+        "title_id": "Pembeli"
+    },
+    {
+        "level": 4,
+        "code": "3324",
+        "title_en": "Trade Brokers",
+        "title_id": "Pialang Perdagangan"
+    },
+    {
+        "level": 3,
+        "code": "333",
+        "title_en": "Business Services Agents",
+        "title_id": "Agen Jasa Bisnis"
+    },
+    {
+        "level": 4,
+        "code": "3331",
+        "title_en": "Clearing and Forwarding Aents",
+        "title_id": "Agen Kliring dan Pengiriman"
+    },
+    {
+        "level": 4,
+        "code": "3332",
+        "title_en": "Conference and Event Planners",
+        "title_id": "Perencana Konferensi dan Acara"
+    },
+    {
+        "level": 4,
+        "code": "3333",
+        "title_en": "Employment agents and contractors",
+        "title_id": "Agen dan Kontraktor Ketenagakerjaan"
+    },
+    {
+        "level": 4,
+        "code": "3334",
+        "title_en": "Real Estate Agents and Property Managers",
+        "title_id": "Agen Real Estat dan Manajer Properti"
+    },
+    {
+        "level": 4,
+        "code": "3339",
+        "title_en": "Business Services Agents Not Elsewhere Classified",
+        "title_id": "Agen Jasa Bisnis yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "334",
+        "title_en": "Administrative and Specialized Secretaries",
+        "title_id": "Sekretaris Administrasi dan Spesialis"
+    },
+    {
+        "level": 4,
+        "code": "3341",
+        "title_en": "Office Supervisors",
+        "title_id": "Pengawas Kantor"
+    },
+    {
+        "level": 4,
+        "code": "3342",
+        "title_en": "Legal Secretaries",
+        "title_id": "Sekretaris Hukum"
+    },
+    {
+        "level": 4,
+        "code": "3343",
+        "title_en": "Administrative and Executive Secretaries",
+        "title_id": "Sekretaris Administrasi dan Eksekutif"
+    },
+    {
+        "level": 4,
+        "code": "3344",
+        "title_en": "Medical Secretaries",
+        "title_id": "Sekretaris Medis"
+    },
+    {
+        "level": 3,
+        "code": "335",
+        "title_en": "Government Regulatory  Associate Professionals",
+        "title_id": "Profesional Rekanan Regulasi Pemerintah"
+    },
+    {
+        "level": 4,
+        "code": "3351",
+        "title_en": "Customs and Border Inspectors",
+        "title_id": "Inspektur Bea Cukai dan Perbatasan"
+    },
+    {
+        "level": 4,
+        "code": "3352",
+        "title_en": "Government Tax and Excise Officials",
+        "title_id": "Pejabat Pajak dan Cukai Pemerintah"
+    },
+    {
+        "level": 4,
+        "code": "3353",
+        "title_en": "Government Social Benefits Officials",
+        "title_id": "Manfaat Sosial Pemerintah Pejabat"
+    },
+    {
+        "level": 4,
+        "code": "3354",
+        "title_en": "Government Licensing Officials",
+        "title_id": "Pejabat Perizinan Pemerintah"
+    },
+    {
+        "level": 4,
+        "code": "3355",
+        "title_en": "Police Inspectors and Detectives",
+        "title_id": "Inspektur dan Detektif Kepolisian"
+    },
+    {
+        "level": 4,
+        "code": "3359",
+        "title_en": "Government Regulatory AssociatePprofessionals Not Elsewhere Classified",
+        "title_id": "Associate Profesional Regulasi Pemerintah yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "34",
+        "title_en": "Legal, Social, Cultural and Related Associate Professionals",
+        "title_id": "Associate Profesional Hukum, Sosial, Budaya, dan Terkait"
+    },
+    {
+        "level": 3,
+        "code": "341",
+        "title_en": "Legal, Social and Religious Associate Professionals",
+        "title_id": "Associate Profesional Hukum, Sosial, dan Agama"
+    },
+    {
+        "level": 4,
+        "code": "3411",
+        "title_en": "Legal and Related Associate Professionals",
+        "title_id": "Associate Profesional Hukum dan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "3412",
+        "title_en": "Social Work Associate Professionals",
+        "title_id": "Associate Profesional Pekerjaan Sosial"
+    },
+    {
+        "level": 4,
+        "code": "3413",
+        "title_en": "Religious Associate Professionals",
+        "title_id": "Associate Profesional Bidang Agama"
+    },
+    {
+        "level": 3,
+        "code": "342",
+        "title_en": "Sports and Fitness Workers",
+        "title_id": "Pekerja Olahraga dan Kebugaran"
+    },
+    {
+        "level": 4,
+        "code": "3421",
+        "title_en": "Athletes and Sports Players",
+        "title_id": "Atlet dan Pemain Olahraga"
+    },
+    {
+        "level": 4,
+        "code": "3422",
+        "title_en": "Sports Coaches, Instructors and Officials",
+        "title_id": "Pelatih, Instruktur, dan Pejabat Olahraga"
+    },
+    {
+        "level": 4,
+        "code": "3423",
+        "title_en": "Fitness and Recreation Instructors and Programme Leaders",
+        "title_id": "Instruktur dan Pemimpin Program Kebugaran dan Rekreasi"
+    },
+    {
+        "level": 3,
+        "code": "343",
+        "title_en": "Artistic, Cultural and Culinary Associate Professionals",
+        "title_id": "Profesional Asosiasi Seni, Budaya, dan Kuliner"
+    },
+    {
+        "level": 4,
+        "code": "3431",
+        "title_en": "Photographers",
+        "title_id": "Fotografer"
+    },
+    {
+        "level": 4,
+        "code": "3432",
+        "title_en": "Interior Designers and Decorators",
+        "title_id": "Desainer dan Dekorator Interior"
+    },
+    {
+        "level": 4,
+        "code": "3433",
+        "title_en": "Gallery, Museum and Library Technicians",
+        "title_id": "Teknisi Galeri, Museum, dan Perpustakaan"
+    },
+    {
+        "level": 4,
+        "code": "3434",
+        "title_en": "Chefs",
+        "title_id": "Koki"
+    },
+    {
+        "level": 4,
+        "code": "3435",
+        "title_en": "Other Artistic and Cultural Associate Professionals",
+        "title_id": "Associate Profesional Seni dan Budaya Lainnya"
+    },
+    {
+        "level": 2,
+        "code": "35",
+        "title_en": "Information and Communications Technicians",
+        "title_id": "Teknisi Informasi dan Komunikasi"
+    },
+    {
+        "level": 3,
+        "code": "351",
+        "title_en": "Information and Communications Technology Operations and User Support Technicians",
+        "title_id": "Teknisi Operasi dan Dukungan Pengguna Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 4,
+        "code": "3511",
+        "title_en": "Information and Communications Technology Operations Technicians",
+        "title_id": "Teknisi Operasi Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 4,
+        "code": "3512",
+        "title_en": "Information and Communications Technology User Support Technicians",
+        "title_id": "Teknisi Dukungan Pengguna Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 4,
+        "code": "3513",
+        "title_en": "Computer Network and Systems Technicians",
+        "title_id": "Teknisi Jaringan dan Sistem Komputer"
+    },
+    {
+        "level": 4,
+        "code": "3514",
+        "title_en": "Web Technicians",
+        "title_id": "Teknisi Web"
+    },
+    {
+        "level": 3,
+        "code": "352",
+        "title_en": "Telecommunications and Broadcasting Technicians",
+        "title_id": "Telekomunikasi dan Teknisi Penyiaran"
+    },
+    {
+        "level": 4,
+        "code": "3521",
+        "title_en": "Broadcasting and Audio-visual Technicians",
+        "title_id": "Teknisi Penyiaran dan Audio-visual"
+    },
+    {
+        "level": 4,
+        "code": "3522",
+        "title_en": "Telecommunications Engineering Technicians",
+        "title_id": "Teknisi Teknik Telekomunikasi"
+    },
+    {
+        "level": 1,
+        "code": "4",
+        "title_en": "Clerical Support Workers",
+        "title_id": "Pekerja Pendukung Administrasi"
+    },
+    {
+        "level": 2,
+        "code": "41",
+        "title_en": "General and Keyboard Clerks",
+        "title_id": "Petugas Administrasi Umum dan Operator Keyboard"
+    },
+    {
+        "level": 3,
+        "code": "411",
+        "title_en": "General Office Clerks",
+        "title_id": "Petugas Administrasi Kantor Umum"
+    },
+    {
+        "level": 4,
+        "code": "4110",
+        "title_en": "General Office Clerks",
+        "title_id": "Petugas Administrasi Kantor Umum"
+    },
+    {
+        "level": 3,
+        "code": "412",
+        "title_en": "Secretaries (general)",
+        "title_id": "Sekretaris (umum)"
+    },
+    {
+        "level": 4,
+        "code": "4120",
+        "title_en": "Secretaries (general)",
+        "title_id": "Sekretaris (umum)"
+    },
+    {
+        "level": 3,
+        "code": "413",
+        "title_en": "Keyboard Operators",
+        "title_id": "Operator Keyboard"
+    },
+    {
+        "level": 4,
+        "code": "4131",
+        "title_en": "Typists and Word Processing Operators",
+        "title_id": "Juru Ketik dan Operator Pengolah Kata"
+    },
+    {
+        "level": 4,
+        "code": "4132",
+        "title_en": "Data Entry Clerks",
+        "title_id": "Petugas Entri Data"
+    },
+    {
+        "level": 2,
+        "code": "42",
+        "title_en": "Customer Services Clerks",
+        "title_id": "Petugas Layanan Pelanggan"
+    },
+    {
+        "level": 3,
+        "code": "421",
+        "title_en": "Tellers, Money Collectors and Related Clerks",
+        "title_id": "Teller, Penagih Uang, dan Petugas Terkait"
+    },
+    {
+        "level": 4,
+        "code": "4211",
+        "title_en": "Bank Tellers and Related Clerks",
+        "title_id": "Teller Bank dan Petugas Terkait"
+    },
+    {
+        "level": 4,
+        "code": "4212",
+        "title_en": "Bookmakers, Croupiers and Related Gaming Workers",
+        "title_id": "Bandar Judi, Croupier, dan Pekerja Perjudian Terkait"
+    },
+    {
+        "level": 4,
+        "code": "4213",
+        "title_en": "Pawnbrokers and Money-lenders",
+        "title_id": "Pegadaian dan Pemberi Pinjaman Uang"
+    },
+    {
+        "level": 4,
+        "code": "4214",
+        "title_en": "Debt Collectors and Related Workers",
+        "title_id": "Penagih Hutang dan Pekerja Terkait"
+    },
+    {
+        "level": 3,
+        "code": "422",
+        "title_en": "Client Information Workers",
+        "title_id": "Petugas Informasi Klien"
+    },
+    {
+        "level": 4,
+        "code": "4221",
+        "title_en": "Travel Consultants and Clerks",
+        "title_id": "Konsultan dan Petugas Perjalanan"
+    },
+    {
+        "level": 4,
+        "code": "4222",
+        "title_en": "Contact Centre Information Clerks",
+        "title_id": "Petugas Informasi Pusat Kontak"
+    },
+    {
+        "level": 4,
+        "code": "4223",
+        "title_en": "Telephone Switchboard Operators",
+        "title_id": "Operator Telepon"
+    },
+    {
+        "level": 4,
+        "code": "4224",
+        "title_en": "Hotel Receptionists",
+        "title_id": "Resepsionis Hotel"
+    },
+    {
+        "level": 4,
+        "code": "4225",
+        "title_en": "Inquiry Clerks",
+        "title_id": "Petugas Informasi"
+    },
+    {
+        "level": 4,
+        "code": "4226",
+        "title_en": "Receptionists (general)",
+        "title_id": "Resepsionis (umum)"
+    },
+    {
+        "level": 4,
+        "code": "4227",
+        "title_en": "Survey and Market Research Interviewers",
+        "title_id": "Pewawancara Survei dan Riset Pasar"
+    },
+    {
+        "level": 4,
+        "code": "4229",
+        "title_en": "Client Information Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Informasi Klien yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "43",
+        "title_en": "Numerical and Material Recording Clerks",
+        "title_id": "Petugas Pencatatan Numerik dan Material"
+    },
+    {
+        "level": 3,
+        "code": "431",
+        "title_en": "Numerical Clerks",
+        "title_id": "Petugas Numerik"
+    },
+    {
+        "level": 4,
+        "code": "4311",
+        "title_en": "Accounting and Bookkeeping Clerks",
+        "title_id": "Petugas Akuntansi dan Pembukuan"
+    },
+    {
+        "level": 4,
+        "code": "4312",
+        "title_en": "Statistical, Finance and Insurance Clerks",
+        "title_id": "Statistik, Keuangan, dan Asuransi Petugas Administrasi"
+    },
+    {
+        "level": 4,
+        "code": "4313",
+        "title_en": "Payroll Clerks",
+        "title_id": "Petugas Penggajian"
+    },
+    {
+        "level": 3,
+        "code": "432",
+        "title_en": "Material Recording and Transport Clerks",
+        "title_id": "Petugas Pencatatan dan Transportasi Material"
+    },
+    {
+        "level": 4,
+        "code": "4321",
+        "title_en": "Stock Clerks",
+        "title_id": "Petugas Gudang"
+    },
+    {
+        "level": 4,
+        "code": "4322",
+        "title_en": "Production Clerks",
+        "title_id": "Petugas Produksi"
+    },
+    {
+        "level": 4,
+        "code": "4323",
+        "title_en": "Transport Clerks",
+        "title_id": "Petugas Transportasi"
+    },
+    {
+        "level": 2,
+        "code": "44",
+        "title_en": "Other Clerical Support Workers",
+        "title_id": "Pekerja Pendukung Administrasi Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "441",
+        "title_en": "Other Clerical Support Workers",
+        "title_id": "Pekerja Pendukung Administrasi Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "4411",
+        "title_en": "Library Clerks",
+        "title_id": "Petugas Perpustakaan"
+    },
+    {
+        "level": 4,
+        "code": "4412",
+        "title_en": "Mail Carriers and Sorting Clerks",
+        "title_id": "Pengantar Surat dan Petugas Penyortiran"
+    },
+    {
+        "level": 4,
+        "code": "4413",
+        "title_en": "Coding, Proofreading and Related Clerks",
+        "title_id": "Petugas Pengkodean, Pemeriksaan Ejaan, dan Petugas Terkait"
+    },
+    {
+        "level": 4,
+        "code": "4414",
+        "title_en": "Scribes and Related Workers",
+        "title_id": "Juru Tulis dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "4415",
+        "title_en": "Filing and Copying Clerks",
+        "title_id": "Petugas Pengarsipan dan Fotokopi"
+    },
+    {
+        "level": 4,
+        "code": "4416",
+        "title_en": "Personnel Clerks",
+        "title_id": "Petugas Personalia"
+    },
+    {
+        "level": 4,
+        "code": "4419",
+        "title_en": "Clerical Support Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Pendukung Administrasi yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 1,
+        "code": "5",
+        "title_en": "Service and Sales Workers",
+        "title_id": "Pekerja Layanan dan Penjualan"
+    },
+    {
+        "level": 2,
+        "code": "51",
+        "title_en": "Personal Service Workers",
+        "title_id": "Pekerja Layanan Pribadi"
+    },
+    {
+        "level": 3,
+        "code": "511",
+        "title_en": "Travel Attendants, Conductors and Guides",
+        "title_id": "Pramugara, Konduktor, dan Pemandu Wisata"
+    },
+    {
+        "level": 4,
+        "code": "5111",
+        "title_en": "Travel Attendants and Travel Stewards",
+        "title_id": "Pramugara dan Pramugara"
+    },
+    {
+        "level": 4,
+        "code": "5112",
+        "title_en": "Transport Conductors",
+        "title_id": "Konduktor Transportasi"
+    },
+    {
+        "level": 4,
+        "code": "5113",
+        "title_en": "Travel Guides",
+        "title_id": "Pemandu Wisata"
+    },
+    {
+        "level": 3,
+        "code": "512",
+        "title_en": "Cooks",
+        "title_id": "Juru Masak"
+    },
+    {
+        "level": 4,
+        "code": "5120",
+        "title_en": "Cooks",
+        "title_id": "Juru Masak"
+    },
+    {
+        "level": 3,
+        "code": "513",
+        "title_en": "Waiters and Bartenders",
+        "title_id": "Pelayan dan Bartender"
+    },
+    {
+        "level": 4,
+        "code": "5131",
+        "title_en": "Waiters",
+        "title_id": "Pelayan"
+    },
+    {
+        "level": 4,
+        "code": "5132",
+        "title_en": "Bartenders",
+        "title_id": "Bartender"
+    },
+    {
+        "level": 3,
+        "code": "514",
+        "title_en": "Hairdressers, Beauticians and Related Workers",
+        "title_id": "Penata Rambut, Ahli Kecantikan, dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "5141",
+        "title_en": "Hairdressers",
+        "title_id": "Penata Rambut"
+    },
+    {
+        "level": 4,
+        "code": "5142",
+        "title_en": "Beauticians and Related Workers",
+        "title_id": "Ahli Kecantikan dan Pekerja Terkait"
+    },
+    {
+        "level": 3,
+        "code": "515",
+        "title_en": "Building and Housekeeping Supervisors",
+        "title_id": "Pengawas Gedung dan Tata Graha"
+    },
+    {
+        "level": 4,
+        "code": "5151",
+        "title_en": "Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",
+        "title_id": "Pengawas Kebersihan dan Tata Graha di Kantor, Hotel, dan Tempat Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "5152",
+        "title_en": "Domestic Housekeepers",
+        "title_id": "Pekerja Rumah Tangga Pengurus Rumah Tangga"
+    },
+    {
+        "level": 4,
+        "code": "5153",
+        "title_en": "Building Caretakers",
+        "title_id": "Penjaga Gedung"
+    },
+    {
+        "level": 3,
+        "code": "516",
+        "title_en": "Other Personal Services Workers",
+        "title_id": "Pekerja Jasa Pribadi Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "5161",
+        "title_en": "Astrologers, Fortune-tellers and Related Workers",
+        "title_id": "Ahli Astrologi, Peramal, dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "5162",
+        "title_en": "Companions and Valets",
+        "title_id": "Pendamping dan Pelayan"
+    },
+    {
+        "level": 4,
+        "code": "5163",
+        "title_en": "Undertakers and Embalmers",
+        "title_id": "Pengurus Pemakaman dan Pembalseman"
+    },
+    {
+        "level": 4,
+        "code": "5164",
+        "title_en": "Pet Groomers and Animal Care Workers",
+        "title_id": "Perawat Hewan Peliharaan dan Pekerja Perawatan Hewan"
+    },
+    {
+        "level": 4,
+        "code": "5165",
+        "title_en": "Driving Instructors",
+        "title_id": "Instruktur Mengemudi"
+    },
+    {
+        "level": 4,
+        "code": "5169",
+        "title_en": "Personal Services Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Jasa Pribadi yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "52",
+        "title_en": "Sales Workers",
+        "title_id": "Pekerja Penjualan"
+    },
+    {
+        "level": 3,
+        "code": "521",
+        "title_en": "Street and Market Salespersons",
+        "title_id": "Penjual Jalanan dan Pasar"
+    },
+    {
+        "level": 4,
+        "code": "5211",
+        "title_en": "Stall and Market Salespersons",
+        "title_id": "Penjual Kios dan Pasar"
+    },
+    {
+        "level": 4,
+        "code": "5212",
+        "title_en": "Street Food Salespersons",
+        "title_id": "Penjual Makanan Jalanan"
+    },
+    {
+        "level": 3,
+        "code": "522",
+        "title_en": "Shop Aalespersons",
+        "title_id": "Penjual Toko"
+    },
+    {
+        "level": 4,
+        "code": "5221",
+        "title_en": "Shopkeepers",
+        "title_id": "Pemilik Toko"
+    },
+    {
+        "level": 4,
+        "code": "5222",
+        "title_en": "Shop Supervisors",
+        "title_id": "Pengawas Toko"
+    },
+    {
+        "level": 4,
+        "code": "5223",
+        "title_en": "Shop Sales Assistants",
+        "title_id": "Asisten Penjualan Toko"
+    },
+    {
+        "level": 3,
+        "code": "523",
+        "title_en": "Cashiers and Ticket Clerks",
+        "title_id": "Kasir dan Petugas Tiket"
+    },
+    {
+        "level": 4,
+        "code": "5230",
+        "title_en": "Cashiers and Ticket Clerks",
+        "title_id": "Kasir dan Petugas Tiket"
+    },
+    {
+        "level": 3,
+        "code": "524",
+        "title_en": "Other Sales Workers",
+        "title_id": "Pekerja Penjualan Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "5241",
+        "title_en": "Fashion and Other Models",
+        "title_id": "Model Mode dan Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "5242",
+        "title_en": "Sales Demonstrators",
+        "title_id": "Demonstrator Penjualan"
+    },
+    {
+        "level": 4,
+        "code": "5243",
+        "title_en": "Door-to-door Salespersons",
+        "title_id": "Penjual Keliling"
+    },
+    {
+        "level": 4,
+        "code": "5244",
+        "title_en": "Contact Centre Salespersons",
+        "title_id": "Penjual Pusat Kontak"
+    },
+    {
+        "level": 4,
+        "code": "5245",
+        "title_en": "Service Station Attendants",
+        "title_id": "Petugas SPBU"
+    },
+    {
+        "level": 4,
+        "code": "5246",
+        "title_en": "Food Service Counter Attendants",
+        "title_id": "Petugas Konter Layanan Makanan"
+    },
+    {
+        "level": 4,
+        "code": "5249",
+        "title_en": "Sales Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Penjualan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "53",
+        "title_en": "Personal Care Workers",
+        "title_id": "Pekerja Perawatan Pribadi"
+    },
+    {
+        "level": 3,
+        "code": "531",
+        "title_en": "Child Care Workers and Teachers' Aides",
+        "title_id": "Pekerja Perawatan Anak dan Asisten Guru"
+    },
+    {
+        "level": 4,
+        "code": "5311",
+        "title_en": "Child Care Workers",
+        "title_id": "Pekerja Perawatan Anak"
+    },
+    {
+        "level": 4,
+        "code": "5312",
+        "title_en": "Teachers' Aides",
+        "title_id": "Asisten Guru"
+    },
+    {
+        "level": 3,
+        "code": "532",
+        "title_en": "Personal Care Workers in Health Services",
+        "title_id": "Perawatan Pribadi Pekerja di Layanan Kesehatan"
+    },
+    {
+        "level": 4,
+        "code": "5321",
+        "title_en": "Health Care Assistants",
+        "title_id": "Asisten Perawatan Kesehatan"
+    },
+    {
+        "level": 4,
+        "code": "5322",
+        "title_en": "Home-based Personal Care Workers",
+        "title_id": "Pekerja Perawatan Pribadi Berbasis Rumah"
+    },
+    {
+        "level": 4,
+        "code": "5329",
+        "title_en": "Personal Care Workers in Health Services Not Elsewhere Classified",
+        "title_id": "Pekerja Perawatan Pribadi di Layanan Kesehatan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "54",
+        "title_en": "Protective Services Workers",
+        "title_id": "Pekerja Layanan Perlindungan"
+    },
+    {
+        "level": 3,
+        "code": "541",
+        "title_en": "Protective Services Workers",
+        "title_id": "Pekerja Layanan Perlindungan"
+    },
+    {
+        "level": 4,
+        "code": "5411",
+        "title_en": "Fire Fighters",
+        "title_id": "Petugas Pemadam Kebakaran"
+    },
+    {
+        "level": 4,
+        "code": "5412",
+        "title_en": "Police Officers",
+        "title_id": "Petugas Polisi"
+    },
+    {
+        "level": 4,
+        "code": "5413",
+        "title_en": "Prison Guards",
+        "title_id": "Penjaga Penjara"
+    },
+    {
+        "level": 4,
+        "code": "5414",
+        "title_en": "Security Guards",
+        "title_id": "Penjaga Keamanan"
+    },
+    {
+        "level": 4,
+        "code": "5419",
+        "title_en": "Protective Services Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Layanan Perlindungan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 1,
+        "code": "6",
+        "title_en": "Skilled Agricultural, Forestry and Fishery Workers",
+        "title_id": "Pekerja Pertanian, Kehutanan, dan Perikanan Terampil"
+    },
+    {
+        "level": 2,
+        "code": "61",
+        "title_en": "Market-oriented Skilled Agricultural Workers",
+        "title_id": "Pekerja Pertanian Terampil Berorientasi Pasar"
+    },
+    {
+        "level": 3,
+        "code": "611",
+        "title_en": "Market Gardeners and Crop Growers",
+        "title_id": "Petani Sayuran dan Tanaman Pangan"
+    },
+    {
+        "level": 4,
+        "code": "6111",
+        "title_en": "Field Crop and Vegetable Growers",
+        "title_id": "Petani Tanaman Ladang dan Sayuran"
+    },
+    {
+        "level": 4,
+        "code": "6112",
+        "title_en": "Tree and Shrub Crop Growers",
+        "title_id": "Petani Pohon dan Semak"
+    },
+    {
+        "level": 4,
+        "code": "6113",
+        "title_en": "Gardeners, Horticultural and Nursery Growers",
+        "title_id": "Tukang Kebun, Hortikultura, dan Pembibitan"
+    },
+    {
+        "level": 4,
+        "code": "6114",
+        "title_en": "Mixed Crop Growers",
+        "title_id": "Petani Tanaman Campuran"
+    },
+    {
+        "level": 3,
+        "code": "612",
+        "title_en": "Animal Producers",
+        "title_id": "Produsen Hewan"
+    },
+    {
+        "level": 4,
+        "code": "6121",
+        "title_en": "Livestock and Dairy Producers",
+        "title_id": "Produsen Ternak dan Susu"
+    },
+    {
+        "level": 4,
+        "code": "6122",
+        "title_en": "Poultry Producers",
+        "title_id": "Produsen Unggas"
+    },
+    {
+        "level": 4,
+        "code": "6123",
+        "title_en": "Apiarists and Sericulturists",
+        "title_id": "Peternak Lebah dan Ulat Sutra"
+    },
+    {
+        "level": 4,
+        "code": "6129",
+        "title_en": "Animal Producers Not Elsewhere Classified",
+        "title_id": "Produsen Hewan yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "613",
+        "title_en": "Mixed Crop and Animal Producers",
+        "title_id": "Produsen Tanaman Campuran dan Hewan"
+    },
+    {
+        "level": 4,
+        "code": "6130",
+        "title_en": "Mixed Crop and Animal Producers",
+        "title_id": "Produsen Tanaman Campuran dan Hewan"
+    },
+    {
+        "level": 2,
+        "code": "62",
+        "title_en": "Market-Oriented Skilled Forestry, Fishery and Hunting Workers",
+        "title_id": "Pekerja Kehutanan, Perikanan, dan Perburuan Terampil Berorientasi Pasar"
+    },
+    {
+        "level": 3,
+        "code": "621",
+        "title_en": "Forestry and Related Workers",
+        "title_id": "Pekerja Kehutanan dan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "6210",
+        "title_en": "Forestry and Related Workers",
+        "title_id": "Kehutanan dan Pekerja Terkait"
+    },
+    {
+        "level": 3,
+        "code": "622",
+        "title_en": "Fishery Workers, Hunters and Trappers",
+        "title_id": "Pekerja Perikanan, Pemburu dan Penjebak"
+    },
+    {
+        "level": 4,
+        "code": "6221",
+        "title_en": "Aquaculture Workers",
+        "title_id": "Pekerja Akuakultur"
+    },
+    {
+        "level": 4,
+        "code": "6222",
+        "title_en": "Inland and Coastal Waters Fishery Workers",
+        "title_id": "Pekerja Perikanan Perairan Pedalaman dan Pesisir"
+    },
+    {
+        "level": 4,
+        "code": "6223",
+        "title_en": "Deep-sea Fishery Workers",
+        "title_id": "Pekerja Perikanan Laut Dalam"
+    },
+    {
+        "level": 4,
+        "code": "6224",
+        "title_en": "Hunters and Trappers",
+        "title_id": "Pemburu dan Penjebak"
+    },
+    {
+        "level": 2,
+        "code": "63",
+        "title_en": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+        "title_id": "Petani Subsisten, Nelayan, Pemburu dan Pengumpul"
+    },
+    {
+        "level": 3,
+        "code": "631",
+        "title_en": "Subsistence Crop Farmers",
+        "title_id": "Petani Tanaman Subsisten"
+    },
+    {
+        "level": 4,
+        "code": "6310",
+        "title_en": "Subsistence Crop Farmers",
+        "title_id": "Petani Tanaman Subsisten"
+    },
+    {
+        "level": 3,
+        "code": "632",
+        "title_en": "Subsistence Livestock Farmers",
+        "title_id": "Peternakan Subsisten"
+    },
+    {
+        "level": 4,
+        "code": "6320",
+        "title_en": "Subsistence Livestock Farmers",
+        "title_id": "Peternakan Subsisten"
+    },
+    {
+        "level": 3,
+        "code": "633",
+        "title_en": "Subsistence Mixed Crop and Livestock Farmers",
+        "title_id": "Petani Tanaman Campuran dan Ternak Subsisten"
+    },
+    {
+        "level": 4,
+        "code": "6330",
+        "title_en": "Subsistence Mixed Crop and Livestock Farmers",
+        "title_id": "Petani Tanaman Campuran dan Ternak Subsisten"
+    },
+    {
+        "level": 3,
+        "code": "634",
+        "title_en": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+        "title_id": "Nelayan, Pemburu, Penjebak dan Pengumpul"
+    },
+    {
+        "level": 4,
+        "code": "6340",
+        "title_en": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+        "title_id": "Nelayan, Pemburu, Penjebak dan Pengumpul Subsisten"
+    },
+    {
+        "level": 1,
+        "code": "7",
+        "title_en": "Craft and Related Trades Workers",
+        "title_id": "Pekerja Kerajinan dan Perdagangan Terkait"
+    },
+    {
+        "level": 2,
+        "code": "71",
+        "title_en": "Building and Related Trades Workers (excluding Electricians)",
+        "title_id": "Pekerja Bangunan dan Perdagangan Terkait (tidak termasuk Tukang Listrik)"
+    },
+    {
+        "level": 3,
+        "code": "711",
+        "title_en": "Building Frame and Related Trades Workers",
+        "title_id": "Pekerja Kerangka Bangunan dan Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7111",
+        "title_en": "House Builders",
+        "title_id": "Pembangun Rumah"
+    },
+    {
+        "level": 4,
+        "code": "7112",
+        "title_en": "Bricklayers and Related Workers",
+        "title_id": "Tukang Batu dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7113",
+        "title_en": "Stonemasons, Stone Cutters, Splitters and Carvers",
+        "title_id": "Tukang Batu, Pemotong Batu, Pemecah dan Pemahat"
+    },
+    {
+        "level": 4,
+        "code": "7114",
+        "title_en": "Concrete Placers, Concrete Finishers and Related Workers",
+        "title_id": "Pekerja Pengecoran Beton, Pengerjaan Akhir Beton dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7115",
+        "title_en": "Carpenters and Joiners",
+        "title_id": "Tukang Kayu dan Tukang Gabung"
+    },
+    {
+        "level": 4,
+        "code": "7119",
+        "title_en": "Building Frame and Related Trades Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Kerangka Bangunan dan Perdagangan Terkait Pekerjaan Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "712",
+        "title_en": "Building Finishers and Related Trades Workers",
+        "title_id": "Pekerja Finishing Bangunan dan Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7121",
+        "title_en": "Roofers",
+        "title_id": "Tukang Atap"
+    },
+    {
+        "level": 4,
+        "code": "7122",
+        "title_en": "Floor Layers and Tile Setters",
+        "title_id": "Tukang Lantai dan Pemasang Keramik"
+    },
+    {
+        "level": 4,
+        "code": "7123",
+        "title_en": "Plasterers",
+        "title_id": "Tukang Plester"
+    },
+    {
+        "level": 4,
+        "code": "7124",
+        "title_en": "Insulation Workers",
+        "title_id": "Pekerja Isolasi"
+    },
+    {
+        "level": 4,
+        "code": "7125",
+        "title_en": "Glaziers",
+        "title_id": "Tukang Kaca"
+    },
+    {
+        "level": 4,
+        "code": "7126",
+        "title_en": "Plumbers and Pipe Fitters",
+        "title_id": "Tukang Ledeng dan Pemasang Pipa"
+    },
+    {
+        "level": 4,
+        "code": "7127",
+        "title_en": "Air Conditioning and Refrigeration Mechanics",
+        "title_id": "Mekanik Pendingin Udara dan Refrigerasi"
+    },
+    {
+        "level": 3,
+        "code": "713",
+        "title_en": "Painters, Building Structure Cleaners and Related Trades Workers",
+        "title_id": "Tukang Cat, Pembersih Struktur Bangunan dan Pekerja Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7131",
+        "title_en": "Painters and Related Workers",
+        "title_id": "Tukang Cat dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7132",
+        "title_en": "Spray Painters and Varnishers",
+        "title_id": "Tukang Cat Semprot dan Pelapis"
+    },
+    {
+        "level": 4,
+        "code": "7133",
+        "title_en": "Building Structure Cleaners",
+        "title_id": "Pembersih Struktur Bangunan"
+    },
+    {
+        "level": 2,
+        "code": "72",
+        "title_en": "Metal, Machinery and Related Trades Workers",
+        "title_id": "Pekerja Logam, Mesin dan Perdagangan Terkait"
+    },
+    {
+        "level": 3,
+        "code": "721",
+        "title_en": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+        "title_id": "Pekerja Logam Lembaran dan Struktural, Pencetak dan Tukang Las, dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7211",
+        "title_en": "Metal Moulders and Coremakers",
+        "title_id": "Pencetak Logam dan Pembuat Inti"
+    },
+    {
+        "level": 4,
+        "code": "7212",
+        "title_en": "Welders and Flame Cutters",
+        "title_id": "Tukang Las dan Pemotong Api"
+    },
+    {
+        "level": 4,
+        "code": "7213",
+        "title_en": "Sheet Metal Workers",
+        "title_id": "Pekerja Logam Lembaran"
+    },
+    {
+        "level": 4,
+        "code": "7214",
+        "title_en": "Structural Metal Preparers and Erectors",
+        "title_id": "Persiapan dan Pemasangan Logam Struktural"
+    },
+    {
+        "level": 4,
+        "code": "7215",
+        "title_en": "Riggers and Cable Splicers",
+        "title_id": "Pemasang dan Penyambung Kabel"
+    },
+    {
+        "level": 3,
+        "code": "722",
+        "title_en": "Blacksmiths, Toolmakers and Related Trades Workers",
+        "title_id": "Pandai Besi, Pembuat Perkakas dan Pekerja Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7221",
+        "title_en": "Blacksmiths, Hammersmiths and Forging Press Workers",
+        "title_id": "Pandai Besi, Tukang Palu, dan Operator Pers Tempa"
+    },
+    {
+        "level": 4,
+        "code": "7222",
+        "title_en": "Toolmakers and Related Workers",
+        "title_id": "Pembuat Perkakas dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7223",
+        "title_en": "Metal Working Machine Tool Setters and  Operators",
+        "title_id": "Penyetel dan Operator Mesin Pengerjaan Logam"
+    },
+    {
+        "level": 4,
+        "code": "7224",
+        "title_en": "Metal Polishers, Wheel Grinders and Tool Sharpeners",
+        "title_id": "Pemoles Logam, Penggerinda Roda, dan Pengasah Perkakas"
+    },
+    {
+        "level": 3,
+        "code": "723",
+        "title_en": "Machinery Mechanics and Repairers",
+        "title_id": "Mekanik dan Reparasi Mesin"
+    },
+    {
+        "level": 4,
+        "code": "7231",
+        "title_en": "Motor Vehicle Mechanics and Repairers",
+        "title_id": "Mekanik dan Reparasi Kendaraan Bermotor"
+    },
+    {
+        "level": 4,
+        "code": "7232",
+        "title_en": "Aircraft Engine Mechanics and Repairers",
+        "title_id": "Mekanik dan Reparasi Mesin Pesawat Terbang"
+    },
+    {
+        "level": 4,
+        "code": "7233",
+        "title_en": "Agricultural and Industrial Machinery Mechanics and Repairers",
+        "title_id": "Mekanik dan Reparasi Mesin Pertanian dan Industri"
+    },
+    {
+        "level": 4,
+        "code": "7234",
+        "title_en": "Bicycle and Related Repairers",
+        "title_id": "Montir Sepeda dan Terkait"
+    },
+    {
+        "level": 2,
+        "code": "73",
+        "title_en": "Handicraft and Printing Workers",
+        "title_id": "Pekerja Kerajinan dan Percetakan"
+    },
+    {
+        "level": 3,
+        "code": "731",
+        "title_en": "Handicraft Workers",
+        "title_id": "Pekerja Kerajinan Tangan"
+    },
+    {
+        "level": 4,
+        "code": "7311",
+        "title_en": "Precision-instrument Makers and Repairers",
+        "title_id": "Pembuat dan Perbaikan Instrumen Presisi"
+    },
+    {
+        "level": 4,
+        "code": "7312",
+        "title_en": "Musical Instrument Makers and Tuners",
+        "title_id": "Pembuat dan Tuner Alat Musik"
+    },
+    {
+        "level": 4,
+        "code": "7313",
+        "title_en": "Jewellery and Precious Metal Workers",
+        "title_id": "Pekerja Perhiasan dan Logam Mulia"
+    },
+    {
+        "level": 4,
+        "code": "7314",
+        "title_en": "Potters and Related Workers",
+        "title_id": "Pembuat Tembikar dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7315",
+        "title_en": "Glass Makers, Cutters, Grinders and Finishers",
+        "title_id": "Pembuat, Pemotong, Penggiling, dan Penyelesai Kaca"
+    },
+    {
+        "level": 4,
+        "code": "7316",
+        "title_en": "Sign Writers, Decorative Painters, Engravers and Etchers",
+        "title_id": "Penulis Tanda, Pelukis Dekoratif, Pengukir dan Pengukir"
+    },
+    {
+        "level": 4,
+        "code": "7317",
+        "title_en": "Handicraft Workers in Wood, Basketry and Related Materials",
+        "title_id": "Pekerja Kerajinan Tangan di Kayu, Keranjang dan Bahan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7318",
+        "title_en": "Handicraft Workers in Textile, Leather and Related Materials",
+        "title_id": "Pekerja Kerajinan Tangan di bidang Tekstil, Kulit dan Bahan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7319",
+        "title_en": "Handicraft Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Kerajinan Tangan Tidak Diklasifikasikan Di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "732",
+        "title_en": "Printing Trades Workers",
+        "title_id": "Pekerja Perdagangan Percetakan"
+    },
+    {
+        "level": 4,
+        "code": "7321",
+        "title_en": "Pre-press Technicians",
+        "title_id": "Teknisi Pra-pers"
+    },
+    {
+        "level": 4,
+        "code": "7322",
+        "title_en": "Printers",
+        "title_id": "pencetak"
+    },
+    {
+        "level": 4,
+        "code": "7323",
+        "title_en": "Print Finishing and Binding Workers",
+        "title_id": "Cetak Pekerja Finishing dan Binding"
+    },
+    {
+        "level": 2,
+        "code": "74",
+        "title_en": "Electrical and Electronics Trades Workers",
+        "title_id": "Pekerja Perdagangan Listrik dan Elektronika"
+    },
+    {
+        "level": 3,
+        "code": "741",
+        "title_en": "Electrical Equipment Installers and Repairers",
+        "title_id": "Pemasang dan Perbaikan Peralatan Listrik"
+    },
+    {
+        "level": 4,
+        "code": "7411",
+        "title_en": "Building and Related Electricians",
+        "title_id": "Bangunan dan Teknisi Listrik Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7412",
+        "title_en": "Electrical Mechanics and Fitters",
+        "title_id": "Mekanik dan Tukang Listrik"
+    },
+    {
+        "level": 4,
+        "code": "7413",
+        "title_en": "Electrical Line Installers and Repairers",
+        "title_id": "Pemasang dan Perbaikan Saluran Listrik"
+    },
+    {
+        "level": 3,
+        "code": "742",
+        "title_en": "Electronics and Telecommunications Installers and Repairers",
+        "title_id": "Pemasang dan Perbaikan Elektronika dan Telekomunikasi"
+    },
+    {
+        "level": 4,
+        "code": "7421",
+        "title_en": "Electronics Mechanics and Servicers",
+        "title_id": "Mekanik dan Penyedia Jasa Elektronik"
+    },
+    {
+        "level": 4,
+        "code": "7422",
+        "title_en": "Information and Communications Technology Installers and Servicers",
+        "title_id": "Pemasang dan Penyedia Layanan Teknologi Informasi dan Komunikasi"
+    },
+    {
+        "level": 2,
+        "code": "75",
+        "title_en": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+        "title_id": "Pekerja Pengolahan Makanan, Pengerjaan Kayu, Garmen dan Kerajinan Lainnya serta Perdagangan Terkait"
+    },
+    {
+        "level": 3,
+        "code": "751",
+        "title_en": "Food Processing and Related Trades Workers",
+        "title_id": "Pekerja Pengolahan Makanan dan Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7511",
+        "title_en": "Butchers, Fishmongers and Related Food Preparers",
+        "title_id": "Tukang Daging, Penjual Ikan, dan Pembuat Makanan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7512",
+        "title_en": "Bakers, Pastry-cooks and Confectionery Makers",
+        "title_id": "Pembuat Roti, Juru Masak Kue Kering, dan Pembuat Kembang Gula"
+    },
+    {
+        "level": 4,
+        "code": "7513",
+        "title_en": "Dairy Products Makers",
+        "title_id": "Pembuat Produk Susu"
+    },
+    {
+        "level": 4,
+        "code": "7514",
+        "title_en": "Fruit, Vegetable and Related Preservers",
+        "title_id": "Buah, Sayur dan Pengawet Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7515",
+        "title_en": "Food and Beverage Tasters and Graders",
+        "title_id": "Pencicip dan Grader Makanan dan Minuman"
+    },
+    {
+        "level": 4,
+        "code": "7516",
+        "title_en": "Tobacco Preparers and Tobacco Products Makers",
+        "title_id": "Pembuat Tembakau dan Pembuat Produk Tembakau"
+    },
+    {
+        "level": 3,
+        "code": "752",
+        "title_en": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+        "title_id": "Pengolah Kayu, Pembuat Kabinet dan Pekerja Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7521",
+        "title_en": "Wood Treaters",
+        "title_id": "Pengolah Kayu"
+    },
+    {
+        "level": 4,
+        "code": "7522",
+        "title_en": "Cabinet-makers and Related Workers",
+        "title_id": "Pembuat Kabinet dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7523",
+        "title_en": "Woodworking Machine Tool Setters and Operators",
+        "title_id": "Penyetel dan Operator Alat Mesin Pengerjaan Kayu"
+    },
+    {
+        "level": 3,
+        "code": "753",
+        "title_en": "Garment and Related Trades Workers",
+        "title_id": "Pekerja Garmen dan Perdagangan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7531",
+        "title_en": "Tailors, Dressmakers, Furriers and Hatters",
+        "title_id": "Penjahit, Penjahit, Furrier, dan Hatters"
+    },
+    {
+        "level": 4,
+        "code": "7532",
+        "title_en": "Garment and Related Patternmakers and Cutters",
+        "title_id": "Pembuat Pola dan Pemotong Garmen dan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7533",
+        "title_en": "Sewing, Embroidery and Related Workers",
+        "title_id": "Menjahit, Menyulam dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7534",
+        "title_en": "Upholsterers and Related Workers",
+        "title_id": "Tukang pelapis dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7535",
+        "title_en": "Pelt Dressers, Tanners and Fellmongers",
+        "title_id": "Pelt Dressers, Tanners dan Fellmoners"
+    },
+    {
+        "level": 4,
+        "code": "7536",
+        "title_en": "Shoemakers and Related Workers",
+        "title_id": "Pembuat Sepatu dan Pekerja Terkait"
+    },
+    {
+        "level": 3,
+        "code": "754",
+        "title_en": "Other Craft and Related Workers",
+        "title_id": "Kerajinan Lainnya dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "7541",
+        "title_en": "Underwater Divers",
+        "title_id": "Penyelam Bawah Air"
+    },
+    {
+        "level": 4,
+        "code": "7542",
+        "title_en": "Shotfirers and Blasters",
+        "title_id": "Penembak dan Peledakan"
+    },
+    {
+        "level": 4,
+        "code": "7543",
+        "title_en": "Product Graders and Testers (except Foods and Beverages)",
+        "title_id": "Penilai dan Penguji Produk (kecuali Makanan dan Minuman)"
+    },
+    {
+        "level": 4,
+        "code": "7544",
+        "title_en": "Fumigators and Other Pest and Weed Controllers",
+        "title_id": "Fumigator dan Pengendali Hama dan Gulma Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "7549",
+        "title_en": "Craft and Related Workers not Elsewhere Classified",
+        "title_id": "Kerajinan dan Pekerja Terkait yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 1,
+        "code": "8",
+        "title_en": "Plant and Machine Operators, and Assemblers",
+        "title_id": "Operator Pabrik dan Mesin, serta Perakit"
+    },
+    {
+        "level": 2,
+        "code": "81",
+        "title_en": "Stationary Plant and Machine Operators",
+        "title_id": "Operator Pabrik dan Mesin Stasioner"
+    },
+    {
+        "level": 3,
+        "code": "811",
+        "title_en": "Mining and Mineral Processing Plant Operators",
+        "title_id": "Operator Pabrik Pertambangan dan Pengolahan Mineral"
+    },
+    {
+        "level": 4,
+        "code": "8111",
+        "title_en": "Miners and Quarriers",
+        "title_id": "Penambang dan Penggali"
+    },
+    {
+        "level": 4,
+        "code": "8112",
+        "title_en": "Mineral and Stone Processing Plant Operators",
+        "title_id": "Operator Pabrik Pengolahan Mineral dan Batu"
+    },
+    {
+        "level": 4,
+        "code": "8113",
+        "title_en": "Well Drillers and Borers and Related Workers",
+        "title_id": "Pengebor dan Penggerek Sumur serta Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "8114",
+        "title_en": "Cement, Stone and Other Mineral Products Machine Operators",
+        "title_id": "Operator Mesin Semen, Batu dan Produk Mineral Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "812",
+        "title_en": "Metal Processing and Finishing Plant Operators",
+        "title_id": "Operator Pabrik Pengolahan dan Penyelesaian Logam"
+    },
+    {
+        "level": 4,
+        "code": "8121",
+        "title_en": "Metal Processing Plant Operators",
+        "title_id": "Operator Pabrik Pengolahan Logam"
+    },
+    {
+        "level": 4,
+        "code": "8122",
+        "title_en": "Metal Finishing, Plating and Coating Machine Operators",
+        "title_id": "Operator Mesin Finishing, Plating dan Coating Logam"
+    },
+    {
+        "level": 3,
+        "code": "813",
+        "title_en": "Chemical and Photographic Products Plant and Machine Operators",
+        "title_id": "Operator Pabrik dan Mesin Produk Kimia dan Fotografi"
+    },
+    {
+        "level": 4,
+        "code": "8131",
+        "title_en": "Chemical Products Plant and Machine Operators",
+        "title_id": "Operator Pabrik dan Mesin Produk Kimia"
+    },
+    {
+        "level": 4,
+        "code": "8132",
+        "title_en": "Photographic Products Machine Operators",
+        "title_id": "Operator Mesin Produk Fotografi"
+    },
+    {
+        "level": 3,
+        "code": "814",
+        "title_en": "Rubber, Plastic and Paper Products Machine Operators",
+        "title_id": "Operator Mesin Produk Karet, Plastik dan Kertas"
+    },
+    {
+        "level": 4,
+        "code": "8141",
+        "title_en": "Rubber Products Machine Operators",
+        "title_id": "Operator Mesin Produk Karet"
+    },
+    {
+        "level": 4,
+        "code": "8142",
+        "title_en": "Plastic Products Machine Operators",
+        "title_id": "Operator Mesin Produk Plastik"
+    },
+    {
+        "level": 4,
+        "code": "8143",
+        "title_en": "Paper Products Machine Operators",
+        "title_id": "Operator Mesin Produk Kertas"
+    },
+    {
+        "level": 3,
+        "code": "815",
+        "title_en": "Textile, Fur and Leather Products Machine Operators",
+        "title_id": "Operator Mesin Tekstil, Bulu dan Produk Kulit"
+    },
+    {
+        "level": 4,
+        "code": "8151",
+        "title_en": "Fibre Preparing, Spinning and Winding Machine Operators",
+        "title_id": "Operator Mesin Penyiapan Serat, Pemintal dan Penggulungan"
+    },
+    {
+        "level": 4,
+        "code": "8152",
+        "title_en": "Weaving and Knitting Machine Operators",
+        "title_id": "Operator Mesin Tenun dan Rajut"
+    },
+    {
+        "level": 4,
+        "code": "8153",
+        "title_en": "Sewing Machine Operators",
+        "title_id": "Operator Mesin Jahit"
+    },
+    {
+        "level": 4,
+        "code": "8154",
+        "title_en": "Bleaching, Dyeing and Fabric Cleaning Machine Operators",
+        "title_id": "Operator Mesin Pemutih, Pencelupan dan Pembersih Kain"
+    },
+    {
+        "level": 4,
+        "code": "8155",
+        "title_en": "Fur and Leather Preparing Machine Operators",
+        "title_id": "Operator Mesin Persiapan Bulu dan Kulit"
+    },
+    {
+        "level": 4,
+        "code": "8156",
+        "title_en": "Shoemaking and Related Machine Operators",
+        "title_id": "Operator Pembuatan Sepatu dan Mesin Terkait"
+    },
+    {
+        "level": 4,
+        "code": "8157",
+        "title_en": "Laundry Machine Operators",
+        "title_id": "Operator Mesin Binatu"
+    },
+    {
+        "level": 4,
+        "code": "8159",
+        "title_en": "Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",
+        "title_id": "Operator Mesin Tekstil, Bulu dan Produk Kulit yang Tidak Diklasifikasikan Di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "816",
+        "title_en": "Food and Related Products Machine Operators",
+        "title_id": "Operator Mesin Makanan dan Produk Terkait"
+    },
+    {
+        "level": 4,
+        "code": "8160",
+        "title_en": "Food and Related Products Machine Operators",
+        "title_id": "Operator Mesin Makanan dan Produk Terkait"
+    },
+    {
+        "level": 3,
+        "code": "817",
+        "title_en": "Wood Processing and Papermaking Plant Operators",
+        "title_id": "Operator Pabrik Pengolahan Kayu dan Pembuatan Kertas"
+    },
+    {
+        "level": 4,
+        "code": "8171",
+        "title_en": "Pulp and Papermaking Plant Operators",
+        "title_id": "Operator Pabrik Pulp dan Pembuatan Kertas"
+    },
+    {
+        "level": 4,
+        "code": "8172",
+        "title_en": "Wood Processing Plant Operators",
+        "title_id": "Operator Pabrik Pengolahan Kayu"
+    },
+    {
+        "level": 3,
+        "code": "818",
+        "title_en": "Other Stationary Plant and Machine Operators",
+        "title_id": "Operator Pabrik dan Mesin Stasioner Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "8181",
+        "title_en": "Glass and Ceramics Plant Operators",
+        "title_id": "Operator Pabrik Kaca dan Keramik"
+    },
+    {
+        "level": 4,
+        "code": "8182",
+        "title_en": "Steam Engine and Boiler Operators",
+        "title_id": "Operator Mesin Uap dan Boiler"
+    },
+    {
+        "level": 4,
+        "code": "8183",
+        "title_en": "Packing, Bottling and Labelling Machine Operators",
+        "title_id": "Operator Mesin Pengepakan, Pembotolan dan Pelabelan"
+    },
+    {
+        "level": 4,
+        "code": "8189",
+        "title_en": "Stationary Plant and Machine Operators Not Elsewhere Classified",
+        "title_id": "Operator Pabrik dan Mesin Stasioner yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "82",
+        "title_en": "Assemblers",
+        "title_id": "Perakit"
+    },
+    {
+        "level": 3,
+        "code": "821",
+        "title_en": "Assemblers",
+        "title_id": "Perakit"
+    },
+    {
+        "level": 4,
+        "code": "8211",
+        "title_en": "Mechanical Machinery Assemblers",
+        "title_id": "Perakit Mesin Mekanik"
+    },
+    {
+        "level": 4,
+        "code": "8212",
+        "title_en": "Electrical and Electronic Equipment Assemblers",
+        "title_id": "Perakit Peralatan Listrik dan Elektronik"
+    },
+    {
+        "level": 4,
+        "code": "8219",
+        "title_en": "Assemblers Not Elsewhere Classified",
+        "title_id": "Assembler Tidak Diklasifikasikan Di Tempat Lain"
+    },
+    {
+        "level": 2,
+        "code": "83",
+        "title_en": "Drivers and Mobile Plant Operators",
+        "title_id": "Pengemudi dan Operator Pabrik Bergerak"
+    },
+    {
+        "level": 3,
+        "code": "831",
+        "title_en": "Locomotive Engine Drivers and Related Workers",
+        "title_id": "Pengemudi Mesin Lokomotif dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "8311",
+        "title_en": "Locomotive Engine Drivers",
+        "title_id": "Pengemudi Mesin Lokomotif"
+    },
+    {
+        "level": 4,
+        "code": "8312",
+        "title_en": "Railway Brake, Signal and Switch Operators",
+        "title_id": "Operator Rem Kereta Api, Sinyal dan Saklar"
+    },
+    {
+        "level": 3,
+        "code": "832",
+        "title_en": "Car, Van and Motorcycle Drivers",
+        "title_id": "Pengemudi Mobil, Van dan Sepeda Motor"
+    },
+    {
+        "level": 4,
+        "code": "8321",
+        "title_en": "Motorcycle Drivers",
+        "title_id": "Pengemudi Sepeda Motor"
+    },
+    {
+        "level": 4,
+        "code": "8322",
+        "title_en": "Car, Taxi and Van Drivers",
+        "title_id": "Pengemudi Mobil, Taksi dan Van"
+    },
+    {
+        "level": 3,
+        "code": "833",
+        "title_en": "Heavy Truck and Bus Drivers",
+        "title_id": "Pengemudi Truk dan Bus Berat"
+    },
+    {
+        "level": 4,
+        "code": "8331",
+        "title_en": "Bus and Tram Drivers",
+        "title_id": "Pengemudi Bus dan Trem"
+    },
+    {
+        "level": 4,
+        "code": "8332",
+        "title_en": "Heavy Truck and Lorry Drivers",
+        "title_id": "Pengemudi Truk dan Truk Berat"
+    },
+    {
+        "level": 3,
+        "code": "834",
+        "title_en": "Mobile Plant Operators",
+        "title_id": "Operator Pabrik Bergerak"
+    },
+    {
+        "level": 4,
+        "code": "8341",
+        "title_en": "Mobile Farm and Forestry Plant Operators",
+        "title_id": "Operator Pabrik Pertanian dan Kehutanan Bergerak"
+    },
+    {
+        "level": 4,
+        "code": "8342",
+        "title_en": "Earthmoving and Related Plant Operators",
+        "title_id": "Operator Pemindahan Tanah dan Pabrik Terkait"
+    },
+    {
+        "level": 4,
+        "code": "8343",
+        "title_en": "Crane, hoist and related plant operators",
+        "title_id": "Operator derek, kerekan, dan pabrik terkait"
+    },
+    {
+        "level": 4,
+        "code": "8344",
+        "title_en": "Lifting Truck Operators",
+        "title_id": "Operator Truk Pengangkat"
+    },
+    {
+        "level": 3,
+        "code": "835",
+        "title_en": "Ships' Deck Crews and Related Workers",
+        "title_id": "Awak Dek Kapal dan Pekerja Terkait"
+    },
+    {
+        "level": 4,
+        "code": "8350",
+        "title_en": "Ships' Deck Crews and Related Workers",
+        "title_id": "Awak Dek Kapal dan Pekerja Terkait"
+    },
+    {
+        "level": 1,
+        "code": "9",
+        "title_en": "Elementary Occupations",
+        "title_id": "Pekerjaan Dasar"
+    },
+    {
+        "level": 2,
+        "code": "91",
+        "title_en": "Cleaners and Helpers",
+        "title_id": "Pembersih dan Pembantu"
+    },
+    {
+        "level": 3,
+        "code": "911",
+        "title_en": "Domestic, Hotel and Office Cleaners and Helpers",
+        "title_id": "Pembersih dan Pembantu Rumah Tangga, Hotel, dan Kantor"
+    },
+    {
+        "level": 4,
+        "code": "9111",
+        "title_en": "Domestic Cleaners and Helpers",
+        "title_id": "Pembersih dan Pembantu Rumah Tangga"
+    },
+    {
+        "level": 4,
+        "code": "9112",
+        "title_en": "Cleaners and Helpers in Offices, Hotels and Other Establishments",
+        "title_id": "Pembersih dan Pembantu di Kantor, Hotel, dan Tempat Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "912",
+        "title_en": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+        "title_id": "Pembersih Kendaraan, Jendela, Pencuci Pakaian, dan Pembersih Manual Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "9121",
+        "title_en": "Hand Launderers and Pressers",
+        "title_id": "Pencuci dan Penyetrika dengan Tangan"
+    },
+    {
+        "level": 4,
+        "code": "9122",
+        "title_en": "Vehicle Cleaners",
+        "title_id": "Pembersih Kendaraan"
+    },
+    {
+        "level": 4,
+        "code": "9123",
+        "title_en": "Window Cleaners",
+        "title_id": "Pembersih Jendela"
+    },
+    {
+        "level": 4,
+        "code": "9129",
+        "title_en": "Other Cleaning Workers",
+        "title_id": "Pekerja Pembersih Lainnya"
+    },
+    {
+        "level": 2,
+        "code": "92",
+        "title_en": "Agricultural, Forestry and Fishery Labourers",
+        "title_id": "Buruh Pertanian, Kehutanan dan Perikanan"
+    },
+    {
+        "level": 3,
+        "code": "921",
+        "title_en": "Agricultural, Forestry and Fishery Labourers",
+        "title_id": "Buruh Pertanian, Kehutanan dan Perikanan"
+    },
+    {
+        "level": 4,
+        "code": "9211",
+        "title_en": "Crop Farm Labourers",
+        "title_id": "Buruh Tani Tanaman Pangan"
+    },
+    {
+        "level": 4,
+        "code": "9212",
+        "title_en": "Livestock Farm Labourers",
+        "title_id": "Buruh Peternakan"
+    },
+    {
+        "level": 4,
+        "code": "9213",
+        "title_en": "Mixed Crop and Livestock Farm Labourers",
+        "title_id": "Buruh Tani Tanaman dan Peternakan Campuran"
+    },
+    {
+        "level": 4,
+        "code": "9214",
+        "title_en": "Garden and Horticultural Labourers",
+        "title_id": "Buruh Kebun dan Hortikultura"
+    },
+    {
+        "level": 4,
+        "code": "9215",
+        "title_en": "Forestry Labourers",
+        "title_id": "Buruh Kehutanan"
+    },
+    {
+        "level": 4,
+        "code": "9216",
+        "title_en": "Fishery and Aquaculture Labourers",
+        "title_id": "Buruh Perikanan dan Akuakultur"
+    },
+    {
+        "level": 2,
+        "code": "93",
+        "title_en": "Labourers in Mining, Construction, Manufacturing and Transport",
+        "title_id": "Buruh di Pertambangan, Konstruksi, Manufaktur dan Transportasi"
+    },
+    {
+        "level": 3,
+        "code": "931",
+        "title_en": "Mining and Construction Labourers",
+        "title_id": "Buruh Tambang dan Konstruksi"
+    },
+    {
+        "level": 4,
+        "code": "9311",
+        "title_en": "Mining and Quarrying Labourers",
+        "title_id": "Buruh Tambang dan Penggalian"
+    },
+    {
+        "level": 4,
+        "code": "9312",
+        "title_en": "Civil Engineering Labourers",
+        "title_id": "Buruh Teknik Sipil/Konstruksi Jalan"
+    },
+    {
+        "level": 4,
+        "code": "9313",
+        "title_en": "Building Construction Labourers",
+        "title_id": "Buruh Konstruksi Bangunan"
+    },
+    {
+        "level": 3,
+        "code": "932",
+        "title_en": "Manufacturing Labourers",
+        "title_id": "Buruh Pabrik/Manufaktur"
+    },
+    {
+        "level": 4,
+        "code": "9321",
+        "title_en": "Hand Packers",
+        "title_id": "Pekerja Pengemas Barang dengan Tangan"
+    },
+    {
+        "level": 4,
+        "code": "9329",
+        "title_en": "Manufacturing Labourers Not Elsewhere Classified",
+        "title_id": "Buruh Manufaktur yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 3,
+        "code": "933",
+        "title_en": "Transport and Storage Labourers",
+        "title_id": "Buruh Angkut dan Pergudangan"
+    },
+    {
+        "level": 4,
+        "code": "9331",
+        "title_en": "Hand and Pedal Vehicle Drivers",
+        "title_id": "Pengemudi Kendaraan Dorong dan Pedal"
+    },
+    {
+        "level": 4,
+        "code": "9332",
+        "title_en": "Drivers of Animal-drawn Vehicles and Machinery",
+        "title_id": "Pengemudi Kendaraan/Mesin Helaan Hewan"
+    },
+    {
+        "level": 4,
+        "code": "9333",
+        "title_en": "Freight Handlers",
+        "title_id": "Buruh Pengangkut Barang"
+    },
+    {
+        "level": 4,
+        "code": "9334",
+        "title_en": "Shelf Fillers",
+        "title_id": "Petugas Penata Rak / Shelf Filler"
+    },
+    {
+        "level": 2,
+        "code": "94",
+        "title_en": "Food Preparation Assistants",
+        "title_id": "Pembantu Penyiapan Makanan"
+    },
+    {
+        "level": 3,
+        "code": "941",
+        "title_en": "Food Preparation Assistants",
+        "title_id": "Pembantu Penyiapan Makanan"
+    },
+    {
+        "level": 4,
+        "code": "9411",
+        "title_en": "Fast Food Preparers",
+        "title_id": "Penyiap Makanan Saji Cepat"
+    },
+    {
+        "level": 4,
+        "code": "9412",
+        "title_en": "Kitchen Helpers",
+        "title_id": "Pembantu Dapur / Asisten Dapur"
+    },
+    {
+        "level": 2,
+        "code": "95",
+        "title_en": "Street and Related Sales and Service Workers",
+        "title_id": "Pedagang Kaki Lima dan Pekerja Jasa Terkait Jalanan"
+    },
+    {
+        "level": 3,
+        "code": "951",
+        "title_en": "Street and Related Service Workers",
+        "title_id": "Pekerja Jasa Jalanan dan Terkait"
+    },
+    {
+        "level": 4,
+        "code": "9510",
+        "title_en": "Street and Related Service Workers",
+        "title_id": "Pekerja Jasa Jalanan dan Terkait"
+    },
+    {
+        "level": 3,
+        "code": "952",
+        "title_en": "Street Vendors (excluding Food)",
+        "title_id": "Pedagang Kaki Lima (tidak termasuk Makanan)"
+    },
+    {
+        "level": 4,
+        "code": "9520",
+        "title_en": "Street Vendors (excluding Food)",
+        "title_id": "Pedagang Kaki Lima (tidak termasuk Makanan)"
+    },
+    {
+        "level": 2,
+        "code": "96",
+        "title_en": "Refuse Workers and Other Elementary Workers",
+        "title_id": "Pekerja Sampah dan Pekerja Kasar/Dasar Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "961",
+        "title_en": "Refuse Workers",
+        "title_id": "Pekerja Sampah"
+    },
+    {
+        "level": 4,
+        "code": "9611",
+        "title_en": "Garbage and Recycling Collectors",
+        "title_id": "Pengumpul Sampah dan Daur Ulang"
+    },
+    {
+        "level": 4,
+        "code": "9612",
+        "title_en": "Refuse Sorters",
+        "title_id": "Penyortir Sampah"
+    },
+    {
+        "level": 4,
+        "code": "9613",
+        "title_en": "Sweepers and Related Labourers",
+        "title_id": "Penyapu Jalan dan Pekerja Kasar Terkait"
+    },
+    {
+        "level": 3,
+        "code": "962",
+        "title_en": "Other Elementary Workers",
+        "title_id": "Pekerja Dasar Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "9621",
+        "title_en": "Messengers, Package Deliverers and Luggage Porters",
+        "title_id": "Kurir, Pengantar Paket, dan Pengangkut Barang/Bagasi"
+    },
+    {
+        "level": 4,
+        "code": "9622",
+        "title_en": "Odd Job Persons",
+        "title_id": "Pekerja Serabutan"
+    },
+    {
+        "level": 4,
+        "code": "9623",
+        "title_en": "Meter Readers and Vending-machine Collectors",
+        "title_id": "Petugas Pembaca Meter dan Pengumpul Mesin Penjual Otomatis"
+    },
+    {
+        "level": 4,
+        "code": "9624",
+        "title_en": "Water and Firewood Collectors",
+        "title_id": "Pengumpul Air dan Kayu Bakar"
+    },
+    {
+        "level": 4,
+        "code": "9629",
+        "title_en": "Elementary Workers Not Elsewhere Classified",
+        "title_id": "Pekerja Kasar/Dasar Lainnya yang Tidak Diklasifikasikan di Tempat Lain"
+    },
+    {
+        "level": 1,
+        "code": "0",
+        "title_en": "Armed Forces Occupations",
+        "title_id": "Pekerjaan Angkatan Bersenjata"
+    },
+    {
+        "level": 2,
+        "code": "01",
+        "title_en": "Commissioned Armed forces Officers",
+        "title_id": "Perwira Angkatan Bersenjata Berkomisi"
+    },
+    {
+        "level": 3,
+        "code": "011",
+        "title_en": "Commissioned Armed Forces Officers",
+        "title_id": "Perwira Angkatan Bersenjata Berkomisi"
+    },
+    {
+        "level": 4,
+        "code": "0110",
+        "title_en": "Commissioned Armed Forces Officers",
+        "title_id": "Perwira Angkatan Bersenjata Berkomisi"
+    },
+    {
+        "level": 2,
+        "code": "02",
+        "title_en": "Non-commissioned Armed Forces Officers",
+        "title_id": "Perwira Angkatan Bersenjata Non-Komisi"
+    },
+    {
+        "level": 3,
+        "code": "021",
+        "title_en": "Non-commissioned Armed Forces Officers",
+        "title_id": "Perwira Angkatan Bersenjata Non-Komisi"
+    },
+    {
+        "level": 4,
+        "code": "0210",
+        "title_en": "Non-commissioned Armed Forces Officers",
+        "title_id": "Perwira Angkatan Bersenjata Non-Komisi"
+    },
+    {
+        "level": 2,
+        "code": "03",
+        "title_en": "Armed Forces Occupations, Other Ranks",
+        "title_id": "Pekerjaan Angkatan Bersenjata, Pangkat Lainnya"
+    },
+    {
+        "level": 3,
+        "code": "031",
+        "title_en": "Armed Forces Occupations, Other Ranks",
+        "title_id": "Pekerjaan Angkatan Bersenjata, Pangkat Lainnya"
+    },
+    {
+        "level": 4,
+        "code": "0310",
+        "title_en": "Armed Forces Occupations, Other Ranks",
+        "title_id": "Pekerjaan Angkatan Bersenjata, Pangkat Lainnya"
+    }
+]

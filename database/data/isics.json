@@ -1,0 +1,547 @@
+[
+    {
+        "code": "A",
+        "title_en": "Agriculture, forestry and fishing",
+        "title_id": "Pertanian, Kehutanan dan Perikanan"
+    },
+    {
+        "code": "A1",
+        "title_en": "Crop and animal production, hunting and related service activities",
+        "title_id": "Produksi tanaman dan hewan, perburuan dan aktivitas jasa terkait"
+    },
+    {
+        "code": "A2",
+        "title_en": "Foresty and logging",
+        "title_id": "Kehutanan dan penebangan kayu"
+    },
+    {
+        "code": "A3",
+        "title_en": "Fishing and aquaculture",
+        "title_id": "Perikanan dan akuakultur"
+    },
+    {
+        "code": "B",
+        "title_en": "Mining and quarrying",
+        "title_id": "Pertambangan dan penggalian"
+    },
+    {
+        "code": "B1",
+        "title_en": "Mining of coal and lignite",
+        "title_id": "Pertambangan batubara"
+    },
+    {
+        "code": "B2",
+        "title_en": "Extraction of crude petroleum and natural gas",
+        "title_id": "Ekstraksi minyak bumi mentah dan gas alam"
+    },
+    {
+        "code": "B3",
+        "title_en": "Mining of metal ores",
+        "title_id": "Penambangan bijih logam"
+    },
+    {
+        "code": "B4",
+        "title_en": "Other mining and quarrying",
+        "title_id": "Penambangan dan penggalian lainnya"
+    },
+    {
+        "code": "B5",
+        "title_en": "Mining support service activities",
+        "title_id": "Kegiatan jasa pendukung pertambangan"
+    },
+    {
+        "code": "C",
+        "title_en": "Manufacturing",
+        "title_id": "Manufaktur"
+    },
+    {
+        "code": "C1",
+        "title_en": "Manufacture of food products",
+        "title_id": "Pembuatan produk makanan"
+    },
+    {
+        "code": "C2",
+        "title_en": "Manufacture of beverages",
+        "title_id": "Pembuatan minuman"
+    },
+    {
+        "code": "C3",
+        "title_en": "Manufacture of tobacco products",
+        "title_id": "Pembuatan produk tembakau"
+    },
+    {
+        "code": "C4",
+        "title_en": "Manufacture of textiles",
+        "title_id": "Pembuatan tekstil"
+    },
+    {
+        "code": "C5",
+        "title_en": "Manufacture of wearing apparel",
+        "title_id": "Pembuatan pakaian jadi"
+    },
+    {
+        "code": "C6",
+        "title_en": "Manufacture of leather and related products",
+        "title_id": "Pembuatan kulit dan produk terkait"
+    },
+    {
+        "code": "C7",
+        "title_en": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+        "title_id": "Pembuatan kayu dan produk dari kayu dan gabus, kecuali furnitur; Pembuatan barang-barang dari jerami dan bahan anyaman"
+    },
+    {
+        "code": "C8",
+        "title_en": "Manufacture of paper and paper products",
+        "title_id": "Pembuatan kertas dan produk kertas"
+    },
+    {
+        "code": "C9",
+        "title_en": "Printing and reproduction of recorded media",
+        "title_id": "Pencetakan dan reproduksi media rekaman"
+    },
+    {
+        "code": "C10",
+        "title_en": "Manufacture of coke and refined petroleum products",
+        "title_id": "Pembuatan kokas dan produk minyak bumi olahan"
+    },
+    {
+        "code": "C11",
+        "title_en": "Manufacture of chemicals and chemical products",
+        "title_id": "Pembuatan bahan kimia dan produk kimia"
+    },
+    {
+        "code": "C12",
+        "title_en": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+        "title_id": "Pembuatan produk farmasi dasar dan sediaan farmasi"
+    },
+    {
+        "code": "C13",
+        "title_en": "Manufacture of rubber and plastic products",
+        "title_id": "Pembuatan produk karet dan plastik"
+    },
+    {
+        "code": "C14",
+        "title_en": "Manufacture of other non-metallic mineral products",
+        "title_id": "Pembuatan produk mineral non-logam lainnya"
+    },
+    {
+        "code": "C15",
+        "title_en": "Manufacture of basic metals",
+        "title_id": "Pembuatan logam dasar"
+    },
+    {
+        "code": "C16",
+        "title_en": "Manufacture of fabricated metal products, except machinery and equipment",
+        "title_id": "Pembuatan produk logam fabrikasi, kecuali mesin dan peralatan"
+    },
+    {
+        "code": "C17",
+        "title_en": "Manufacture of computer, electronic and optical products",
+        "title_id": "Pembuatan produk komputer, elektronik, dan optik"
+    },
+    {
+        "code": "C18",
+        "title_en": "Manufacture of electrical equipment",
+        "title_id": "Pembuatan peralatan listrik"
+    },
+    {
+        "code": "C19",
+        "title_en": "Manufacture of machinery and equipment n.e.c",
+        "title_id": "Pembuatan mesin dan peralatan lainnya yang tidak diklasifikasikan di tempat lain"
+    },
+    {
+        "code": "C20",
+        "title_en": "Manufacture of motor vehicles, trailers and semi-trailers",
+        "title_id": "Pembuatan kendaraan bermotor, trailer, dan semi-trailer"
+    },
+    {
+        "code": "C21",
+        "title_en": "Manufacture of other transport equipment",
+        "title_id": "Pembuatan peralatan transportasi lainnya"
+    },
+    {
+        "code": "C22",
+        "title_en": "Manufacture of furniture",
+        "title_id": "Pembuatan furnitur"
+    },
+    {
+        "code": "C23",
+        "title_en": "Other manufacturing",
+        "title_id": "Manufaktur lainnya"
+    },
+    {
+        "code": "C24",
+        "title_en": "Repair, maintenance and installation of machinery and equipment",
+        "title_id": "Perbaikan, pemeliharaan, dan pemasangan mesin dan peralatan"
+    },
+    {
+        "code": "D",
+        "title_en": "Electricity, gas, steam and air conditioning supply",
+        "title_id": "Pasokan listrik, gas, uap, dan pendingin udara"
+    },
+    {
+        "code": "D1",
+        "title_en": "Electricity, gas, steam and air conditioning supply",
+        "title_id": "Pasokan listrik, gas, uap, dan pendingin udara"
+    },
+    {
+        "code": "E",
+        "title_en": "Water supply; sewerage, waste management and remediation activities",
+        "title_id": "Pasokan air; Kegiatan pengolahan air limbah, pengelolaan sampah, dan remediasi"
+    },
+    {
+        "code": "E1",
+        "title_en": "Water collection, treatment and supply",
+        "title_id": "Pengumpulan, pengolahan, dan penyediaan air"
+    },
+    {
+        "code": "E2",
+        "title_en": "Sewerage",
+        "title_id": "Pengolahan air limbah"
+    },
+    {
+        "code": "E3",
+        "title_en": "Waste collection, treatment and disposal, and recovery activities",
+        "title_id": "Pengumpulan, pengolahan, dan pembuangan sampah, serta kegiatan pemulihan"
+    },
+    {
+        "code": "E4",
+        "title_en": "Remediation and other waste management service activities",
+        "title_id": "Kegiatan remediasi dan layanan pengelolaan sampah lainnya"
+    },
+    {
+        "code": "F",
+        "title_en": "Konstruksi",
+        "title_id": "Konstruksi"
+    },
+    {
+        "code": "F1",
+        "title_en": "Construction of residential and non-residential buildings",
+        "title_id": "Konstruksi bangunan perumahan dan non-perumahan"
+    },
+    {
+        "code": "F2",
+        "title_en": "Civil engineering",
+        "title_id": "Teknik sipil"
+    },
+    {
+        "code": "F3",
+        "title_en": "Specialized construction activities",
+        "title_id": "Kegiatan konstruksi khusus"
+    },
+    {
+        "code": "G",
+        "title_en": "Wholesale and retail trade",
+        "title_id": "Perdagangan grosir dan ritel"
+    },
+    {
+        "code": "G1",
+        "title_en": "Wholesale trade",
+        "title_id": "Perdagangan grosir"
+    },
+    {
+        "code": "G2",
+        "title_en": "Retail trade",
+        "title_id": "Perdagangan ritel"
+    },
+    {
+        "code": "H",
+        "title_en": "Transportation and storage",
+        "title_id": "Transportasi dan penyimpanan"
+    },
+    {
+        "code": "H1",
+        "title_en": "Land transport and transport via pipelines",
+        "title_id": "Transportasi darat dan transportasi melalui pipa"
+    },
+    {
+        "code": "H2",
+        "title_en": "Water transport",
+        "title_id": "Transportasi air"
+    },
+    {
+        "code": "H3",
+        "title_en": "Air transport",
+        "title_id": "Transportasi udara"
+    },
+    {
+        "code": "H4",
+        "title_en": "Warehousing and support activities for transportation",
+        "title_id": "Pergudangan dan kegiatan pendukung transportasi"
+    },
+    {
+        "code": "H5",
+        "title_en": "Postal and courier activities",
+        "title_id": "Kegiatan pos dan kurir"
+    },
+    {
+        "code": "I",
+        "title_en": "Accommodation and food service activities",
+        "title_id": "Kegiatan akomodasi dan layanan makanan"
+    },
+    {
+        "code": "I1",
+        "title_en": "Accommodation",
+        "title_id": "Akomodasi"
+    },
+    {
+        "code": "I2",
+        "title_en": "Food and beverage service activities",
+        "title_id": "Kegiatan layanan makanan dan minuman"
+    },
+    {
+        "code": "J",
+        "title_en": "Publishing, broadcasting, and content production and distribution activities",
+        "title_id": "Kegiatan penerbitan, penyiaran, dan produksi serta distribusi konten"
+    },
+    {
+        "code": "J1",
+        "title_en": "Publishing activities",
+        "title_id": "Kegiatan penerbitan"
+    },
+    {
+        "code": "J2",
+        "title_en": "Motion picture, video and television programme production, sound recording and music publishing activities",
+        "title_id": "Produksi film, video, dan program televisi, perekaman suara, dan penerbitan musik"
+    },
+    {
+        "code": "J3",
+        "title_en": "Programming, broadcasting, news agency and other content distribution activities",
+        "title_id": "Kegiatan pemrograman, penyiaran, kantor berita, dan distribusi konten lainnya"
+    },
+    {
+        "code": "K",
+        "title_en": "Telecommunications, computer programming, consultancy, computing infrastructure, and other information service activities",
+        "title_id": "Kegiatan telekomunikasi, pemrograman komputer, konsultasi, infrastruktur komputasi, dan layanan informasi lainnya"
+    },
+    {
+        "code": "K1",
+        "title_en": "Telecommunications",
+        "title_id": "Telekomunikasi"
+    },
+    {
+        "code": "K2",
+        "title_en": "Computer programming, consultancy and related activities",
+        "title_id": "Pemrograman komputer, konsultasi, dan kegiatan terkait"
+    },
+    {
+        "code": "K3",
+        "title_en": "Computing infrastructure, data processing, hosting, and other information service activities",
+        "title_id": "Infrastruktur komputasi, pengolahan data, hosting, dan layanan informasi lainnya Kegiatan"
+    },
+    {
+        "code": "L",
+        "title_en": "Financial and insurance activities",
+        "title_id": "Kegiatan keuangan dan asuransi"
+    },
+    {
+        "code": "L1",
+        "title_en": "Financial service activities, except insurance and pension funding",
+        "title_id": "Kegiatan jasa keuangan, kecuali asuransi dan pendanaan pensiun"
+    },
+    {
+        "code": "L2",
+        "title_en": "Insurance, reinsurance and pension funding, except compulsory social security",
+        "title_id": "Asuransi, reasuransi, dan pendanaan pensiun, kecuali jaminan sosial wajib"
+    },
+    {
+        "code": "L3",
+        "title_en": "Activities auxiliary to financial service and insurance activities",
+        "title_id": "Kegiatan pendukung kegiatan jasa keuangan dan asuransi"
+    },
+    {
+        "code": "M",
+        "title_en": "Real estate activities",
+        "title_id": "Kegiatan real estat"
+    },
+    {
+        "code": "M1",
+        "title_en": "Real estate activities",
+        "title_id": "Kegiatan real estat"
+    },
+    {
+        "code": "N",
+        "title_en": "Professional, scientific and technical activities",
+        "title_id": "Kegiatan profesional, ilmiah, dan teknis"
+    },
+    {
+        "code": "N1",
+        "title_en": "Legal and accounting activities",
+        "title_id": "Kegiatan hukum dan akuntansi"
+    },
+    {
+        "code": "N2",
+        "title_en": "Activities of head offices; management consultancy activities",
+        "title_id": "Kegiatan kantor pusat; kegiatan konsultasi manajemen"
+    },
+    {
+        "code": "N3",
+        "title_en": "Architectural and engineering activities; technical testing and analysis",
+        "title_id": "Kegiatan arsitektur dan teknik; pengujian dan analisis teknis"
+    },
+    {
+        "code": "N4",
+        "title_en": "Scientific research and development",
+        "title_id": "Penelitian dan pengembangan ilmiah"
+    },
+    {
+        "code": "N5",
+        "title_en": "Activities of advertising, market research and public relations",
+        "title_id": "Kegiatan periklanan, riset pasar, dan hubungan masyarakat"
+    },
+    {
+        "code": "N6",
+        "title_en": "Other professional, scientific and technical activities",
+        "title_id": "Kegiatan profesional, ilmiah, dan teknis lainnya"
+    },
+    {
+        "code": "N7",
+        "title_en": "Veterinary activities",
+        "title_id": "Kegiatan kedokteran hewan"
+    },
+    {
+        "code": "O",
+        "title_en": "Administrative and support service activities",
+        "title_id": "Kegiatan administrasi dan layanan pendukung"
+    },
+    {
+        "code": "O1",
+        "title_en": "Rental and leasing activities",
+        "title_id": "Kegiatan penyewaan dan leasing"
+    },
+    {
+        "code": "O2",
+        "title_en": "Employment activities",
+        "title_id": "Kegiatan ketenagakerjaan"
+    },
+    {
+        "code": "O3",
+        "title_en": "Travel agency, tour operator, and other travel related activities",
+        "title_id": "Agen perjalanan, operator tur, dan kegiatan terkait perjalanan lainnya"
+    },
+    {
+        "code": "O4",
+        "title_en": "Investigation and security activities",
+        "title_id": "Kegiatan investigasi dan keamanan"
+    },
+    {
+        "code": "O5",
+        "title_en": "Services to buildings and landscape activities",
+        "title_id": "Layanan untuk bangunan dan kegiatan lansekap"
+    },
+    {
+        "code": "O6",
+        "title_en": "Office administrative, office support and other business support activities",
+        "title_id": "Administrasi kantor, dukungan kantor, dan kegiatan pendukung bisnis lainnya"
+    },
+    {
+        "code": "P",
+        "title_en": "Public administration and defence; compulsory social security",
+        "title_id": "Administrasi publik dan pertahanan; jaminan sosial wajib"
+    },
+    {
+        "code": "P1",
+        "title_en": "Public administration and defence; compulsory social security",
+        "title_id": "Administrasi publik dan pertahanan; Jaminan sosial wajib"
+    },
+    {
+        "code": "Q",
+        "title_en": "Education",
+        "title_id": "Pendidikan"
+    },
+    {
+        "code": "Q1",
+        "title_en": "Education",
+        "title_id": "Pendidikan"
+    },
+    {
+        "code": "R",
+        "title_en": "Human health and social work activities",
+        "title_id": "Kesehatan manusia dan kegiatan pekerjaan sosial"
+    },
+    {
+        "code": "R1",
+        "title_en": "Human health activities",
+        "title_id": "Kesehatan manusia"
+    },
+    {
+        "code": "R2",
+        "title_en": "Residential care activities",
+        "title_id": "Kegiatan perawatan residensial"
+    },
+    {
+        "code": "R3",
+        "title_en": "Social work activities without accommodation",
+        "title_id": "Kegiatan pekerjaan sosial tanpa akomodasi"
+    },
+    {
+        "code": "S",
+        "title_en": "Arts, sports and recreation",
+        "title_id": "Seni, olahraga, dan rekreasi"
+    },
+    {
+        "code": "S1",
+        "title_en": "Arts creation and performing arts activities",
+        "title_id": "Kegiatan penciptaan seni dan seni pertunjukan"
+    },
+    {
+        "code": "S2",
+        "title_en": "Library, archives, museum and other cultural activities",
+        "title_id": "Perpustakaan, arsip, museum, dan kegiatan budaya lainnya"
+    },
+    {
+        "code": "S3",
+        "title_en": "Gambling and betting activities",
+        "title_id": "Kegiatan perjudian dan taruhan"
+    },
+    {
+        "code": "S4",
+        "title_en": "Sports activities and amusement and recreation activities",
+        "title_id": "Kegiatan olahraga dan kegiatan hiburan dan rekreasi"
+    },
+    {
+        "code": "T",
+        "title_en": "Other service activities",
+        "title_id": "Kegiatan layanan lainnya"
+    },
+    {
+        "code": "T1",
+        "title_en": "Activities of membership organizations",
+        "title_id": "Kegiatan organisasi keanggotaan"
+    },
+    {
+        "code": "T2",
+        "title_en": "Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",
+        "title_id": "Perbaikan dan pemeliharaan komputer, barang pribadi dan rumah tangga, serta kendaraan bermotor dan sepeda motor"
+    },
+    {
+        "code": "T3",
+        "title_en": "Personal service activities",
+        "title_id": "Kegiatan layanan pribadi"
+    },
+    {
+        "code": "U",
+        "title_en": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+        "title_id": "Kegiatan rumah tangga sebagai pemberi kerja; kegiatan produksi barang dan jasa yang tidak terdiferensiasi dari rumah tangga untuk penggunaan sendiri"
+    },
+    {
+        "code": "U1",
+        "title_en": "Activities of households as employers of domestic personne",
+        "title_id": "Kegiatan rumah tangga sebagai pemberi kerja tenaga kerja domestik"
+    },
+    {
+        "code": "U2",
+        "title_en": "Undifferentiated goods- and services-producing activities of private households for own use",
+        "title_id": "Kegiatan produksi barang dan jasa yang tidak terdiferensiasi dari rumah tangga swasta untuk penggunaan sendiri"
+    },
+    {
+        "code": "V",
+        "title_en": "Activities of extraterritorial organizations and bodies",
+        "title_id": "Kegiatan organisasi dan badan ekstrateritorial"
+    },
+    {
+        "code": "V1",
+        "title_en": "Activities of extraterritorial organizations and bodies",
+        "title_id": "Kegiatan organisasi dan badan ekstrateritorial"
+    }
+]

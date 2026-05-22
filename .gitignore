@@ -22,3 +22,14 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Scratch & temporary analysis scripts
+/scratch/
+
+# Report & documentation files (local only)
+report_*.txt
+panduan_uji_coba_kuesioner.txt
+
+# Large archive & spreadsheet files
+*.tar
+*.xlsx
