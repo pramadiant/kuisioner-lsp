@@ -168,14 +168,16 @@ class RespondentsTable
             ->headerActions([
                 \Filament\Actions\ExportAction::make()
                     ->exporter(\App\Filament\Exports\RespondentExporter::class)
-                    ->label('Export Semua Data (CSV)'),
+                    ->label('Export Semua Data (CSV)')
+                    ->columnMappingColumns(3),
             ])
             ->bulkActions([
                 \Filament\Actions\BulkActionGroup::make([
                     \Filament\Actions\DeleteBulkAction::make(),
                     \Filament\Actions\ExportBulkAction::make()
                         ->exporter(\App\Filament\Exports\RespondentExporter::class)
-                        ->label('Export Terpilih (CSV)'),
+                        ->label('Export Terpilih (CSV)')
+                        ->columnMappingColumns(3),
                 ]),
             ]);
     }
