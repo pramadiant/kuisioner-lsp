@@ -14,6 +14,10 @@ class RespondentsTable
     public static function configure(Table $table): Table
     {
         return $table
+            // Default: tampilkan 25 baris per halaman, opsi 25/50/100
+            ->paginationPageOptions([25, 50, 100])
+            // Default sort: submit terbaru tampil paling atas
+            ->defaultSort('created_at', 'desc')
             ->columns([
                 TextColumn::make('email')
                     ->label('Email address')
@@ -115,17 +119,24 @@ class RespondentsTable
                     ->searchable(),
                 TextColumn::make('kesesuaian_bidang_bnsp')
                     ->searchable(),
+
+                // Kolom metadata — disembunyikan default, bisa di-toggle karena
+                // merupakan info teknis (kapan data masuk/diubah), bukan data survei.
+                // Admin bisa mengaktifkannya via ikon kolom (⊞) jika diperlukan.
                 TextColumn::make('created_at')
-                    ->dateTime()
+                    ->label('Tanggal Submit')
+                    ->dateTime('d M Y, H:i')
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
                 TextColumn::make('updated_at')
-                    ->dateTime()
+                    ->label('Terakhir Diperbarui')
+                    ->dateTime('d M Y, H:i')
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
             ])
             ->filters([
                 \Filament\Tables\Filters\Filter::make('created_at')
+                    ->label('Tanggal Submit')
                     ->form([
                         \Filament\Forms\Components\DatePicker::make('created_from')->label('Dari Tanggal'),
                         \Filament\Forms\Components\DatePicker::make('created_until')->label('Sampai Tanggal'),
